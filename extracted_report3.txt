@@ -1,0 +1,94 @@
+
+
+
+
+
+
+Institute of Engineering and Technology (IET)
+
+Minor Project Mid-Term Report
+
+ Project Title
+
+
+PREPARED BY
+XYZ (2023BTech000)
+ABC (2023BTech000)
+
+
+FACULTY GUIDE
+
+Dr. 
+Assistant Professor | Computer Science and Engineering
+
+
+
+March 2026
+
+TABLE OF CONTENTS
+Abstract
+Introduction
+Problem Statement
+Methodology and Theoretical Background
+Architecture and Key Design Decisions
+Work Completed Till Mid-Term
+6.1 Research and Design
+6.2 Backend 
+6.3 Frontend 
+Plan For Remaining Project Timeline
+Risks and Mitigation Strategies
+Appendix
+A.1: 
+A.2: References
+
+Abstract
+
+Introduction
+
+
+
+
+
+Problem Statement
+
+Methodology and Theoretical Background
+
+
+
+High Level System Design
+Tech Stack
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Additional Design
+
+Pictorial Representation of work
+
+………………
+
+……………….
+
+As per your project work 
+
+Plan for Remaining Project Timeline
+
+Appendix
+References
+Ghjgj
+Hgfghjg
+hgjhgj

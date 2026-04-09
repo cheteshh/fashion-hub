@@ -1,0 +1,7557 @@
+[
+  {
+    "id": "1",
+    "name": "Basic Crew Tee",
+    "brand": "H&M",
+    "color": "White",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=400&h=500&fit=crop",
+    "category": "T-Shirts",
+    "gender": "Men",
+    "rating": 4.5,
+    "reviews": 3093,
+    "prices": {
+      "myntra": 420,
+      "amazon": 540,
+      "flipkart": 740,
+      "ajio": 840
+    },
+    "priceHistory": [
+      {
+        "date": "Oct",
+        "price": 1210
+      },
+      {
+        "date": "Nov",
+        "price": 930
+      },
+      {
+        "date": "Dec",
+        "price": 650
+      },
+      {
+        "date": "Jan",
+        "price": 650
+      },
+      {
+        "date": "Feb",
+        "price": 650
+      },
+      {
+        "date": "Mar",
+        "price": 650
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "name": "Essential V-Neck Tee",
+    "brand": "H&M",
+    "color": "Navy",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "image": "https://images.unsplash.com/photo-1583743814966-8936f5b7be1a?w=400&h=500&fit=crop",
+    "category": "T-Shirts",
+    "gender": "Men",
+    "rating": 4.1,
+    "reviews": 607,
+    "prices": {
+      "myntra": 540,
+      "amazon": 920,
+      "flipkart": 670,
+      "ajio": 850
+    },
+    "priceHistory": [
+      {
+        "date": "Oct",
+        "price": 1070
+      },
+      {
+        "date": "Nov",
+        "price": 850
+      },
+      {
+        "date": "Dec",
+        "price": 750
+      },
+      {
+        "date": "Jan",
+        "price": 750
+      },
+      {
+        "date": "Feb",
+        "price": 750
+      },
+      {
+        "date": "Mar",
+        "price": 750
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "name": "Dri-FIT Training Tee",
+    "brand": "Nike",
+    "color": "Black",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "image": "https://images.unsplash.com/photo-1503341504253-dff4815485f1?w=400&h=500&fit=crop",
+    "category": "T-Shirts",
+    "gender": "Men",
+    "rating": 4.6,
+    "reviews": 2589,
+    "prices": {
+      "myntra": 1590,
+      "amazon": 1480,
+      "flipkart": 1750,
+      "ajio": 1330
+    },
+    "priceHistory": [
+      {
+        "date": "Oct",
+        "price": 1690
+      },
+      {
+        "date": "Nov",
+        "price": 1550
+      },
+      {
+        "date": "Dec",
+        "price": 1550
+      },
+      {
+        "date": "Jan",
+        "price": 1550
+      },
+      {
+        "date": "Feb",
+        "price": 1550
+      },
+      {
+        "date": "Mar",
+        "price": 1550
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "name": "Sportswear Club Tee",
+    "brand": "Nike",
+    "color": "Grey",
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "image": "https://images.unsplash.com/photo-1618354691792-d1d42acfd860?w=400&h=500&fit=crop",
+    "category": "T-Shirts",
+    "gender": "Men",
+    "rating": 4.5,
+    "reviews": 42,
+    "prices": {
+      "myntra": 1640,
+      "amazon": 1760,
+      "flipkart": 1940,
+      "ajio": 2040
+    },
+    "priceHistory": [
+      {
+        "date": "Oct",
+        "price": 2240
+      },
+      {
+        "date": "Nov",
+        "price": 2140
+      },
+      {
+        "date": "Dec",
+        "price": 2000
+      },
+      {
+        "date": "Jan",
+        "price": 1850
+      },
+      {
+        "date": "Feb",
+        "price": 1850
+      },
+      {
+        "date": "Mar",
+        "price": 1850
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "name": "3-Stripes Tee",
+    "brand": "Adidas",
+    "color": "White",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "image": "https://images.unsplash.com/photo-1627225924765-552d49cf47ad?w=400&h=500&fit=crop",
+    "category": "T-Shirts",
+    "gender": "Men",
+    "rating": 4.4,
+    "reviews": 1640,
+    "prices": {
+      "myntra": 1430,
+      "amazon": 1240,
+      "flipkart": 1180,
+      "ajio": 1560
+    },
+    "priceHistory": [
+      {
+        "date": "Oct",
+        "price": 2280
+      },
+      {
+        "date": "Nov",
+        "price": 2220
+      },
+      {
+        "date": "Dec",
+        "price": 2120
+      },
+      {
+        "date": "Jan",
+        "price": 2040
+      },
+      {
+        "date": "Feb",
+        "price": 1820
+      },
+      {
+        "date": "Mar",
+        "price": 1710
+      }
+    ]
+  },
+  {
+    "id": "6",
+    "name": "Trefoil Graphic Tee",
+    "brand": "Adidas",
+    "color": "Black",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "image": "https://images.unsplash.com/photo-1559582798-678dfc71ccd8?w=400&h=500&fit=crop",
+    "category": "T-Shirts",
+    "gender": "Men",
+    "rating": 4.3,
+    "reviews": 1481,
+    "prices": {
+      "myntra": 1830,
+      "amazon": 1550,
+      "flipkart": 1420,
+      "ajio": 1700
+    },
+    "priceHistory": [
+      {
+        "date": "Oct",
+        "price": 2410
+      },
+      {
+        "date": "Nov",
+        "price": 2270
+      },
+      {
+        "date": "Dec",
+        "price": 2000
+      },
+      {
+        "date": "Jan",
+        "price": 1850
+      },
+      {
+        "date": "Feb",
+        "price": 1650
+      },
+      {
+        "date": "Mar",
+        "price": 1650
+      }
+    ]
+  },
+  {
+    "id": "7",
+    "name": "Textured Polo Tee",
+    "brand": "Zara",
+    "color": "Olive",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=400&h=500&fit=crop",
+    "category": "T-Shirts",
+    "gender": "Men",
+    "rating": 4.8,
+    "reviews": 2437,
+    "prices": {
+      "myntra": 2090,
+      "amazon": 2210,
+      "flipkart": 1980,
+      "ajio": 1840
+    },
+    "priceHistory": [
+      {
+        "date": "Oct",
+        "price": 2320
+      },
+      {
+        "date": "Nov",
+        "price": 2130
+      },
+      {
+        "date": "Dec",
+        "price": 2080
+      },
+      {
+        "date": "Jan",
+        "price": 2050
+      },
+      {
+        "date": "Feb",
+        "price": 2050
+      },
+      {
+        "date": "Mar",
+        "price": 2050
+      }
+    ]
+  },
+  {
+    "id": "8",
+    "name": "Logo Print Tee",
+    "brand": "Levi's",
+    "color": "Blue",
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ],
+    "image": "https://images.unsplash.com/photo-1583743814966-8936f5b7be1a?w=400&h=500&fit=crop",
+    "category": "T-Shirts",
+    "gender": "Men",
+    "rating": 4.6,
+    "reviews": 1312,
+    "prices": {
+      "myntra": 760,
+      "amazon": 840,
+      "flipkart": 990,
+      "ajio": 1150
+    },
+    "priceHistory": [
+      {
+        "date": "Oct",
+        "price": 1860
+      },
+      {
+        "date": "Nov",
+        "price": 1810
+      },
+      {
+        "date": "Dec",
+        "price": 1740
+      },
+      {
+        "date": "Jan",
+        "price": 1500
+      },
+      {
+        "date": "Feb",
+        "price": 1360
+      },
+      {
+        "date": "Mar",
+        "price": 1290
+      }
+    ]
+  },
+  {
+    "id": "9",
+    "name": "Oversized Drop Shoulder Tee",
+    "brand": "Urbanic",
+    "color": "Cream",
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "image": "https://images.unsplash.com/photo-1503341504253-dff4815485f1?w=400&h=500&fit=crop",
+    "category": "T-Shirts",
+    "gender": "Men",
+    "rating": 4.3,
+    "reviews": 807,
+    "prices": {
+      "myntra": 790,
+      "amazon": 1040,
+      "flipkart": 670,
+      "ajio": 950
+    },
+    "priceHistory": [
+      {
+        "date": "Oct",
+        "price": 1040
+      },
+      {
+        "date": "Nov",
+        "price": 850
+      },
+      {
+        "date": "Dec",
+        "price": 850
+      },
+      {
+        "date": "Jan",
+        "price": 850
+      },
+      {
+        "date": "Feb",
+        "price": 850
+      },
+      {
+        "date": "Mar",
+        "price": 850
+      }
+    ]
+  },
+  {
+    "id": "10",
+    "name": "Striped Polo T-Shirt",
+    "brand": "Ralph Lauren",
+    "color": "Navy",
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ],
+    "image": "https://images.unsplash.com/photo-1618354691792-d1d42acfd860?w=400&h=500&fit=crop",
+    "category": "T-Shirts",
+    "gender": "Men",
+    "rating": 4.7,
+    "reviews": 2593,
+    "prices": {
+      "myntra": 4060,
+      "amazon": 4150,
+      "flipkart": 4440,
+      "ajio": 4320
+    },
+    "priceHistory": [
+      {
+        "date": "Oct",
+        "price": 4610
+      },
+      {
+        "date": "Nov",
+        "price": 4330
+      },
+      {
+        "date": "Dec",
+        "price": 4250
+      },
+      {
+        "date": "Jan",
+        "price": 4250
+      },
+      {
+        "date": "Feb",
+        "price": 4250
+      },
+      {
+        "date": "Mar",
+        "price": 4250
+      }
+    ]
+  },
+  {
+    "id": "11",
+    "name": "Softspun Crewneck Tee",
+    "brand": "GAP",
+    "color": "White",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "image": "https://images.unsplash.com/photo-1627225924765-552d49cf47ad?w=400&h=500&fit=crop",
+    "category": "T-Shirts",
+    "gender": "Unisex",
+    "rating": 4.4,
+    "reviews": 2574,
+    "prices": {
+      "myntra": 1110,
+      "amazon": 1210,
+      "flipkart": 960,
+      "ajio": 830
+    },
+    "priceHistory": [
+      {
+        "date": "Oct",
+        "price": 1960
+      },
+      {
+        "date": "Nov",
+        "price": 1700
+      },
+      {
+        "date": "Dec",
+        "price": 1610
+      },
+      {
+        "date": "Jan",
+        "price": 1550
+      },
+      {
+        "date": "Feb",
+        "price": 1380
+      },
+      {
+        "date": "Mar",
+        "price": 1190
+      }
+    ]
+  },
+  {
+    "id": "12",
+    "name": "Printed Slogan Tee",
+    "brand": "Mango",
+    "color": "Black",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "image": "https://images.unsplash.com/photo-1559582798-678dfc71ccd8?w=400&h=500&fit=crop",
+    "category": "T-Shirts",
+    "gender": "Unisex",
+    "rating": 3.8,
+    "reviews": 2017,
+    "prices": {
+      "myntra": 1030,
+      "amazon": 1200,
+      "flipkart": 1340,
+      "ajio": 1410
+    },
+    "priceHistory": [
+      {
+        "date": "Oct",
+        "price": 2040
+      },
+      {
+        "date": "Nov",
+        "price": 1840
+      },
+      {
+        "date": "Dec",
+        "price": 1650
+      },
+      {
+        "date": "Jan",
+        "price": 1400
+      },
+      {
+        "date": "Feb",
+        "price": 1250
+      },
+      {
+        "date": "Mar",
+        "price": 1250
+      }
+    ]
+  },
+  {
+    "id": "13",
+    "name": "Fitted Rib Tee",
+    "brand": "H&M",
+    "color": "Pink",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=400&h=500&fit=crop",
+    "category": "T-Shirts",
+    "gender": "Women",
+    "rating": 4,
+    "reviews": 179,
+    "prices": {
+      "myntra": 460,
+      "amazon": 590,
+      "flipkart": 860,
+      "ajio": 730
+    },
+    "priceHistory": [
+      {
+        "date": "Oct",
+        "price": 1220
+      },
+      {
+        "date": "Nov",
+        "price": 980
+      },
+      {
+        "date": "Dec",
+        "price": 890
+      },
+      {
+        "date": "Jan",
+        "price": 670
+      },
+      {
+        "date": "Feb",
+        "price": 650
+      },
+      {
+        "date": "Mar",
+        "price": 650
+      }
+    ]
+  },
+  {
+    "id": "14",
+    "name": "Crop Logo Tee",
+    "brand": "Zara",
+    "color": "White",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "image": "https://images.unsplash.com/photo-1583743814966-8936f5b7be1a?w=400&h=500&fit=crop",
+    "category": "T-Shirts",
+    "gender": "Women",
+    "rating": 4.2,
+    "reviews": 2577,
+    "prices": {
+      "myntra": 1750,
+      "amazon": 1350,
+      "flipkart": 1590,
+      "ajio": 1450
+    },
+    "priceHistory": [
+      {
+        "date": "Oct",
+        "price": 1990
+      },
+      {
+        "date": "Nov",
+        "price": 1940
+      },
+      {
+        "date": "Dec",
+        "price": 1810
+      },
+      {
+        "date": "Jan",
+        "price": 1730
+      },
+      {
+        "date": "Feb",
+        "price": 1550
+      },
+      {
+        "date": "Mar",
+        "price": 1550
+      }
+    ]
+  },
+  {
+    "id": "15",
+    "name": "Tie-Dye Graphic Tee",
+    "brand": "Urbanic",
+    "color": "Multicolor",
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "image": "https://images.unsplash.com/photo-1503341504253-dff4815485f1?w=400&h=500&fit=crop",
+    "category": "T-Shirts",
+    "gender": "Women",
+    "rating": 3.9,
+    "reviews": 3182,
+    "prices": {
+      "myntra": 1070,
+      "amazon": 700,
+      "flipkart": 850,
+      "ajio": 960
+    },
+    "priceHistory": [
+      {
+        "date": "Oct",
+        "price": 1820
+      },
+      {
+        "date": "Nov",
+        "price": 1630
+      },
+      {
+        "date": "Dec",
+        "price": 1500
+      },
+      {
+        "date": "Jan",
+        "price": 1410
+      },
+      {
+        "date": "Feb",
+        "price": 1230
+      },
+      {
+        "date": "Mar",
+        "price": 1180
+      }
+    ]
+  },
+  {
+    "id": "16",
+    "name": "Printed Boxy Tee",
+    "brand": "Nykaa Fashion",
+    "color": "Lavender",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "image": "https://images.unsplash.com/photo-1618354691792-d1d42acfd860?w=400&h=500&fit=crop",
+    "category": "T-Shirts",
+    "gender": "Women",
+    "rating": 4.2,
+    "reviews": 1705,
+    "prices": {
+      "myntra": 790,
+      "amazon": 560,
+      "flipkart": 650,
+      "ajio": 950
+    },
+    "priceHistory": [
+      {
+        "date": "Oct",
+        "price": 1760
+      },
+      {
+        "date": "Nov",
+        "price": 1660
+      },
+      {
+        "date": "Dec",
+        "price": 1450
+      },
+      {
+        "date": "Jan",
+        "price": 1340
+      },
+      {
+        "date": "Feb",
+        "price": 1150
+      },
+      {
+        "date": "Mar",
+        "price": 990
+      }
+    ]
+  },
+  {
+    "id": "17",
+    "name": "Graphic Logo Tee",
+    "brand": "GAP",
+    "color": "Red",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "image": "https://images.unsplash.com/photo-1627225924765-552d49cf47ad?w=400&h=500&fit=crop",
+    "category": "T-Shirts",
+    "gender": "Men",
+    "rating": 4.3,
+    "reviews": 2527,
+    "prices": {
+      "myntra": 940,
+      "amazon": 1100,
+      "flipkart": 810,
+      "ajio": 690
+    },
+    "priceHistory": [
+      {
+        "date": "Oct",
+        "price": 1430
+      },
+      {
+        "date": "Nov",
+        "price": 1210
+      },
+      {
+        "date": "Dec",
+        "price": 1030
+      },
+      {
+        "date": "Jan",
+        "price": 900
+      },
+      {
+        "date": "Feb",
+        "price": 900
+      },
+      {
+        "date": "Mar",
+        "price": 900
+      }
+    ]
+  },
+  {
+    "id": "18",
+    "name": "Washed Effect Tee",
+    "brand": "Mango",
+    "color": "Stone",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "image": "https://images.unsplash.com/photo-1559582798-678dfc71ccd8?w=400&h=500&fit=crop",
+    "category": "T-Shirts",
+    "gender": "Men",
+    "rating": 3.8,
+    "reviews": 2150,
+    "prices": {
+      "myntra": 1560,
+      "amazon": 1260,
+      "flipkart": 1400,
+      "ajio": 1140
+    },
+    "priceHistory": [
+      {
+        "date": "Oct",
+        "price": 1600
+      },
+      {
+        "date": "Nov",
+        "price": 1490
+      },
+      {
+        "date": "Dec",
+        "price": 1370
+      },
+      {
+        "date": "Jan",
+        "price": 1350
+      },
+      {
+        "date": "Feb",
+        "price": 1350
+      },
+      {
+        "date": "Mar",
+        "price": 1350
+      }
+    ]
+  },
+  {
+    "id": "19",
+    "name": "Ruched Crop Tee",
+    "brand": "Mango",
+    "color": "White",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=400&h=500&fit=crop",
+    "category": "T-Shirts",
+    "gender": "Women",
+    "rating": 3.9,
+    "reviews": 2554,
+    "prices": {
+      "myntra": 1280,
+      "amazon": 1660,
+      "flipkart": 1370,
+      "ajio": 1540
+    },
+    "priceHistory": [
+      {
+        "date": "Oct",
+        "price": 2180
+      },
+      {
+        "date": "Nov",
+        "price": 1960
+      },
+      {
+        "date": "Dec",
+        "price": 1870
+      },
+      {
+        "date": "Jan",
+        "price": 1740
+      },
+      {
+        "date": "Feb",
+        "price": 1460
+      },
+      {
+        "date": "Mar",
+        "price": 1450
+      }
+    ]
+  },
+  {
+    "id": "20",
+    "name": "Classic Pocket Tee",
+    "brand": "GAP",
+    "color": "Blue",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "image": "https://images.unsplash.com/photo-1583743814966-8936f5b7be1a?w=400&h=500&fit=crop",
+    "category": "T-Shirts",
+    "gender": "Women",
+    "rating": 4.3,
+    "reviews": 356,
+    "prices": {
+      "myntra": 940,
+      "amazon": 770,
+      "flipkart": 1040,
+      "ajio": 660
+    },
+    "priceHistory": [
+      {
+        "date": "Oct",
+        "price": 1650
+      },
+      {
+        "date": "Nov",
+        "price": 1470
+      },
+      {
+        "date": "Dec",
+        "price": 1410
+      },
+      {
+        "date": "Jan",
+        "price": 1360
+      },
+      {
+        "date": "Feb",
+        "price": 1300
+      },
+      {
+        "date": "Mar",
+        "price": 1020
+      }
+    ]
+  },
+  {
+    "id": "21",
+    "name": "Slim Fit Cotton Shirt",
+    "brand": "H&M",
+    "color": "White",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "image": "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?w=400&h=500&fit=crop",
+    "category": "Shirts",
+    "gender": "Men",
+    "rating": 4,
+    "reviews": 99,
+    "prices": {
+      "myntra": 950,
+      "amazon": 1220,
+      "flipkart": 1310,
+      "ajio": 1100
+    },
+    "priceHistory": [
+      {
+        "date": "Oct",
+        "price": 1940
+      },
+      {
+        "date": "Nov",
+        "price": 1840
+      },
+      {
+        "date": "Dec",
+        "price": 1690
+      },
+      {
+        "date": "Jan",
+        "price": 1570
+      },
+      {
+        "date": "Feb",
+        "price": 1480
+      },
+      {
+        "date": "Mar",
+        "price": 1220
+      }
+    ]
+  },
+  {
+    "id": "22",
+    "name": "Oxford Shirt",
+    "brand": "H&M",
+    "color": "Blue",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "image": "https://images.unsplash.com/photo-1602810316498-ab67cf68c8e1?w=400&h=500&fit=crop",
+    "category": "Shirts",
+    "gender": "Men",
+    "rating": 4.1,
+    "reviews": 2308,
+    "prices": {
+      "myntra": 1440,
+      "amazon": 1250,
+      "flipkart": 1140,
+      "ajio": 1520
+    },
+    "priceHistory": [
+      {
+        "date": "Oct",
+        "price": 1810
+      },
+      {
+        "date": "Nov",
+        "price": 1680
+      },
+      {
+        "date": "Dec",
+        "price": 1500
+      },
+      {
+        "date": "Jan",
+        "price": 1450
+      },
+      {
+        "date": "Feb",
+        "price": 1350
+      },
+      {
+        "date": "Mar",
+        "price": 1350
+      }
+    ]
+  },
+  {
+    "id": "23",
+    "name": "Linen Blend Shirt",
+    "brand": "Zara",
+    "color": "Beige",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "image": "https://images.unsplash.com/photo-1607345366928-199ea26cfe3e?w=400&h=500&fit=crop",
+    "category": "Shirts",
+    "gender": "Men",
+    "rating": 4.4,
+    "reviews": 708,
+    "prices": {
+      "myntra": 2860,
+      "amazon": 2940,
+      "flipkart": 3100,
+      "ajio": 3270
+    },
+    "priceHistory": [
+      {
+        "date": "Oct",
+        "price": 3730
+      },
+      {
+        "date": "Nov",
+        "price": 3440
+      },
+      {
+        "date": "Dec",
+        "price": 3300
+      },
+      {
+        "date": "Jan",
+        "price": 3050
+      },
+      {
+        "date": "Feb",
+        "price": 3050
+      },
+      {
+        "date": "Mar",
+        "price": 3050
+      }
+    ]
+  },
+  {
+    "id": "24",
+    "name": "Printed Casual Shirt",
+    "brand": "Zara",
+    "color": "Floral",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "image": "https://images.unsplash.com/photo-1625910513413-5fc830c70cb0?w=400&h=500&fit=crop",
+    "category": "Shirts",
+    "gender": "Men",
+    "rating": 4,
+    "reviews": 1793,
+    "prices": {
+      "myntra": 3490,
+      "amazon": 3640,
+      "flipkart": 3320,
+      "ajio": 3750
+    },
+    "priceHistory": [
+      {
+        "date": "Oct",
+        "price": 4050
+      },
+      {
+        "date": "Nov",
+        "price": 3910
+      },
+      {
+        "date": "Dec",
+        "price": 3770
+      },
+      {
+        "date": "Jan",
+        "price": 3710
+      },
+      {
+        "date": "Feb",
+        "price": 3560
+      },
+      {
+        "date": "Mar",
+        "price": 3550
+      }
+    ]
+  },
+  {
+    "id": "25",
+    "name": "Western Denim Shirt",
+    "brand": "Levi's",
+    "color": "Blue",
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ],
+    "image": "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?w=400&h=500&fit=crop",
+    "category": "Shirts",
+    "gender": "Men",
+    "rating": 4.2,
+    "reviews": 2417,
+    "prices": {
+      "myntra": 2330,
+      "amazon": 2490,
+      "flipkart": 2640,
+      "ajio": 2740
+    },
+    "priceHistory": [
+      {
+        "date": "Oct",
+        "price": 3070
+      },
+      {
+        "date": "Nov",
+        "price": 2830
+      },
+      {
+        "date": "Dec",
+        "price": 2580
+      },
+      {
+        "date": "Jan",
+        "price": 2550
+      },
+      {
+        "date": "Feb",
+        "price": 2550
+      },
+      {
+        "date": "Mar",
+        "price": 2550
+      }
+    ]
+  },
+  {
+    "id": "26",
+    "name": "Classic Chambray Shirt",
+    "brand": "GAP",
+    "color": "Light Blue",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "image": "https://images.unsplash.com/photo-1602810316498-ab67cf68c8e1?w=400&h=500&fit=crop",
+    "category": "Shirts",
+    "gender": "Men",
+    "rating": 4,
+    "reviews": 2042,
+    "prices": {
+      "myntra": 2050,
+      "amazon": 2190,
+      "flipkart": 2300,
+      "ajio": 2440
+    },
+    "priceHistory": [
+      {
+        "date": "Oct",
+        "price": 3190
+      },
+      {
+        "date": "Nov",
+        "price": 2910
+      },
+      {
+        "date": "Dec",
+        "price": 2680
+      },
+      {
+        "date": "Jan",
+        "price": 2570
+      },
+      {
+        "date": "Feb",
+        "price": 2450
+      },
+      {
+        "date": "Mar",
+        "price": 2250
+      }
+    ]
+  },
+  {
+    "id": "27",
+    "name": "Slim Fit Poplin Shirt",
+    "brand": "Mango",
+    "color": "White",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "image": "https://images.unsplash.com/photo-1607345366928-199ea26cfe3e?w=400&h=500&fit=crop",
+    "category": "Shirts",
+    "gender": "Men",
+    "rating": 4.1,
+    "reviews": 2836,
+    "prices": {
+      "myntra": 2910,
+      "amazon": 3070,
+      "flipkart": 2640,
+      "ajio": 2760
+    },
+    "priceHistory": [
+      {
+        "date": "Oct",
+        "price": 3020
+      },
+      {
+        "date": "Nov",
+        "price": 2850
+      },
+      {
+        "date": "Dec",
+        "price": 2850
+      },
+      {
+        "date": "Jan",
+        "price": 2850
+      },
+      {
+        "date": "Feb",
+        "price": 2850
+      },
+      {
+        "date": "Mar",
+        "price": 2850
+      }
+    ]
+  },
+  {
+    "id": "28",
+    "name": "Oxford Polo Shirt",
+    "brand": "Ralph Lauren",
+    "color": "Navy",
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ],
+    "image": "https://images.unsplash.com/photo-1625910513413-5fc830c70cb0?w=400&h=500&fit=crop",
+    "category": "Shirts",
+    "gender": "Men",
+    "rating": 4.1,
+    "reviews": 2200,
+    "prices": {
+      "myntra": 5340,
+      "amazon": 5460,
+      "flipkart": 5620,
+      "ajio": 5730
+    },
+    "priceHistory": [
+      {
+        "date": "Oct",
+        "price": 6410
+      },
+      {
+        "date": "Nov",
+        "price": 6330
+      },
+      {
+        "date": "Dec",
+        "price": 6070
+      },
+      {
+        "date": "Jan",
+        "price": 5960
+      },
+      {
+        "date": "Feb",
+        "price": 5890
+      },
+      {
+        "date": "Mar",
+        "price": 5730
+      }
+    ]
+  },
+  {
+    "id": "29",
+    "name": "Oversized Cuban Collar Shirt",
+    "brand": "Urbanic",
+    "color": "Black",
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "image": "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?w=400&h=500&fit=crop",
+    "category": "Shirts",
+    "gender": "Men",
+    "rating": 4.8,
+    "reviews": 2382,
+    "prices": {
+      "myntra": 1740,
+      "amazon": 1640,
+      "flipkart": 1470,
+      "ajio": 1320
+    },
+    "priceHistory": [
+      {
+        "date": "Oct",
+        "price": 2410
+      },
+      {
+        "date": "Nov",
+        "price": 2320
+      },
+      {
+        "date": "Dec",
+        "price": 2090
+      },
+      {
+        "date": "Jan",
+        "price": 1960
+      },
+      {
+        "date": "Feb",
+        "price": 1740
+      },
+      {
+        "date": "Mar",
+        "price": 1550
+      }
+    ]
+  },
+  {
+    "id": "30",
+    "name": "Satin Finish Shirt",
+    "brand": "Zara",
+    "color": "Ivory",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "image": "https://images.unsplash.com/photo-1602810316498-ab67cf68c8e1?w=400&h=500&fit=crop",
+    "category": "Shirts",
+    "gender": "Women",
+    "rating": 4.7,
+    "reviews": 785,
+    "prices": {
+      "myntra": 3140,
+      "amazon": 2950,
+      "flipkart": 2870,
+      "ajio": 3260
+    },
+    "priceHistory": [
+      {
+        "date": "Oct",
+        "price": 3380
+      },
+      {
+        "date": "Nov",
+        "price": 3210
+      },
+      {
+        "date": "Dec",
+        "price": 3060
+      },
+      {
+        "date": "Jan",
+        "price": 3050
+      },
+      {
+        "date": "Feb",
+        "price": 3050
+      },
+      {
+        "date": "Mar",
+        "price": 3050
+      }
+    ]
+  },
+  {
+    "id": "31",
+    "name": "Relaxed Linen Shirt",
+    "brand": "H&M",
+    "color": "White",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "image": "https://images.unsplash.com/photo-1607345366928-199ea26cfe3e?w=400&h=500&fit=crop",
+    "category": "Shirts",
+    "gender": "Women",
+    "rating": 4.8,
+    "reviews": 2239,
+    "prices": {
+      "myntra": 1350,
+      "amazon": 1480,
+      "flipkart": 1600,
+      "ajio": 1720
+    },
+    "priceHistory": [
+      {
+        "date": "Oct",
+        "price": 2230
+      },
+      {
+        "date": "Nov",
+        "price": 1940
+      },
+      {
+        "date": "Dec",
+        "price": 1840
+      },
+      {
+        "date": "Jan",
+        "price": 1620
+      },
+      {
+        "date": "Feb",
+        "price": 1550
+      },
+      {
+        "date": "Mar",
+        "price": 1550
+      }
+    ]
+  },
+  {
+    "id": "32",
+    "name": "Printed Tie-Hem Shirt",
+    "brand": "Nykaa Fashion",
+    "color": "Blue",
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "image": "https://images.unsplash.com/photo-1625910513413-5fc830c70cb0?w=400&h=500&fit=crop",
+    "category": "Shirts",
+    "gender": "Women",
+    "rating": 4.3,
+    "reviews": 3074,
+    "prices": {
+      "myntra": 980,
+      "amazon": 1090,
+      "flipkart": 840,
+      "ajio": 1210
+    },
+    "priceHistory": [
+      {
+        "date": "Oct",
+        "price": 1790
+      },
+      {
+        "date": "Nov",
+        "price": 1700
+      },
+      {
+        "date": "Dec",
+        "price": 1480
+      },
+      {
+        "date": "Jan",
+        "price": 1420
+      },
+      {
+        "date": "Feb",
+        "price": 1160
+      },
+      {
+        "date": "Mar",
+        "price": 1050
+      }
+    ]
+  },
+  {
+    "id": "33",
+    "name": "Checked Flannel Shirt",
+    "brand": "Adidas",
+    "color": "Red/Black",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "image": "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?w=400&h=500&fit=crop",
+    "category": "Shirts",
+    "gender": "Men",
+    "rating": 4.8,
+    "reviews": 3012,
+    "prices": {
+      "myntra": 1660,
+      "amazon": 1910,
+      "flipkart": 1750,
+      "ajio": 2040
+    },
+    "priceHistory": [
+      {
+        "date": "Oct",
+        "price": 2350
+      },
+      {
+        "date": "Nov",
+        "price": 2170
+      },
+      {
+        "date": "Dec",
+        "price": 2020
+      },
+      {
+        "date": "Jan",
+        "price": 1860
+      },
+      {
+        "date": "Feb",
+        "price": 1850
+      },
+      {
+        "date": "Mar",
+        "price": 1850
+      }
+    ]
+  },
+  {
+    "id": "34",
+    "name": "Dri-FIT Polo Shirt",
+    "brand": "Nike",
+    "color": "White",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "image": "https://images.unsplash.com/photo-1602810316498-ab67cf68c8e1?w=400&h=500&fit=crop",
+    "category": "Shirts",
+    "gender": "Men",
+    "rating": 4.4,
+    "reviews": 2959,
+    "prices": {
+      "myntra": 2640,
+      "amazon": 2490,
+      "flipkart": 2340,
+      "ajio": 2750
+    },
+    "priceHistory": [
+      {
+        "date": "Oct",
+        "price": 3020
+      },
+      {
+        "date": "Nov",
+        "price": 2860
+      },
+      {
+        "date": "Dec",
+        "price": 2770
+      },
+      {
+        "date": "Jan",
+        "price": 2630
+      },
+      {
+        "date": "Feb",
+        "price": 2550
+      },
+      {
+        "date": "Mar",
+        "price": 2550
+      }
+    ]
+  },
+  {
+    "id": "35",
+    "name": "Essentials Hoodie",
+    "brand": "Adidas",
+    "color": "Grey",
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ],
+    "image": "https://images.unsplash.com/photo-1556821840-3a63f95609a7?w=400&h=500&fit=crop",
+    "category": "Hoodies",
+    "gender": "Men",
+    "rating": 3.9,
+    "reviews": 452,
+    "prices": {
+      "myntra": 3310,
+      "amazon": 3150,
+      "flipkart": 3050,
+      "ajio": 3440
+    },
+    "priceHistory": [
+      {
+        "date": "Oct",
+        "price": 3860
+      },
+      {
+        "date": "Nov",
+        "price": 3700
+      },
+      {
+        "date": "Dec",
+        "price": 3430
+      },
+      {
+        "date": "Jan",
+        "price": 3370
+      },
+      {
+        "date": "Feb",
+        "price": 3250
+      },
+      {
+        "date": "Mar",
+        "price": 3250
+      }
+    ]
+  },
+  {
+    "id": "36",
+    "name": "Club Fleece Pullover Hoodie",
+    "brand": "Nike",
+    "color": "Black",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "image": "https://images.unsplash.com/photo-1509942774463-acf339cf87d5?w=400&h=500&fit=crop",
+    "category": "Hoodies",
+    "gender": "Men",
+    "rating": 3.8,
+    "reviews": 2647,
+    "prices": {
+      "myntra": 3750,
+      "amazon": 3650,
+      "flipkart": 3480,
+      "ajio": 3330
+    },
+    "priceHistory": [
+      {
+        "date": "Oct",
+        "price": 4280
+      },
+      {
+        "date": "Nov",
+        "price": 3980
+      },
+      {
+        "date": "Dec",
+        "price": 3690
+      },
+      {
+        "date": "Jan",
+        "price": 3620
+      },
+      {
+        "date": "Feb",
+        "price": 3550
+      },
+      {
+        "date": "Mar",
+        "price": 3550
+      }
+    ]
+  },
+  {
+    "id": "37",
+    "name": "Relaxed Fit Hoodie",
+    "brand": "H&M",
+    "color": "Navy",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "image": "https://images.unsplash.com/photo-1620799140188-3b2a02fd9a77?w=400&h=500&fit=crop",
+    "category": "Hoodies",
+    "gender": "Men",
+    "rating": 3.9,
+    "reviews": 2505,
+    "prices": {
+      "myntra": 1440,
+      "amazon": 1600,
+      "flipkart": 1820,
+      "ajio": 1700
+    },
+    "priceHistory": [
+      {
+        "date": "Oct",
+        "price": 1780
+      },
+      {
+        "date": "Nov",
+        "price": 1650
+      },
+      {
+        "date": "Dec",
+        "price": 1650
+      },
+      {
+        "date": "Jan",
+        "price": 1650
+      },
+      {
+        "date": "Feb",
+        "price": 1650
+      },
+      {
+        "date": "Mar",
+        "price": 1650
+      }
+    ]
+  },
+  {
+    "id": "38",
+    "name": "Vintage Soft Hoodie",
+    "brand": "GAP",
+    "color": "Brown",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "image": "https://images.unsplash.com/photo-1578768079052-aa76e52ff62e?w=400&h=500&fit=crop",
+    "category": "Hoodies",
+    "gender": "Men",
+    "rating": 4.6,
+    "reviews": 1146,
+    "prices": {
+      "myntra": 2670,
+      "amazon": 2800,
+      "flipkart": 2910,
+      "ajio": 3040
+    },
+    "priceHistory": [
+      {
+        "date": "Oct",
+        "price": 3340
+      },
+      {
+        "date": "Nov",
+        "price": 3180
+      },
+      {
+        "date": "Dec",
+        "price": 3120
+      },
+      {
+        "date": "Jan",
+        "price": 3070
+      },
+      {
+        "date": "Feb",
+        "price": 2870
+      },
+      {
+        "date": "Mar",
+        "price": 2850
+      }
+    ]
+  },
+  {
+    "id": "39",
+    "name": "Logo Pullover Hoodie",
+    "brand": "Levi's",
+    "color": "Dark Grey",
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ],
+    "image": "https://images.unsplash.com/photo-1556821840-3a63f95609a7?w=400&h=500&fit=crop",
+    "category": "Hoodies",
+    "gender": "Men",
+    "rating": 4.3,
+    "reviews": 1283,
+    "prices": {
+      "myntra": 2990,
+      "amazon": 3230,
+      "flipkart": 2860,
+      "ajio": 3130
+    },
+    "priceHistory": [
+      {
+        "date": "Oct",
+        "price": 3610
+      },
+      {
+        "date": "Nov",
+        "price": 3330
+      },
+      {
+        "date": "Dec",
+        "price": 3230
+      },
+      {
+        "date": "Jan",
+        "price": 3050
+      },
+      {
+        "date": "Feb",
+        "price": 3050
+      },
+      {
+        "date": "Mar",
+        "price": 3050
+      }
+    ]
+  },
+  {
+    "id": "40",
+    "name": "Acid Wash Hoodie",
+    "brand": "Urbanic",
+    "color": "Blue",
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "image": "https://images.unsplash.com/photo-1509942774463-acf339cf87d5?w=400&h=500&fit=crop",
+    "category": "Hoodies",
+    "gender": "Men",
+    "rating": 4.8,
+    "reviews": 1767,
+    "prices": {
+      "myntra": 1940,
+      "amazon": 1620,
+      "flipkart": 1800,
+      "ajio": 2040
+    },
+    "priceHistory": [
+      {
+        "date": "Oct",
+        "price": 2350
+      },
+      {
+        "date": "Nov",
+        "price": 2200
+      },
+      {
+        "date": "Dec",
+        "price": 1960
+      },
+      {
+        "date": "Jan",
+        "price": 1850
+      },
+      {
+        "date": "Feb",
+        "price": 1850
+      },
+      {
+        "date": "Mar",
+        "price": 1850
+      }
+    ]
+  },
+  {
+    "id": "41",
+    "name": "All SZN Fleece Hoodie",
+    "brand": "Adidas",
+    "color": "Pink",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "image": "https://images.unsplash.com/photo-1620799140188-3b2a02fd9a77?w=400&h=500&fit=crop",
+    "category": "Hoodies",
+    "gender": "Women",
+    "rating": 4.4,
+    "reviews": 1311,
+    "prices": {
+      "myntra": 2980,
+      "amazon": 2870,
+      "flipkart": 3250,
+      "ajio": 3100
+    },
+    "priceHistory": [
+      {
+        "date": "Oct",
+        "price": 3470
+      },
+      {
+        "date": "Nov",
+        "price": 3340
+      },
+      {
+        "date": "Dec",
+        "price": 3070
+      },
+      {
+        "date": "Jan",
+        "price": 3050
+      },
+      {
+        "date": "Feb",
+        "price": 3050
+      },
+      {
+        "date": "Mar",
+        "price": 3050
+      }
+    ]
+  },
+  {
+    "id": "42",
+    "name": "Sportswear Phoenix Hoodie",
+    "brand": "Nike",
+    "color": "Black",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "image": "https://images.unsplash.com/photo-1578768079052-aa76e52ff62e?w=400&h=500&fit=crop",
+    "category": "Hoodies",
+    "gender": "Women",
+    "rating": 4.8,
+    "reviews": 2216,
+    "prices": {
+      "myntra": 4050,
+      "amazon": 3760,
+      "flipkart": 3670,
+      "ajio": 3920
+    },
+    "priceHistory": [
+      {
+        "date": "Oct",
+        "price": 4490
+      },
+      {
+        "date": "Nov",
+        "price": 4250
+      },
+      {
+        "date": "Dec",
+        "price": 4180
+      },
+      {
+        "date": "Jan",
+        "price": 4050
+      },
+      {
+        "date": "Feb",
+        "price": 3920
+      },
+      {
+        "date": "Mar",
+        "price": 3850
+      }
+    ]
+  },
+  {
+    "id": "43",
+    "name": "Cropped Zip Hoodie",
+    "brand": "H&M",
+    "color": "White",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "image": "https://images.unsplash.com/photo-1556821840-3a63f95609a7?w=400&h=500&fit=crop",
+    "category": "Hoodies",
+    "gender": "Women",
+    "rating": 4.8,
+    "reviews": 599,
+    "prices": {
+      "myntra": 1530,
+      "amazon": 1690,
+      "flipkart": 1840,
+      "ajio": 1930
+    },
+    "priceHistory": [
+      {
+        "date": "Oct",
+        "price": 2250
+      },
+      {
+        "date": "Nov",
+        "price": 2130
+      },
+      {
+        "date": "Dec",
+        "price": 1960
+      },
+      {
+        "date": "Jan",
+        "price": 1890
+      },
+      {
+        "date": "Feb",
+        "price": 1750
+      },
+      {
+        "date": "Mar",
+        "price": 1750
+      }
+    ]
+  },
+  {
+    "id": "44",
+    "name": "Oversized Hoodie Dress",
+    "brand": "Mango",
+    "color": "Beige",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "image": "https://images.unsplash.com/photo-1509942774463-acf339cf87d5?w=400&h=500&fit=crop",
+    "category": "Hoodies",
+    "gender": "Women",
+    "rating": 3.9,
+    "reviews": 2544,
+    "prices": {
+      "myntra": 2370,
+      "amazon": 2490,
+      "flipkart": 2600,
+      "ajio": 2730
+    },
+    "priceHistory": [
+      {
+        "date": "Oct",
+        "price": 2860
+      },
+      {
+        "date": "Nov",
+        "price": 2670
+      },
+      {
+        "date": "Dec",
+        "price": 2600
+      },
+      {
+        "date": "Jan",
+        "price": 2550
+      },
+      {
+        "date": "Feb",
+        "price": 2550
+      },
+      {
+        "date": "Mar",
+        "price": 2550
+      }
+    ]
+  },
+  {
+    "id": "45",
+    "name": "Streetwear Zip-Up Hoodie",
+    "brand": "Urbanic",
+    "color": "Black",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "image": "https://images.unsplash.com/photo-1620799140188-3b2a02fd9a77?w=400&h=500&fit=crop",
+    "category": "Hoodies",
+    "gender": "Unisex",
+    "rating": 4.1,
+    "reviews": 865,
+    "prices": {
+      "myntra": 1860,
+      "amazon": 2110,
+      "flipkart": 2260,
+      "ajio": 1960
+    },
+    "priceHistory": [
+      {
+        "date": "Oct",
+        "price": 2950
+      },
+      {
+        "date": "Nov",
+        "price": 2790
+      },
+      {
+        "date": "Dec",
+        "price": 2700
+      },
+      {
+        "date": "Jan",
+        "price": 2460
+      },
+      {
+        "date": "Feb",
+        "price": 2260
+      },
+      {
+        "date": "Mar",
+        "price": 2140
+      }
+    ]
+  },
+  {
+    "id": "46",
+    "name": "Textured Knit Hoodie",
+    "brand": "Zara",
+    "color": "Olive",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "image": "https://images.unsplash.com/photo-1578768079052-aa76e52ff62e?w=400&h=500&fit=crop",
+    "category": "Hoodies",
+    "gender": "Unisex",
+    "rating": 3.8,
+    "reviews": 1665,
+    "prices": {
+      "myntra": 3270,
+      "amazon": 3140,
+      "flipkart": 3390,
+      "ajio": 3540
+    },
+    "priceHistory": [
+      {
+        "date": "Oct",
+        "price": 3970
+      },
+      {
+        "date": "Nov",
+        "price": 3730
+      },
+      {
+        "date": "Dec",
+        "price": 3510
+      },
+      {
+        "date": "Jan",
+        "price": 3440
+      },
+      {
+        "date": "Feb",
+        "price": 3350
+      },
+      {
+        "date": "Mar",
+        "price": 3350
+      }
+    ]
+  },
+  {
+    "id": "47",
+    "name": "Brushed Effect Hoodie",
+    "brand": "Mango",
+    "color": "Burgundy",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "image": "https://images.unsplash.com/photo-1556821840-3a63f95609a7?w=400&h=500&fit=crop",
+    "category": "Hoodies",
+    "gender": "Men",
+    "rating": 4.2,
+    "reviews": 2206,
+    "prices": {
+      "myntra": 2700,
+      "amazon": 2840,
+      "flipkart": 2580,
+      "ajio": 2460
+    },
+    "priceHistory": [
+      {
+        "date": "Oct",
+        "price": 3670
+      },
+      {
+        "date": "Nov",
+        "price": 3430
+      },
+      {
+        "date": "Dec",
+        "price": 3240
+      },
+      {
+        "date": "Jan",
+        "price": 3120
+      },
+      {
+        "date": "Feb",
+        "price": 2830
+      },
+      {
+        "date": "Mar",
+        "price": 2650
+      }
+    ]
+  },
+  {
+    "id": "48",
+    "name": "Fur Lined Hoodie",
+    "brand": "Zara",
+    "color": "Cream",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "image": "https://images.unsplash.com/photo-1509942774463-acf339cf87d5?w=400&h=500&fit=crop",
+    "category": "Hoodies",
+    "gender": "Women",
+    "rating": 4.7,
+    "reviews": 2216,
+    "prices": {
+      "myntra": 3340,
+      "amazon": 3470,
+      "flipkart": 3600,
+      "ajio": 3710
+    },
+    "priceHistory": [
+      {
+        "date": "Oct",
+        "price": 4150
+      },
+      {
+        "date": "Nov",
+        "price": 3850
+      },
+      {
+        "date": "Dec",
+        "price": 3780
+      },
+      {
+        "date": "Jan",
+        "price": 3680
+      },
+      {
+        "date": "Feb",
+        "price": 3550
+      },
+      {
+        "date": "Mar",
+        "price": 3550
+      }
+    ]
+  },
+  {
+    "id": "49",
+    "name": "Classic Denim Jacket",
+    "brand": "Levi's",
+    "color": "Blue",
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ],
+    "image": "https://images.unsplash.com/photo-1551028719-00167b16eac5?w=400&h=500&fit=crop",
+    "category": "Jackets",
+    "gender": "Men",
+    "rating": 4.5,
+    "reviews": 1077,
+    "prices": {
+      "myntra": 3870,
+      "amazon": 3720,
+      "flipkart": 3540,
+      "ajio": 3470
+    },
+    "priceHistory": [
+      {
+        "date": "Oct",
+        "price": 4190
+      },
+      {
+        "date": "Nov",
+        "price": 3900
+      },
+      {
+        "date": "Dec",
+        "price": 3710
+      },
+      {
+        "date": "Jan",
+        "price": 3650
+      },
+      {
+        "date": "Feb",
+        "price": 3650
+      },
+      {
+        "date": "Mar",
+        "price": 3650
+      }
+    ]
+  },
+  {
+    "id": "50",
+    "name": "Leather Biker Jacket",
+    "brand": "Mango",
+    "color": "Black",
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "image": "https://images.unsplash.com/photo-1521223890158-f9f7c3d5d504?w=400&h=500&fit=crop",
+    "category": "Jackets",
+    "gender": "Men",
+    "rating": 4.1,
+    "reviews": 2285,
+    "prices": {
+      "myntra": 5320,
+      "amazon": 5740,
+      "flipkart": 5470,
+      "ajio": 5600
+    },
+    "priceHistory": [
+      {
+        "date": "Oct",
+        "price": 6440
+      },
+      {
+        "date": "Nov",
+        "price": 6270
+      },
+      {
+        "date": "Dec",
+        "price": 6040
+      },
+      {
+        "date": "Jan",
+        "price": 5870
+      },
+      {
+        "date": "Feb",
+        "price": 5710
+      },
+      {
+        "date": "Mar",
+        "price": 5550
+      }
+    ]
+  },
+  {
+    "id": "51",
+    "name": "Formal Blazer",
+    "brand": "Zara",
+    "color": "Charcoal",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "image": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?w=400&h=500&fit=crop",
+    "category": "Jackets",
+    "gender": "Men",
+    "rating": 4,
+    "reviews": 2629,
+    "prices": {
+      "myntra": 4840,
+      "amazon": 4950,
+      "flipkart": 5140,
+      "ajio": 5240
+    },
+    "priceHistory": [
+      {
+        "date": "Oct",
+        "price": 5560
+      },
+      {
+        "date": "Nov",
+        "price": 5470
+      },
+      {
+        "date": "Dec",
+        "price": 5330
+      },
+      {
+        "date": "Jan",
+        "price": 5190
+      },
+      {
+        "date": "Feb",
+        "price": 5050
+      },
+      {
+        "date": "Mar",
+        "price": 5050
+      }
+    ]
+  },
+  {
+    "id": "52",
+    "name": "Padded Puffer Jacket",
+    "brand": "H&M",
+    "color": "Black",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "image": "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?w=400&h=500&fit=crop",
+    "category": "Jackets",
+    "gender": "Men",
+    "rating": 4.5,
+    "reviews": 1935,
+    "prices": {
+      "myntra": 2860,
+      "amazon": 2990,
+      "flipkart": 3120,
+      "ajio": 3210
+    },
+    "priceHistory": [
+      {
+        "date": "Oct",
+        "price": 3830
+      },
+      {
+        "date": "Nov",
+        "price": 3760
+      },
+      {
+        "date": "Dec",
+        "price": 3630
+      },
+      {
+        "date": "Jan",
+        "price": 3410
+      },
+      {
+        "date": "Feb",
+        "price": 3190
+      },
+      {
+        "date": "Mar",
+        "price": 3050
+      }
+    ]
+  },
+  {
+    "id": "53",
+    "name": "Windrunner Jacket",
+    "brand": "Nike",
+    "color": "Navy",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "image": "https://images.unsplash.com/photo-1548369937-47519962c11a?w=400&h=500&fit=crop",
+    "category": "Jackets",
+    "gender": "Men",
+    "rating": 4.5,
+    "reviews": 1222,
+    "prices": {
+      "myntra": 4760,
+      "amazon": 4630,
+      "flipkart": 4490,
+      "ajio": 4330
+    },
+    "priceHistory": [
+      {
+        "date": "Oct",
+        "price": 5450
+      },
+      {
+        "date": "Nov",
+        "price": 5320
+      },
+      {
+        "date": "Dec",
+        "price": 5090
+      },
+      {
+        "date": "Jan",
+        "price": 5010
+      },
+      {
+        "date": "Feb",
+        "price": 4900
+      },
+      {
+        "date": "Mar",
+        "price": 4750
+      }
+    ]
+  },
+  {
+    "id": "54",
+    "name": "Tiro Track Jacket",
+    "brand": "Adidas",
+    "color": "Black",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "image": "https://images.unsplash.com/photo-1551028719-00167b16eac5?w=400&h=500&fit=crop",
+    "category": "Jackets",
+    "gender": "Men",
+    "rating": 4.7,
+    "reviews": 65,
+    "prices": {
+      "myntra": 2670,
+      "amazon": 2790,
+      "flipkart": 2920,
+      "ajio": 3050
+    },
+    "priceHistory": [
+      {
+        "date": "Oct",
+        "price": 3620
+      },
+      {
+        "date": "Nov",
+        "price": 3370
+      },
+      {
+        "date": "Dec",
+        "price": 3120
+      },
+      {
+        "date": "Jan",
+        "price": 3010
+      },
+      {
+        "date": "Feb",
+        "price": 2850
+      },
+      {
+        "date": "Mar",
+        "price": 2850
+      }
+    ]
+  },
+  {
+    "id": "55",
+    "name": "Harrington Jacket",
+    "brand": "GAP",
+    "color": "Tan",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "image": "https://images.unsplash.com/photo-1521223890158-f9f7c3d5d504?w=400&h=500&fit=crop",
+    "category": "Jackets",
+    "gender": "Men",
+    "rating": 4,
+    "reviews": 1963,
+    "prices": {
+      "myntra": 4060,
+      "amazon": 3660,
+      "flipkart": 3930,
+      "ajio": 3760
+    },
+    "priceHistory": [
+      {
+        "date": "Oct",
+        "price": 4750
+      },
+      {
+        "date": "Nov",
+        "price": 4510
+      },
+      {
+        "date": "Dec",
+        "price": 4310
+      },
+      {
+        "date": "Jan",
+        "price": 4220
+      },
+      {
+        "date": "Feb",
+        "price": 4130
+      },
+      {
+        "date": "Mar",
+        "price": 3980
+      }
+    ]
+  },
+  {
+    "id": "56",
+    "name": "Down Quilted Vest",
+    "brand": "Ralph Lauren",
+    "color": "Navy",
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ],
+    "image": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?w=400&h=500&fit=crop",
+    "category": "Jackets",
+    "gender": "Men",
+    "rating": 4.2,
+    "reviews": 2562,
+    "prices": {
+      "myntra": 7260,
+      "amazon": 7140,
+      "flipkart": 6980,
+      "ajio": 6850
+    },
+    "priceHistory": [
+      {
+        "date": "Oct",
+        "price": 7560
+      },
+      {
+        "date": "Nov",
+        "price": 7390
+      },
+      {
+        "date": "Dec",
+        "price": 7320
+      },
+      {
+        "date": "Jan",
+        "price": 7110
+      },
+      {
+        "date": "Feb",
+        "price": 7050
+      },
+      {
+        "date": "Mar",
+        "price": 7050
+      }
+    ]
+  },
+  {
+    "id": "57",
+    "name": "Faux Leather Jacket",
+    "brand": "Zara",
+    "color": "Camel",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "image": "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?w=400&h=500&fit=crop",
+    "category": "Jackets",
+    "gender": "Women",
+    "rating": 4.6,
+    "reviews": 3045,
+    "prices": {
+      "myntra": 6270,
+      "amazon": 6110,
+      "flipkart": 5950,
+      "ajio": 5860
+    },
+    "priceHistory": [
+      {
+        "date": "Oct",
+        "price": 6710
+      },
+      {
+        "date": "Nov",
+        "price": 6560
+      },
+      {
+        "date": "Dec",
+        "price": 6270
+      },
+      {
+        "date": "Jan",
+        "price": 6050
+      },
+      {
+        "date": "Feb",
+        "price": 6050
+      },
+      {
+        "date": "Mar",
+        "price": 6050
+      }
+    ]
+  },
+  {
+    "id": "58",
+    "name": "Quilted Puffer Jacket",
+    "brand": "H&M",
+    "color": "Pink",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "image": "https://images.unsplash.com/photo-1548369937-47519962c11a?w=400&h=500&fit=crop",
+    "category": "Jackets",
+    "gender": "Women",
+    "rating": 3.9,
+    "reviews": 1547,
+    "prices": {
+      "myntra": 2640,
+      "amazon": 2750,
+      "flipkart": 2900,
+      "ajio": 3060
+    },
+    "priceHistory": [
+      {
+        "date": "Oct",
+        "price": 3100
+      },
+      {
+        "date": "Nov",
+        "price": 2940
+      },
+      {
+        "date": "Dec",
+        "price": 2890
+      },
+      {
+        "date": "Jan",
+        "price": 2850
+      },
+      {
+        "date": "Feb",
+        "price": 2850
+      },
+      {
+        "date": "Mar",
+        "price": 2850
+      }
+    ]
+  },
+  {
+    "id": "59",
+    "name": "Structured Blazer",
+    "brand": "Mango",
+    "color": "White",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "image": "https://images.unsplash.com/photo-1551028719-00167b16eac5?w=400&h=500&fit=crop",
+    "category": "Jackets",
+    "gender": "Women",
+    "rating": 4.2,
+    "reviews": 1257,
+    "prices": {
+      "myntra": 4380,
+      "amazon": 4740,
+      "flipkart": 4490,
+      "ajio": 4640
+    },
+    "priceHistory": [
+      {
+        "date": "Oct",
+        "price": 5390
+      },
+      {
+        "date": "Nov",
+        "price": 5090
+      },
+      {
+        "date": "Dec",
+        "price": 4960
+      },
+      {
+        "date": "Jan",
+        "price": 4910
+      },
+      {
+        "date": "Feb",
+        "price": 4640
+      },
+      {
+        "date": "Mar",
+        "price": 4550
+      }
+    ]
+  },
+  {
+    "id": "60",
+    "name": "Sherpa Trucker Jacket",
+    "brand": "Levi's",
+    "color": "Blue",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "image": "https://images.unsplash.com/photo-1521223890158-f9f7c3d5d504?w=400&h=500&fit=crop",
+    "category": "Jackets",
+    "gender": "Women",
+    "rating": 4.4,
+    "reviews": 1012,
+    "prices": {
+      "myntra": 5270,
+      "amazon": 4850,
+      "flipkart": 4990,
+      "ajio": 5140
+    },
+    "priceHistory": [
+      {
+        "date": "Oct",
+        "price": 5590
+      },
+      {
+        "date": "Nov",
+        "price": 5530
+      },
+      {
+        "date": "Dec",
+        "price": 5230
+      },
+      {
+        "date": "Jan",
+        "price": 5120
+      },
+      {
+        "date": "Feb",
+        "price": 5050
+      },
+      {
+        "date": "Mar",
+        "price": 5050
+      }
+    ]
+  },
+  {
+    "id": "61",
+    "name": "Cropped Moto Jacket",
+    "brand": "Urbanic",
+    "color": "Black",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "image": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?w=400&h=500&fit=crop",
+    "category": "Jackets",
+    "gender": "Women",
+    "rating": 4.3,
+    "reviews": 1347,
+    "prices": {
+      "myntra": 2170,
+      "amazon": 2270,
+      "flipkart": 2540,
+      "ajio": 2400
+    },
+    "priceHistory": [
+      {
+        "date": "Oct",
+        "price": 3190
+      },
+      {
+        "date": "Nov",
+        "price": 3030
+      },
+      {
+        "date": "Dec",
+        "price": 2820
+      },
+      {
+        "date": "Jan",
+        "price": 2730
+      },
+      {
+        "date": "Feb",
+        "price": 2630
+      },
+      {
+        "date": "Mar",
+        "price": 2400
+      }
+    ]
+  },
+  {
+    "id": "62",
+    "name": "Varsity Bomber Jacket",
+    "brand": "Urbanic",
+    "color": "Navy/White",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "image": "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?w=400&h=500&fit=crop",
+    "category": "Jackets",
+    "gender": "Men",
+    "rating": 4.5,
+    "reviews": 763,
+    "prices": {
+      "myntra": 2870,
+      "amazon": 3210,
+      "flipkart": 2960,
+      "ajio": 3100
+    },
+    "priceHistory": [
+      {
+        "date": "Oct",
+        "price": 3740
+      },
+      {
+        "date": "Nov",
+        "price": 3630
+      },
+      {
+        "date": "Dec",
+        "price": 3330
+      },
+      {
+        "date": "Jan",
+        "price": 3220
+      },
+      {
+        "date": "Feb",
+        "price": 3050
+      },
+      {
+        "date": "Mar",
+        "price": 3050
+      }
+    ]
+  },
+  {
+    "id": "63",
+    "name": "Denim Jacket",
+    "brand": "GAP",
+    "color": "Light Wash",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "image": "https://images.unsplash.com/photo-1548369937-47519962c11a?w=400&h=500&fit=crop",
+    "category": "Jackets",
+    "gender": "Women",
+    "rating": 3.8,
+    "reviews": 134,
+    "prices": {
+      "myntra": 3150,
+      "amazon": 3260,
+      "flipkart": 3440,
+      "ajio": 3530
+    },
+    "priceHistory": [
+      {
+        "date": "Oct",
+        "price": 3830
+      },
+      {
+        "date": "Nov",
+        "price": 3620
+      },
+      {
+        "date": "Dec",
+        "price": 3540
+      },
+      {
+        "date": "Jan",
+        "price": 3360
+      },
+      {
+        "date": "Feb",
+        "price": 3350
+      },
+      {
+        "date": "Mar",
+        "price": 3350
+      }
+    ]
+  },
+  {
+    "id": "64",
+    "name": "511 Slim Fit Jeans",
+    "brand": "Levi's",
+    "color": "Dark Blue",
+    "sizes": [
+      "28",
+      "30",
+      "32",
+      "34",
+      "36"
+    ],
+    "image": "https://images.unsplash.com/photo-1542272604-787c3835535d?w=400&h=500&fit=crop",
+    "category": "Jeans",
+    "gender": "Men",
+    "rating": 4.6,
+    "reviews": 2644,
+    "prices": {
+      "myntra": 3630,
+      "amazon": 3740,
+      "flipkart": 3480,
+      "ajio": 3350
+    },
+    "priceHistory": [
+      {
+        "date": "Oct",
+        "price": 4010
+      },
+      {
+        "date": "Nov",
+        "price": 3900
+      },
+      {
+        "date": "Dec",
+        "price": 3820
+      },
+      {
+        "date": "Jan",
+        "price": 3770
+      },
+      {
+        "date": "Feb",
+        "price": 3550
+      },
+      {
+        "date": "Mar",
+        "price": 3550
+      }
+    ]
+  },
+  {
+    "id": "65",
+    "name": "501 Original Straight Jeans",
+    "brand": "Levi's",
+    "color": "Mid Blue",
+    "sizes": [
+      "28",
+      "30",
+      "32",
+      "34",
+      "36",
+      "38"
+    ],
+    "image": "https://images.unsplash.com/photo-1475178626620-a4d074967452?w=400&h=500&fit=crop",
+    "category": "Jeans",
+    "gender": "Men",
+    "rating": 4.5,
+    "reviews": 1557,
+    "prices": {
+      "myntra": 3830,
+      "amazon": 3950,
+      "flipkart": 4130,
+      "ajio": 4230
+    },
+    "priceHistory": [
+      {
+        "date": "Oct",
+        "price": 5050
+      },
+      {
+        "date": "Nov",
+        "price": 4830
+      },
+      {
+        "date": "Dec",
+        "price": 4600
+      },
+      {
+        "date": "Jan",
+        "price": 4460
+      },
+      {
+        "date": "Feb",
+        "price": 4200
+      },
+      {
+        "date": "Mar",
+        "price": 4050
+      }
+    ]
+  },
+  {
+    "id": "66",
+    "name": "Slim Tapered Jeans",
+    "brand": "H&M",
+    "color": "Black",
+    "sizes": [
+      "28",
+      "30",
+      "32",
+      "34",
+      "36"
+    ],
+    "image": "https://images.unsplash.com/photo-1582552938357-32b906df40cb?w=400&h=500&fit=crop",
+    "category": "Jeans",
+    "gender": "Men",
+    "rating": 4.8,
+    "reviews": 2009,
+    "prices": {
+      "myntra": 1990,
+      "amazon": 1850,
+      "flipkart": 2090,
+      "ajio": 2250
+    },
+    "priceHistory": [
+      {
+        "date": "Oct",
+        "price": 2710
+      },
+      {
+        "date": "Nov",
+        "price": 2610
+      },
+      {
+        "date": "Dec",
+        "price": 2440
+      },
+      {
+        "date": "Jan",
+        "price": 2340
+      },
+      {
+        "date": "Feb",
+        "price": 2280
+      },
+      {
+        "date": "Mar",
+        "price": 2200
+      }
+    ]
+  },
+  {
+    "id": "67",
+    "name": "Regular Fit Jeans",
+    "brand": "H&M",
+    "color": "Blue",
+    "sizes": [
+      "28",
+      "30",
+      "32",
+      "34",
+      "36",
+      "38"
+    ],
+    "image": "https://images.unsplash.com/photo-1604176354204-9268737828e4?w=400&h=500&fit=crop",
+    "category": "Jeans",
+    "gender": "Men",
+    "rating": 4,
+    "reviews": 835,
+    "prices": {
+      "myntra": 2070,
+      "amazon": 1650,
+      "flipkart": 1750,
+      "ajio": 1950
+    },
+    "priceHistory": [
+      {
+        "date": "Oct",
+        "price": 2490
+      },
+      {
+        "date": "Nov",
+        "price": 2190
+      },
+      {
+        "date": "Dec",
+        "price": 1980
+      },
+      {
+        "date": "Jan",
+        "price": 1850
+      },
+      {
+        "date": "Feb",
+        "price": 1850
+      },
+      {
+        "date": "Mar",
+        "price": 1850
+      }
+    ]
+  },
+  {
+    "id": "68",
+    "name": "Athletic Taper Jeans",
+    "brand": "GAP",
+    "color": "Light Wash",
+    "sizes": [
+      "28",
+      "30",
+      "32",
+      "34",
+      "36"
+    ],
+    "image": "https://images.unsplash.com/photo-1542272604-787c3835535d?w=400&h=500&fit=crop",
+    "category": "Jeans",
+    "gender": "Men",
+    "rating": 4.1,
+    "reviews": 1283,
+    "prices": {
+      "myntra": 2860,
+      "amazon": 3250,
+      "flipkart": 3120,
+      "ajio": 2970
+    },
+    "priceHistory": [
+      {
+        "date": "Oct",
+        "price": 3690
+      },
+      {
+        "date": "Nov",
+        "price": 3630
+      },
+      {
+        "date": "Dec",
+        "price": 3450
+      },
+      {
+        "date": "Jan",
+        "price": 3270
+      },
+      {
+        "date": "Feb",
+        "price": 3140
+      },
+      {
+        "date": "Mar",
+        "price": 3050
+      }
+    ]
+  },
+  {
+    "id": "69",
+    "name": "Skinny Fit Jeans",
+    "brand": "Zara",
+    "color": "Dark Wash",
+    "sizes": [
+      "28",
+      "30",
+      "32",
+      "34",
+      "36"
+    ],
+    "image": "https://images.unsplash.com/photo-1475178626620-a4d074967452?w=400&h=500&fit=crop",
+    "category": "Jeans",
+    "gender": "Men",
+    "rating": 4.7,
+    "reviews": 1250,
+    "prices": {
+      "myntra": 3150,
+      "amazon": 3270,
+      "flipkart": 3420,
+      "ajio": 3540
+    },
+    "priceHistory": [
+      {
+        "date": "Oct",
+        "price": 4050
+      },
+      {
+        "date": "Nov",
+        "price": 3760
+      },
+      {
+        "date": "Dec",
+        "price": 3460
+      },
+      {
+        "date": "Jan",
+        "price": 3350
+      },
+      {
+        "date": "Feb",
+        "price": 3350
+      },
+      {
+        "date": "Mar",
+        "price": 3350
+      }
+    ]
+  },
+  {
+    "id": "70",
+    "name": "Carrot Fit Jeans",
+    "brand": "Mango",
+    "color": "Tan",
+    "sizes": [
+      "28",
+      "30",
+      "32",
+      "34",
+      "36"
+    ],
+    "image": "https://images.unsplash.com/photo-1582552938357-32b906df40cb?w=400&h=500&fit=crop",
+    "category": "Jeans",
+    "gender": "Men",
+    "rating": 4.8,
+    "reviews": 1192,
+    "prices": {
+      "myntra": 3040,
+      "amazon": 2900,
+      "flipkart": 2660,
+      "ajio": 2760
+    },
+    "priceHistory": [
+      {
+        "date": "Oct",
+        "price": 3490
+      },
+      {
+        "date": "Nov",
+        "price": 3440
+      },
+      {
+        "date": "Dec",
+        "price": 3360
+      },
+      {
+        "date": "Jan",
+        "price": 3080
+      },
+      {
+        "date": "Feb",
+        "price": 2850
+      },
+      {
+        "date": "Mar",
+        "price": 2850
+      }
+    ]
+  },
+  {
+    "id": "71",
+    "name": "High Rise Skinny Jeans",
+    "brand": "Levi's",
+    "color": "Dark Blue",
+    "sizes": [
+      "24",
+      "26",
+      "28",
+      "30",
+      "32"
+    ],
+    "image": "https://images.unsplash.com/photo-1604176354204-9268737828e4?w=400&h=500&fit=crop",
+    "category": "Jeans",
+    "gender": "Women",
+    "rating": 4.7,
+    "reviews": 1072,
+    "prices": {
+      "myntra": 3660,
+      "amazon": 3760,
+      "flipkart": 3920,
+      "ajio": 4010
+    },
+    "priceHistory": [
+      {
+        "date": "Oct",
+        "price": 4760
+      },
+      {
+        "date": "Nov",
+        "price": 4500
+      },
+      {
+        "date": "Dec",
+        "price": 4290
+      },
+      {
+        "date": "Jan",
+        "price": 4010
+      },
+      {
+        "date": "Feb",
+        "price": 3910
+      },
+      {
+        "date": "Mar",
+        "price": 3850
+      }
+    ]
+  },
+  {
+    "id": "72",
+    "name": "Mom Jeans",
+    "brand": "H&M",
+    "color": "Light Blue",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "image": "https://images.unsplash.com/photo-1542272604-787c3835535d?w=400&h=500&fit=crop",
+    "category": "Jeans",
+    "gender": "Women",
+    "rating": 3.8,
+    "reviews": 1506,
+    "prices": {
+      "myntra": 1840,
+      "amazon": 1960,
+      "flipkart": 2140,
+      "ajio": 2230
+    },
+    "priceHistory": [
+      {
+        "date": "Oct",
+        "price": 2450
+      },
+      {
+        "date": "Nov",
+        "price": 2160
+      },
+      {
+        "date": "Dec",
+        "price": 2050
+      },
+      {
+        "date": "Jan",
+        "price": 2050
+      },
+      {
+        "date": "Feb",
+        "price": 2050
+      },
+      {
+        "date": "Mar",
+        "price": 2050
+      }
+    ]
+  },
+  {
+    "id": "73",
+    "name": "Wide Leg Jeans",
+    "brand": "Zara",
+    "color": "Blue",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "image": "https://images.unsplash.com/photo-1475178626620-a4d074967452?w=400&h=500&fit=crop",
+    "category": "Jeans",
+    "gender": "Women",
+    "rating": 4.4,
+    "reviews": 64,
+    "prices": {
+      "myntra": 3340,
+      "amazon": 3450,
+      "flipkart": 3710,
+      "ajio": 3590
+    },
+    "priceHistory": [
+      {
+        "date": "Oct",
+        "price": 4370
+      },
+      {
+        "date": "Nov",
+        "price": 4300
+      },
+      {
+        "date": "Dec",
+        "price": 4070
+      },
+      {
+        "date": "Jan",
+        "price": 3790
+      },
+      {
+        "date": "Feb",
+        "price": 3640
+      },
+      {
+        "date": "Mar",
+        "price": 3550
+      }
+    ]
+  },
+  {
+    "id": "74",
+    "name": "Vintage Slim Jeans",
+    "brand": "GAP",
+    "color": "Black",
+    "sizes": [
+      "24",
+      "26",
+      "28",
+      "30"
+    ],
+    "image": "https://images.unsplash.com/photo-1582552938357-32b906df40cb?w=400&h=500&fit=crop",
+    "category": "Jeans",
+    "gender": "Women",
+    "rating": 3.9,
+    "reviews": 1766,
+    "prices": {
+      "myntra": 2940,
+      "amazon": 2790,
+      "flipkart": 3070,
+      "ajio": 2620
+    },
+    "priceHistory": [
+      {
+        "date": "Oct",
+        "price": 3180
+      },
+      {
+        "date": "Nov",
+        "price": 2900
+      },
+      {
+        "date": "Dec",
+        "price": 2850
+      },
+      {
+        "date": "Jan",
+        "price": 2850
+      },
+      {
+        "date": "Feb",
+        "price": 2850
+      },
+      {
+        "date": "Mar",
+        "price": 2850
+      }
+    ]
+  },
+  {
+    "id": "75",
+    "name": "Straight Leg Jeans",
+    "brand": "Mango",
+    "color": "White",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "image": "https://images.unsplash.com/photo-1604176354204-9268737828e4?w=400&h=500&fit=crop",
+    "category": "Jeans",
+    "gender": "Women",
+    "rating": 4.8,
+    "reviews": 2774,
+    "prices": {
+      "myntra": 3240,
+      "amazon": 3130,
+      "flipkart": 2980,
+      "ajio": 2830
+    },
+    "priceHistory": [
+      {
+        "date": "Oct",
+        "price": 3740
+      },
+      {
+        "date": "Nov",
+        "price": 3560
+      },
+      {
+        "date": "Dec",
+        "price": 3280
+      },
+      {
+        "date": "Jan",
+        "price": 3120
+      },
+      {
+        "date": "Feb",
+        "price": 3060
+      },
+      {
+        "date": "Mar",
+        "price": 3050
+      }
+    ]
+  },
+  {
+    "id": "76",
+    "name": "Barrel Fit Jeans",
+    "brand": "Urbanic",
+    "color": "Light Wash",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "image": "https://images.unsplash.com/photo-1542272604-787c3835535d?w=400&h=500&fit=crop",
+    "category": "Jeans",
+    "gender": "Women",
+    "rating": 4.1,
+    "reviews": 1908,
+    "prices": {
+      "myntra": 1950,
+      "amazon": 1790,
+      "flipkart": 1550,
+      "ajio": 1700
+    },
+    "priceHistory": [
+      {
+        "date": "Oct",
+        "price": 2400
+      },
+      {
+        "date": "Nov",
+        "price": 2100
+      },
+      {
+        "date": "Dec",
+        "price": 2050
+      },
+      {
+        "date": "Jan",
+        "price": 1850
+      },
+      {
+        "date": "Feb",
+        "price": 1750
+      },
+      {
+        "date": "Mar",
+        "price": 1750
+      }
+    ]
+  },
+  {
+    "id": "77",
+    "name": "Distressed Baggy Jeans",
+    "brand": "Urbanic",
+    "color": "Blue",
+    "sizes": [
+      "28",
+      "30",
+      "32",
+      "34"
+    ],
+    "image": "https://images.unsplash.com/photo-1475178626620-a4d074967452?w=400&h=500&fit=crop",
+    "category": "Jeans",
+    "gender": "Men",
+    "rating": 4.4,
+    "reviews": 386,
+    "prices": {
+      "myntra": 2340,
+      "amazon": 2440,
+      "flipkart": 2190,
+      "ajio": 2040
+    },
+    "priceHistory": [
+      {
+        "date": "Oct",
+        "price": 2610
+      },
+      {
+        "date": "Nov",
+        "price": 2470
+      },
+      {
+        "date": "Dec",
+        "price": 2250
+      },
+      {
+        "date": "Jan",
+        "price": 2250
+      },
+      {
+        "date": "Feb",
+        "price": 2250
+      },
+      {
+        "date": "Mar",
+        "price": 2250
+      }
+    ]
+  },
+  {
+    "id": "78",
+    "name": "High Rise Bootcut Jeans",
+    "brand": "Ralph Lauren",
+    "color": "Dark Wash",
+    "sizes": [
+      "24",
+      "26",
+      "28",
+      "30",
+      "32"
+    ],
+    "image": "https://images.unsplash.com/photo-1582552938357-32b906df40cb?w=400&h=500&fit=crop",
+    "category": "Jeans",
+    "gender": "Women",
+    "rating": 4.7,
+    "reviews": 1382,
+    "prices": {
+      "myntra": 6260,
+      "amazon": 6140,
+      "flipkart": 5980,
+      "ajio": 5820
+    },
+    "priceHistory": [
+      {
+        "date": "Oct",
+        "price": 6350
+      },
+      {
+        "date": "Nov",
+        "price": 6080
+      },
+      {
+        "date": "Dec",
+        "price": 6050
+      },
+      {
+        "date": "Jan",
+        "price": 6050
+      },
+      {
+        "date": "Feb",
+        "price": 6050
+      },
+      {
+        "date": "Mar",
+        "price": 6050
+      }
+    ]
+  },
+  {
+    "id": "79",
+    "name": "Printed Floral Dress",
+    "brand": "Zara",
+    "color": "Red",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "image": "https://images.unsplash.com/photo-1572804013309-59a88b7e92f1?w=400&h=500&fit=crop",
+    "category": "Dresses",
+    "gender": "Women",
+    "rating": 3.9,
+    "reviews": 2168,
+    "prices": {
+      "myntra": 2610,
+      "amazon": 2540,
+      "flipkart": 2360,
+      "ajio": 2270
+    },
+    "priceHistory": [
+      {
+        "date": "Oct",
+        "price": 2740
+      },
+      {
+        "date": "Nov",
+        "price": 2620
+      },
+      {
+        "date": "Dec",
+        "price": 2510
+      },
+      {
+        "date": "Jan",
+        "price": 2450
+      },
+      {
+        "date": "Feb",
+        "price": 2450
+      },
+      {
+        "date": "Mar",
+        "price": 2450
+      }
+    ]
+  },
+  {
+    "id": "80",
+    "name": "Satin Slip Dress",
+    "brand": "Zara",
+    "color": "Champagne",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "image": "https://images.unsplash.com/photo-1585487000160-6ebcfceb0d03?w=400&h=500&fit=crop",
+    "category": "Dresses",
+    "gender": "Women",
+    "rating": 4,
+    "reviews": 2664,
+    "prices": {
+      "myntra": 3350,
+      "amazon": 3470,
+      "flipkart": 3600,
+      "ajio": 3740
+    },
+    "priceHistory": [
+      {
+        "date": "Oct",
+        "price": 4040
+      },
+      {
+        "date": "Nov",
+        "price": 3840
+      },
+      {
+        "date": "Dec",
+        "price": 3690
+      },
+      {
+        "date": "Jan",
+        "price": 3580
+      },
+      {
+        "date": "Feb",
+        "price": 3550
+      },
+      {
+        "date": "Mar",
+        "price": 3550
+      }
+    ]
+  },
+  {
+    "id": "81",
+    "name": "Mini Wrap Dress",
+    "brand": "Zara",
+    "color": "Green",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "image": "https://images.unsplash.com/photo-1496747611176-843222e1e57c?w=400&h=500&fit=crop",
+    "category": "Dresses",
+    "gender": "Women",
+    "rating": 4.2,
+    "reviews": 2548,
+    "prices": {
+      "myntra": 2750,
+      "amazon": 3060,
+      "flipkart": 2640,
+      "ajio": 2910
+    },
+    "priceHistory": [
+      {
+        "date": "Oct",
+        "price": 3460
+      },
+      {
+        "date": "Nov",
+        "price": 3400
+      },
+      {
+        "date": "Dec",
+        "price": 3280
+      },
+      {
+        "date": "Jan",
+        "price": 3180
+      },
+      {
+        "date": "Feb",
+        "price": 3090
+      },
+      {
+        "date": "Mar",
+        "price": 2850
+      }
+    ]
+  },
+  {
+    "id": "82",
+    "name": "Jersey Midi Dress",
+    "brand": "H&M",
+    "color": "Black",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "image": "https://images.unsplash.com/photo-1539008835657-9e8e9680c956?w=400&h=500&fit=crop",
+    "category": "Dresses",
+    "gender": "Women",
+    "rating": 4.1,
+    "reviews": 747,
+    "prices": {
+      "myntra": 1650,
+      "amazon": 1750,
+      "flipkart": 1930,
+      "ajio": 2060
+    },
+    "priceHistory": [
+      {
+        "date": "Oct",
+        "price": 2780
+      },
+      {
+        "date": "Nov",
+        "price": 2680
+      },
+      {
+        "date": "Dec",
+        "price": 2500
+      },
+      {
+        "date": "Jan",
+        "price": 2430
+      },
+      {
+        "date": "Feb",
+        "price": 2320
+      },
+      {
+        "date": "Mar",
+        "price": 2040
+      }
+    ]
+  },
+  {
+    "id": "83",
+    "name": "Smocked Tiered Dress",
+    "brand": "H&M",
+    "color": "Floral",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "image": "https://images.unsplash.com/photo-1508162326617-69e6e7c79dd4?w=400&h=500&fit=crop",
+    "category": "Dresses",
+    "gender": "Women",
+    "rating": 3.9,
+    "reviews": 697,
+    "prices": {
+      "myntra": 2150,
+      "amazon": 2530,
+      "flipkart": 2250,
+      "ajio": 2400
+    },
+    "priceHistory": [
+      {
+        "date": "Oct",
+        "price": 3220
+      },
+      {
+        "date": "Nov",
+        "price": 3160
+      },
+      {
+        "date": "Dec",
+        "price": 2960
+      },
+      {
+        "date": "Jan",
+        "price": 2750
+      },
+      {
+        "date": "Feb",
+        "price": 2540
+      },
+      {
+        "date": "Mar",
+        "price": 2450
+      }
+    ]
+  },
+  {
+    "id": "84",
+    "name": "Ruffle Asymmetric Dress",
+    "brand": "Mango",
+    "color": "White",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "image": "https://images.unsplash.com/photo-1572804013309-59a88b7e92f1?w=400&h=500&fit=crop",
+    "category": "Dresses",
+    "gender": "Women",
+    "rating": 4.4,
+    "reviews": 1054,
+    "prices": {
+      "myntra": 4150,
+      "amazon": 3940,
+      "flipkart": 3870,
+      "ajio": 4220
+    },
+    "priceHistory": [
+      {
+        "date": "Oct",
+        "price": 4870
+      },
+      {
+        "date": "Nov",
+        "price": 4690
+      },
+      {
+        "date": "Dec",
+        "price": 4430
+      },
+      {
+        "date": "Jan",
+        "price": 4150
+      },
+      {
+        "date": "Feb",
+        "price": 4050
+      },
+      {
+        "date": "Mar",
+        "price": 4050
+      }
+    ]
+  },
+  {
+    "id": "85",
+    "name": "Knit Bodycon Dress",
+    "brand": "Mango",
+    "color": "Camel",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "image": "https://images.unsplash.com/photo-1585487000160-6ebcfceb0d03?w=400&h=500&fit=crop",
+    "category": "Dresses",
+    "gender": "Women",
+    "rating": 3.9,
+    "reviews": 2426,
+    "prices": {
+      "myntra": 2830,
+      "amazon": 2950,
+      "flipkart": 3100,
+      "ajio": 3250
+    },
+    "priceHistory": [
+      {
+        "date": "Oct",
+        "price": 3710
+      },
+      {
+        "date": "Nov",
+        "price": 3630
+      },
+      {
+        "date": "Dec",
+        "price": 3470
+      },
+      {
+        "date": "Jan",
+        "price": 3370
+      },
+      {
+        "date": "Feb",
+        "price": 3270
+      },
+      {
+        "date": "Mar",
+        "price": 3160
+      }
+    ]
+  },
+  {
+    "id": "86",
+    "name": "Corset Maxi Dress",
+    "brand": "Urbanic",
+    "color": "Black",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "image": "https://images.unsplash.com/photo-1496747611176-843222e1e57c?w=400&h=500&fit=crop",
+    "category": "Dresses",
+    "gender": "Women",
+    "rating": 4.7,
+    "reviews": 1647,
+    "prices": {
+      "myntra": 2140,
+      "amazon": 1850,
+      "flipkart": 1950,
+      "ajio": 2260
+    },
+    "priceHistory": [
+      {
+        "date": "Oct",
+        "price": 2720
+      },
+      {
+        "date": "Nov",
+        "price": 2550
+      },
+      {
+        "date": "Dec",
+        "price": 2270
+      },
+      {
+        "date": "Jan",
+        "price": 2120
+      },
+      {
+        "date": "Feb",
+        "price": 2050
+      },
+      {
+        "date": "Mar",
+        "price": 2050
+      }
+    ]
+  },
+  {
+    "id": "87",
+    "name": "A-Line Sundress",
+    "brand": "Nykaa Fashion",
+    "color": "Yellow",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "image": "https://images.unsplash.com/photo-1539008835657-9e8e9680c956?w=400&h=500&fit=crop",
+    "category": "Dresses",
+    "gender": "Women",
+    "rating": 4.2,
+    "reviews": 813,
+    "prices": {
+      "myntra": 1170,
+      "amazon": 1260,
+      "flipkart": 1410,
+      "ajio": 1540
+    },
+    "priceHistory": [
+      {
+        "date": "Oct",
+        "price": 1760
+      },
+      {
+        "date": "Nov",
+        "price": 1500
+      },
+      {
+        "date": "Dec",
+        "price": 1350
+      },
+      {
+        "date": "Jan",
+        "price": 1350
+      },
+      {
+        "date": "Feb",
+        "price": 1350
+      },
+      {
+        "date": "Mar",
+        "price": 1350
+      }
+    ]
+  },
+  {
+    "id": "88",
+    "name": "Off-Shoulder Midi Dress",
+    "brand": "Nykaa Fashion",
+    "color": "Dusty Rose",
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "image": "https://images.unsplash.com/photo-1508162326617-69e6e7c79dd4?w=400&h=500&fit=crop",
+    "category": "Dresses",
+    "gender": "Women",
+    "rating": 3.8,
+    "reviews": 609,
+    "prices": {
+      "myntra": 1860,
+      "amazon": 1730,
+      "flipkart": 1560,
+      "ajio": 1460
+    },
+    "priceHistory": [
+      {
+        "date": "Oct",
+        "price": 1960
+      },
+      {
+        "date": "Nov",
+        "price": 1710
+      },
+      {
+        "date": "Dec",
+        "price": 1650
+      },
+      {
+        "date": "Jan",
+        "price": 1650
+      },
+      {
+        "date": "Feb",
+        "price": 1650
+      },
+      {
+        "date": "Mar",
+        "price": 1650
+      }
+    ]
+  },
+  {
+    "id": "89",
+    "name": "Easy Swing Dress",
+    "brand": "GAP",
+    "color": "Navy",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "image": "https://images.unsplash.com/photo-1572804013309-59a88b7e92f1?w=400&h=500&fit=crop",
+    "category": "Dresses",
+    "gender": "Women",
+    "rating": 4.6,
+    "reviews": 876,
+    "prices": {
+      "myntra": 2600,
+      "amazon": 2480,
+      "flipkart": 2740,
+      "ajio": 2350
+    },
+    "priceHistory": [
+      {
+        "date": "Oct",
+        "price": 2970
+      },
+      {
+        "date": "Nov",
+        "price": 2770
+      },
+      {
+        "date": "Dec",
+        "price": 2710
+      },
+      {
+        "date": "Jan",
+        "price": 2580
+      },
+      {
+        "date": "Feb",
+        "price": 2550
+      },
+      {
+        "date": "Mar",
+        "price": 2550
+      }
+    ]
+  },
+  {
+    "id": "90",
+    "name": "Linen Shirt Dress",
+    "brand": "Ralph Lauren",
+    "color": "White",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "image": "https://images.unsplash.com/photo-1585487000160-6ebcfceb0d03?w=400&h=500&fit=crop",
+    "category": "Dresses",
+    "gender": "Women",
+    "rating": 4.1,
+    "reviews": 693,
+    "prices": {
+      "myntra": 6360,
+      "amazon": 6440,
+      "flipkart": 6640,
+      "ajio": 6720
+    },
+    "priceHistory": [
+      {
+        "date": "Oct",
+        "price": 7050
+      },
+      {
+        "date": "Nov",
+        "price": 6890
+      },
+      {
+        "date": "Dec",
+        "price": 6780
+      },
+      {
+        "date": "Jan",
+        "price": 6620
+      },
+      {
+        "date": "Feb",
+        "price": 6550
+      },
+      {
+        "date": "Mar",
+        "price": 6550
+      }
+    ]
+  },
+  {
+    "id": "91",
+    "name": "Knit Mini Dress",
+    "brand": "H&M",
+    "color": "Grey",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "image": "https://images.unsplash.com/photo-1496747611176-843222e1e57c?w=400&h=500&fit=crop",
+    "category": "Dresses",
+    "gender": "Women",
+    "rating": 3.9,
+    "reviews": 2022,
+    "prices": {
+      "myntra": 2100,
+      "amazon": 1840,
+      "flipkart": 1990,
+      "ajio": 2230
+    },
+    "priceHistory": [
+      {
+        "date": "Oct",
+        "price": 2450
+      },
+      {
+        "date": "Nov",
+        "price": 2260
+      },
+      {
+        "date": "Dec",
+        "price": 2050
+      },
+      {
+        "date": "Jan",
+        "price": 2050
+      },
+      {
+        "date": "Feb",
+        "price": 2050
+      },
+      {
+        "date": "Mar",
+        "price": 2050
+      }
+    ]
+  },
+  {
+    "id": "92",
+    "name": "Broderie Anglaise Dress",
+    "brand": "Zara",
+    "color": "White",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "image": "https://images.unsplash.com/photo-1539008835657-9e8e9680c956?w=400&h=500&fit=crop",
+    "category": "Dresses",
+    "gender": "Women",
+    "rating": 4.8,
+    "reviews": 116,
+    "prices": {
+      "myntra": 3840,
+      "amazon": 3940,
+      "flipkart": 4130,
+      "ajio": 4220
+    },
+    "priceHistory": [
+      {
+        "date": "Oct",
+        "price": 5000
+      },
+      {
+        "date": "Nov",
+        "price": 4720
+      },
+      {
+        "date": "Dec",
+        "price": 4480
+      },
+      {
+        "date": "Jan",
+        "price": 4200
+      },
+      {
+        "date": "Feb",
+        "price": 4120
+      },
+      {
+        "date": "Mar",
+        "price": 4050
+      }
+    ]
+  },
+  {
+    "id": "93",
+    "name": "Jogger Pants",
+    "brand": "Nike",
+    "color": "Black",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "image": "https://images.unsplash.com/photo-1624378439575-d8705ad7ae80?w=400&h=500&fit=crop",
+    "category": "Pants",
+    "gender": "Men",
+    "rating": 4.7,
+    "reviews": 513,
+    "prices": {
+      "myntra": 2530,
+      "amazon": 2670,
+      "flipkart": 2850,
+      "ajio": 2940
+    },
+    "priceHistory": [
+      {
+        "date": "Oct",
+        "price": 3230
+      },
+      {
+        "date": "Nov",
+        "price": 3030
+      },
+      {
+        "date": "Dec",
+        "price": 2840
+      },
+      {
+        "date": "Jan",
+        "price": 2750
+      },
+      {
+        "date": "Feb",
+        "price": 2750
+      },
+      {
+        "date": "Mar",
+        "price": 2750
+      }
+    ]
+  },
+  {
+    "id": "94",
+    "name": "Tiro Track Pants",
+    "brand": "Adidas",
+    "color": "Black",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "image": "https://images.unsplash.com/photo-1591195853828-11db59a44f6b?w=400&h=500&fit=crop",
+    "category": "Pants",
+    "gender": "Men",
+    "rating": 3.8,
+    "reviews": 2950,
+    "prices": {
+      "myntra": 2620,
+      "amazon": 2760,
+      "flipkart": 2470,
+      "ajio": 2320
+    },
+    "priceHistory": [
+      {
+        "date": "Oct",
+        "price": 3210
+      },
+      {
+        "date": "Nov",
+        "price": 3120
+      },
+      {
+        "date": "Dec",
+        "price": 2860
+      },
+      {
+        "date": "Jan",
+        "price": 2570
+      },
+      {
+        "date": "Feb",
+        "price": 2550
+      },
+      {
+        "date": "Mar",
+        "price": 2550
+      }
+    ]
+  },
+  {
+    "id": "95",
+    "name": "Slim Chino Pants",
+    "brand": "H&M",
+    "color": "Khaki",
+    "sizes": [
+      "28",
+      "30",
+      "32",
+      "34",
+      "36"
+    ],
+    "image": "https://images.unsplash.com/photo-1519058082700-08a0b56da9b4?w=400&h=500&fit=crop",
+    "category": "Pants",
+    "gender": "Men",
+    "rating": 4.7,
+    "reviews": 2947,
+    "prices": {
+      "myntra": 1640,
+      "amazon": 2060,
+      "flipkart": 1770,
+      "ajio": 1930
+    },
+    "priceHistory": [
+      {
+        "date": "Oct",
+        "price": 2400
+      },
+      {
+        "date": "Nov",
+        "price": 2230
+      },
+      {
+        "date": "Dec",
+        "price": 2080
+      },
+      {
+        "date": "Jan",
+        "price": 1990
+      },
+      {
+        "date": "Feb",
+        "price": 1850
+      },
+      {
+        "date": "Mar",
+        "price": 1850
+      }
+    ]
+  },
+  {
+    "id": "96",
+    "name": "Chino Pants",
+    "brand": "GAP",
+    "color": "Beige",
+    "sizes": [
+      "28",
+      "30",
+      "32",
+      "34",
+      "36"
+    ],
+    "image": "https://images.unsplash.com/photo-1473966968600-fa801b869a1a?w=400&h=500&fit=crop",
+    "category": "Pants",
+    "gender": "Men",
+    "rating": 3.8,
+    "reviews": 2222,
+    "prices": {
+      "myntra": 2460,
+      "amazon": 2580,
+      "flipkart": 2720,
+      "ajio": 2830
+    },
+    "priceHistory": [
+      {
+        "date": "Oct",
+        "price": 3050
+      },
+      {
+        "date": "Nov",
+        "price": 2800
+      },
+      {
+        "date": "Dec",
+        "price": 2650
+      },
+      {
+        "date": "Jan",
+        "price": 2650
+      },
+      {
+        "date": "Feb",
+        "price": 2650
+      },
+      {
+        "date": "Mar",
+        "price": 2650
+      }
+    ]
+  },
+  {
+    "id": "97",
+    "name": "Wide-Leg Trousers",
+    "brand": "Zara",
+    "color": "Charcoal",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "image": "https://images.unsplash.com/photo-1624378439575-d8705ad7ae80?w=400&h=500&fit=crop",
+    "category": "Pants",
+    "gender": "Men",
+    "rating": 4.7,
+    "reviews": 3018,
+    "prices": {
+      "myntra": 3540,
+      "amazon": 3440,
+      "flipkart": 3270,
+      "ajio": 3150
+    },
+    "priceHistory": [
+      {
+        "date": "Oct",
+        "price": 3720
+      },
+      {
+        "date": "Nov",
+        "price": 3650
+      },
+      {
+        "date": "Dec",
+        "price": 3380
+      },
+      {
+        "date": "Jan",
+        "price": 3350
+      },
+      {
+        "date": "Feb",
+        "price": 3350
+      },
+      {
+        "date": "Mar",
+        "price": 3350
+      }
+    ]
+  },
+  {
+    "id": "98",
+    "name": "Cargo Pants",
+    "brand": "Mango",
+    "color": "Olive",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "image": "https://images.unsplash.com/photo-1591195853828-11db59a44f6b?w=400&h=500&fit=crop",
+    "category": "Pants",
+    "gender": "Men",
+    "rating": 4.3,
+    "reviews": 1095,
+    "prices": {
+      "myntra": 3250,
+      "amazon": 2860,
+      "flipkart": 2990,
+      "ajio": 3110
+    },
+    "priceHistory": [
+      {
+        "date": "Oct",
+        "price": 3840
+      },
+      {
+        "date": "Nov",
+        "price": 3690
+      },
+      {
+        "date": "Dec",
+        "price": 3500
+      },
+      {
+        "date": "Jan",
+        "price": 3400
+      },
+      {
+        "date": "Feb",
+        "price": 3240
+      },
+      {
+        "date": "Mar",
+        "price": 3050
+      }
+    ]
+  },
+  {
+    "id": "99",
+    "name": "High-Waist Wide Leg Trousers",
+    "brand": "Zara",
+    "color": "Cream",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "image": "https://images.unsplash.com/photo-1519058082700-08a0b56da9b4?w=400&h=500&fit=crop",
+    "category": "Pants",
+    "gender": "Women",
+    "rating": 4.7,
+    "reviews": 2618,
+    "prices": {
+      "myntra": 3270,
+      "amazon": 3440,
+      "flipkart": 3180,
+      "ajio": 3520
+    },
+    "priceHistory": [
+      {
+        "date": "Oct",
+        "price": 4170
+      },
+      {
+        "date": "Nov",
+        "price": 3920
+      },
+      {
+        "date": "Dec",
+        "price": 3860
+      },
+      {
+        "date": "Jan",
+        "price": 3570
+      },
+      {
+        "date": "Feb",
+        "price": 3350
+      },
+      {
+        "date": "Mar",
+        "price": 3350
+      }
+    ]
+  },
+  {
+    "id": "100",
+    "name": "Flared Suit Trousers",
+    "brand": "H&M",
+    "color": "Black",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "image": "https://images.unsplash.com/photo-1473966968600-fa801b869a1a?w=400&h=500&fit=crop",
+    "category": "Pants",
+    "gender": "Women",
+    "rating": 3.8,
+    "reviews": 2252,
+    "prices": {
+      "myntra": 2230,
+      "amazon": 1950,
+      "flipkart": 1820,
+      "ajio": 2140
+    },
+    "priceHistory": [
+      {
+        "date": "Oct",
+        "price": 2570
+      },
+      {
+        "date": "Nov",
+        "price": 2440
+      },
+      {
+        "date": "Dec",
+        "price": 2340
+      },
+      {
+        "date": "Jan",
+        "price": 2060
+      },
+      {
+        "date": "Feb",
+        "price": 2050
+      },
+      {
+        "date": "Mar",
+        "price": 2050
+      }
+    ]
+  },
+  {
+    "id": "101",
+    "name": "One Luxe Tights",
+    "brand": "Nike",
+    "color": "Black",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "image": "https://images.unsplash.com/photo-1624378439575-d8705ad7ae80?w=400&h=500&fit=crop",
+    "category": "Pants",
+    "gender": "Women",
+    "rating": 4.1,
+    "reviews": 789,
+    "prices": {
+      "myntra": 2820,
+      "amazon": 2970,
+      "flipkart": 3120,
+      "ajio": 3230
+    },
+    "priceHistory": [
+      {
+        "date": "Oct",
+        "price": 3250
+      },
+      {
+        "date": "Nov",
+        "price": 3120
+      },
+      {
+        "date": "Dec",
+        "price": 3050
+      },
+      {
+        "date": "Jan",
+        "price": 3050
+      },
+      {
+        "date": "Feb",
+        "price": 3050
+      },
+      {
+        "date": "Mar",
+        "price": 3050
+      }
+    ]
+  },
+  {
+    "id": "102",
+    "name": "Running Training Tights",
+    "brand": "Adidas",
+    "color": "Pink",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "image": "https://images.unsplash.com/photo-1591195853828-11db59a44f6b?w=400&h=500&fit=crop",
+    "category": "Pants",
+    "gender": "Women",
+    "rating": 4.4,
+    "reviews": 2398,
+    "prices": {
+      "myntra": 3050,
+      "amazon": 2920,
+      "flipkart": 2790,
+      "ajio": 2640
+    },
+    "priceHistory": [
+      {
+        "date": "Oct",
+        "price": 3200
+      },
+      {
+        "date": "Nov",
+        "price": 2930
+      },
+      {
+        "date": "Dec",
+        "price": 2850
+      },
+      {
+        "date": "Jan",
+        "price": 2850
+      },
+      {
+        "date": "Feb",
+        "price": 2850
+      },
+      {
+        "date": "Mar",
+        "price": 2850
+      }
+    ]
+  },
+  {
+    "id": "103",
+    "name": "Barrel Leg Trousers",
+    "brand": "Urbanic",
+    "color": "Brown",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "image": "https://images.unsplash.com/photo-1519058082700-08a0b56da9b4?w=400&h=500&fit=crop",
+    "category": "Pants",
+    "gender": "Women",
+    "rating": 4.3,
+    "reviews": 744,
+    "prices": {
+      "myntra": 1350,
+      "amazon": 1770,
+      "flipkart": 1630,
+      "ajio": 1500
+    },
+    "priceHistory": [
+      {
+        "date": "Oct",
+        "price": 2130
+      },
+      {
+        "date": "Nov",
+        "price": 2070
+      },
+      {
+        "date": "Dec",
+        "price": 1890
+      },
+      {
+        "date": "Jan",
+        "price": 1840
+      },
+      {
+        "date": "Feb",
+        "price": 1550
+      },
+      {
+        "date": "Mar",
+        "price": 1550
+      }
+    ]
+  },
+  {
+    "id": "104",
+    "name": "Linen Blend Trousers",
+    "brand": "Mango",
+    "color": "White",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "image": "https://images.unsplash.com/photo-1473966968600-fa801b869a1a?w=400&h=500&fit=crop",
+    "category": "Pants",
+    "gender": "Women",
+    "rating": 4.5,
+    "reviews": 1085,
+    "prices": {
+      "myntra": 2380,
+      "amazon": 2740,
+      "flipkart": 2500,
+      "ajio": 2630
+    },
+    "priceHistory": [
+      {
+        "date": "Oct",
+        "price": 3130
+      },
+      {
+        "date": "Nov",
+        "price": 3040
+      },
+      {
+        "date": "Dec",
+        "price": 2920
+      },
+      {
+        "date": "Jan",
+        "price": 2850
+      },
+      {
+        "date": "Feb",
+        "price": 2700
+      },
+      {
+        "date": "Mar",
+        "price": 2550
+      }
+    ]
+  },
+  {
+    "id": "105",
+    "name": "XX Chino Slim Pants",
+    "brand": "Levi's",
+    "color": "Khaki",
+    "sizes": [
+      "28",
+      "30",
+      "32",
+      "34",
+      "36"
+    ],
+    "image": "https://images.unsplash.com/photo-1624378439575-d8705ad7ae80?w=400&h=500&fit=crop",
+    "category": "Pants",
+    "gender": "Men",
+    "rating": 4.1,
+    "reviews": 396,
+    "prices": {
+      "myntra": 2990,
+      "amazon": 2870,
+      "flipkart": 3110,
+      "ajio": 3260
+    },
+    "priceHistory": [
+      {
+        "date": "Oct",
+        "price": 3870
+      },
+      {
+        "date": "Nov",
+        "price": 3600
+      },
+      {
+        "date": "Dec",
+        "price": 3410
+      },
+      {
+        "date": "Jan",
+        "price": 3280
+      },
+      {
+        "date": "Feb",
+        "price": 3090
+      },
+      {
+        "date": "Mar",
+        "price": 3050
+      }
+    ]
+  },
+  {
+    "id": "106",
+    "name": "High Rise Straight Pants",
+    "brand": "GAP",
+    "color": "Navy",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "image": "https://images.unsplash.com/photo-1591195853828-11db59a44f6b?w=400&h=500&fit=crop",
+    "category": "Pants",
+    "gender": "Women",
+    "rating": 3.8,
+    "reviews": 1837,
+    "prices": {
+      "myntra": 2550,
+      "amazon": 2400,
+      "flipkart": 2260,
+      "ajio": 2150
+    },
+    "priceHistory": [
+      {
+        "date": "Oct",
+        "price": 2490
+      },
+      {
+        "date": "Nov",
+        "price": 2350
+      },
+      {
+        "date": "Dec",
+        "price": 2350
+      },
+      {
+        "date": "Jan",
+        "price": 2350
+      },
+      {
+        "date": "Feb",
+        "price": 2350
+      },
+      {
+        "date": "Mar",
+        "price": 2350
+      }
+    ]
+  },
+  {
+    "id": "107",
+    "name": "Cotton Kurti",
+    "brand": "W",
+    "color": "Pink",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "image": "https://images.unsplash.com/photo-1583391733956-6c78276477e2?w=400&h=500&fit=crop",
+    "category": "Ethnic",
+    "gender": "Women",
+    "rating": 4.1,
+    "reviews": 2065,
+    "prices": {
+      "myntra": 890,
+      "amazon": 1000,
+      "flipkart": 1140,
+      "ajio": 750
+    },
+    "priceHistory": [
+      {
+        "date": "Oct",
+        "price": 1980
+      },
+      {
+        "date": "Nov",
+        "price": 1910
+      },
+      {
+        "date": "Dec",
+        "price": 1660
+      },
+      {
+        "date": "Jan",
+        "price": 1510
+      },
+      {
+        "date": "Feb",
+        "price": 1310
+      },
+      {
+        "date": "Mar",
+        "price": 1220
+      }
+    ]
+  },
+  {
+    "id": "108",
+    "name": "Embroidered Kurta",
+    "brand": "W",
+    "color": "Maroon",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "image": "https://images.unsplash.com/photo-1610030469983-98e550d6193c?w=400&h=500&fit=crop",
+    "category": "Ethnic",
+    "gender": "Women",
+    "rating": 4.1,
+    "reviews": 2799,
+    "prices": {
+      "myntra": 1170,
+      "amazon": 1270,
+      "flipkart": 1410,
+      "ajio": 1570
+    },
+    "priceHistory": [
+      {
+        "date": "Oct",
+        "price": 2080
+      },
+      {
+        "date": "Nov",
+        "price": 2000
+      },
+      {
+        "date": "Dec",
+        "price": 1930
+      },
+      {
+        "date": "Jan",
+        "price": 1710
+      },
+      {
+        "date": "Feb",
+        "price": 1630
+      },
+      {
+        "date": "Mar",
+        "price": 1480
+      }
+    ]
+  },
+  {
+    "id": "109",
+    "name": "Block Print Kurta",
+    "brand": "Mango",
+    "color": "Blue",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "image": "https://images.unsplash.com/photo-1617627143750-d86bc21e42bb?w=400&h=500&fit=crop",
+    "category": "Ethnic",
+    "gender": "Women",
+    "rating": 4.5,
+    "reviews": 1674,
+    "prices": {
+      "myntra": 1660,
+      "amazon": 2060,
+      "flipkart": 1740,
+      "ajio": 1910
+    },
+    "priceHistory": [
+      {
+        "date": "Oct",
+        "price": 1980
+      },
+      {
+        "date": "Nov",
+        "price": 1850
+      },
+      {
+        "date": "Dec",
+        "price": 1850
+      },
+      {
+        "date": "Jan",
+        "price": 1850
+      },
+      {
+        "date": "Feb",
+        "price": 1850
+      },
+      {
+        "date": "Mar",
+        "price": 1850
+      }
+    ]
+  },
+  {
+    "id": "110",
+    "name": "Anarkali Suit",
+    "brand": "Nykaa Fashion",
+    "color": "Green",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "image": "https://images.unsplash.com/photo-1583391733956-6c78276477e2?w=400&h=500&fit=crop",
+    "category": "Ethnic",
+    "gender": "Women",
+    "rating": 4.8,
+    "reviews": 797,
+    "prices": {
+      "myntra": 2600,
+      "amazon": 2340,
+      "flipkart": 2740,
+      "ajio": 2500
+    },
+    "priceHistory": [
+      {
+        "date": "Oct",
+        "price": 3080
+      },
+      {
+        "date": "Nov",
+        "price": 2840
+      },
+      {
+        "date": "Dec",
+        "price": 2740
+      },
+      {
+        "date": "Jan",
+        "price": 2550
+      },
+      {
+        "date": "Feb",
+        "price": 2550
+      },
+      {
+        "date": "Mar",
+        "price": 2550
+      }
+    ]
+  },
+  {
+    "id": "111",
+    "name": "Palazzo Kurta Set",
+    "brand": "Nykaa Fashion",
+    "color": "Peach",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "image": "https://images.unsplash.com/photo-1610030469983-98e550d6193c?w=400&h=500&fit=crop",
+    "category": "Ethnic",
+    "gender": "Women",
+    "rating": 3.9,
+    "reviews": 2100,
+    "prices": {
+      "myntra": 1840,
+      "amazon": 1970,
+      "flipkart": 2220,
+      "ajio": 2100
+    },
+    "priceHistory": [
+      {
+        "date": "Oct",
+        "price": 2330
+      },
+      {
+        "date": "Nov",
+        "price": 2050
+      },
+      {
+        "date": "Dec",
+        "price": 2050
+      },
+      {
+        "date": "Jan",
+        "price": 2050
+      },
+      {
+        "date": "Feb",
+        "price": 2050
+      },
+      {
+        "date": "Mar",
+        "price": 2050
+      }
+    ]
+  },
+  {
+    "id": "112",
+    "name": "Floral Print Kurta",
+    "brand": "GAP",
+    "color": "Yellow",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "image": "https://images.unsplash.com/photo-1617627143750-d86bc21e42bb?w=400&h=500&fit=crop",
+    "category": "Ethnic",
+    "gender": "Women",
+    "rating": 4.2,
+    "reviews": 935,
+    "prices": {
+      "myntra": 1740,
+      "amazon": 1580,
+      "flipkart": 1840,
+      "ajio": 1430
+    },
+    "priceHistory": [
+      {
+        "date": "Oct",
+        "price": 2050
+      },
+      {
+        "date": "Nov",
+        "price": 1960
+      },
+      {
+        "date": "Dec",
+        "price": 1860
+      },
+      {
+        "date": "Jan",
+        "price": 1650
+      },
+      {
+        "date": "Feb",
+        "price": 1650
+      },
+      {
+        "date": "Mar",
+        "price": 1650
+      }
+    ]
+  },
+  {
+    "id": "113",
+    "name": "Indigo Dyed Kurta",
+    "brand": "Levi's",
+    "color": "Blue",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "image": "https://images.unsplash.com/photo-1583391733956-6c78276477e2?w=400&h=500&fit=crop",
+    "category": "Ethnic",
+    "gender": "Women",
+    "rating": 3.8,
+    "reviews": 1350,
+    "prices": {
+      "myntra": 2300,
+      "amazon": 2030,
+      "flipkart": 2170,
+      "ajio": 2460
+    },
+    "priceHistory": [
+      {
+        "date": "Oct",
+        "price": 2860
+      },
+      {
+        "date": "Nov",
+        "price": 2600
+      },
+      {
+        "date": "Dec",
+        "price": 2380
+      },
+      {
+        "date": "Jan",
+        "price": 2290
+      },
+      {
+        "date": "Feb",
+        "price": 2250
+      },
+      {
+        "date": "Mar",
+        "price": 2250
+      }
+    ]
+  },
+  {
+    "id": "114",
+    "name": "Cotton Kurta",
+    "brand": "W",
+    "color": "White",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "image": "https://images.unsplash.com/photo-1610030469983-98e550d6193c?w=400&h=500&fit=crop",
+    "category": "Ethnic",
+    "gender": "Men",
+    "rating": 4.3,
+    "reviews": 1789,
+    "prices": {
+      "myntra": 1180,
+      "amazon": 1560,
+      "flipkart": 1400,
+      "ajio": 1280
+    },
+    "priceHistory": [
+      {
+        "date": "Oct",
+        "price": 1760
+      },
+      {
+        "date": "Nov",
+        "price": 1640
+      },
+      {
+        "date": "Dec",
+        "price": 1410
+      },
+      {
+        "date": "Jan",
+        "price": 1350
+      },
+      {
+        "date": "Feb",
+        "price": 1350
+      },
+      {
+        "date": "Mar",
+        "price": 1350
+      }
+    ]
+  },
+  {
+    "id": "115",
+    "name": "Handloom Kurta",
+    "brand": "Mango",
+    "color": "Beige",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "image": "https://images.unsplash.com/photo-1617627143750-d86bc21e42bb?w=400&h=500&fit=crop",
+    "category": "Ethnic",
+    "gender": "Men",
+    "rating": 4.5,
+    "reviews": 2187,
+    "prices": {
+      "myntra": 2290,
+      "amazon": 2170,
+      "flipkart": 2430,
+      "ajio": 2520
+    },
+    "priceHistory": [
+      {
+        "date": "Oct",
+        "price": 3000
+      },
+      {
+        "date": "Nov",
+        "price": 2880
+      },
+      {
+        "date": "Dec",
+        "price": 2620
+      },
+      {
+        "date": "Jan",
+        "price": 2350
+      },
+      {
+        "date": "Feb",
+        "price": 2350
+      },
+      {
+        "date": "Mar",
+        "price": 2350
+      }
+    ]
+  },
+  {
+    "id": "116",
+    "name": "Mirror Work Skirt Set",
+    "brand": "Urbanic",
+    "color": "Red",
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "image": "https://images.unsplash.com/photo-1583391733956-6c78276477e2?w=400&h=500&fit=crop",
+    "category": "Ethnic",
+    "gender": "Women",
+    "rating": 4.5,
+    "reviews": 2949,
+    "prices": {
+      "myntra": 3050,
+      "amazon": 2920,
+      "flipkart": 2780,
+      "ajio": 2670
+    },
+    "priceHistory": [
+      {
+        "date": "Oct",
+        "price": 3060
+      },
+      {
+        "date": "Nov",
+        "price": 3000
+      },
+      {
+        "date": "Dec",
+        "price": 2850
+      },
+      {
+        "date": "Jan",
+        "price": 2850
+      },
+      {
+        "date": "Feb",
+        "price": 2850
+      },
+      {
+        "date": "Mar",
+        "price": 2850
+      }
+    ]
+  },
+  {
+    "id": "117",
+    "name": "Chanderi Silk Kurta",
+    "brand": "W",
+    "color": "Mint",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "image": "https://images.unsplash.com/photo-1610030469983-98e550d6193c?w=400&h=500&fit=crop",
+    "category": "Ethnic",
+    "gender": "Women",
+    "rating": 4.3,
+    "reviews": 1235,
+    "prices": {
+      "myntra": 1750,
+      "amazon": 1640,
+      "flipkart": 2050,
+      "ajio": 1920
+    },
+    "priceHistory": [
+      {
+        "date": "Oct",
+        "price": 2680
+      },
+      {
+        "date": "Nov",
+        "price": 2540
+      },
+      {
+        "date": "Dec",
+        "price": 2450
+      },
+      {
+        "date": "Jan",
+        "price": 2150
+      },
+      {
+        "date": "Feb",
+        "price": 1920
+      },
+      {
+        "date": "Mar",
+        "price": 1850
+      }
+    ]
+  },
+  {
+    "id": "118",
+    "name": "Maxi Boho Skirt",
+    "brand": "H&M",
+    "color": "Mustard",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "image": "https://images.unsplash.com/photo-1594938298603-c8148c4bae73?w=400&h=500&fit=crop",
+    "category": "Skirts",
+    "gender": "Women",
+    "rating": 4.8,
+    "reviews": 670,
+    "prices": {
+      "myntra": 1960,
+      "amazon": 1690,
+      "flipkart": 1830,
+      "ajio": 1550
+    },
+    "priceHistory": [
+      {
+        "date": "Oct",
+        "price": 2030
+      },
+      {
+        "date": "Nov",
+        "price": 1950
+      },
+      {
+        "date": "Dec",
+        "price": 1830
+      },
+      {
+        "date": "Jan",
+        "price": 1750
+      },
+      {
+        "date": "Feb",
+        "price": 1750
+      },
+      {
+        "date": "Mar",
+        "price": 1750
+      }
+    ]
+  },
+  {
+    "id": "119",
+    "name": "Pleated Mini Skirt",
+    "brand": "Zara",
+    "color": "Black",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "image": "https://images.unsplash.com/photo-1571513800374-df1bbe650e56?w=400&h=500&fit=crop",
+    "category": "Skirts",
+    "gender": "Women",
+    "rating": 3.9,
+    "reviews": 1763,
+    "prices": {
+      "myntra": 2670,
+      "amazon": 2780,
+      "flipkart": 2950,
+      "ajio": 3020
+    },
+    "priceHistory": [
+      {
+        "date": "Oct",
+        "price": 3760
+      },
+      {
+        "date": "Nov",
+        "price": 3480
+      },
+      {
+        "date": "Dec",
+        "price": 3420
+      },
+      {
+        "date": "Jan",
+        "price": 3280
+      },
+      {
+        "date": "Feb",
+        "price": 3050
+      },
+      {
+        "date": "Mar",
+        "price": 2980
+      }
+    ]
+  },
+  {
+    "id": "120",
+    "name": "Satin Midi Skirt",
+    "brand": "Zara",
+    "color": "Brown",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "image": "https://images.unsplash.com/photo-1564257631407-4deb1f99d992?w=400&h=500&fit=crop",
+    "category": "Skirts",
+    "gender": "Women",
+    "rating": 3.9,
+    "reviews": 2788,
+    "prices": {
+      "myntra": 3440,
+      "amazon": 3050,
+      "flipkart": 3170,
+      "ajio": 3300
+    },
+    "priceHistory": [
+      {
+        "date": "Oct",
+        "price": 3440
+      },
+      {
+        "date": "Nov",
+        "price": 3340
+      },
+      {
+        "date": "Dec",
+        "price": 3250
+      },
+      {
+        "date": "Jan",
+        "price": 3250
+      },
+      {
+        "date": "Feb",
+        "price": 3250
+      },
+      {
+        "date": "Mar",
+        "price": 3250
+      }
+    ]
+  },
+  {
+    "id": "121",
+    "name": "Denim Mini Skirt",
+    "brand": "Mango",
+    "color": "Blue",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "image": "https://images.unsplash.com/photo-1594938298603-c8148c4bae73?w=400&h=500&fit=crop",
+    "category": "Skirts",
+    "gender": "Women",
+    "rating": 3.8,
+    "reviews": 2697,
+    "prices": {
+      "myntra": 2540,
+      "amazon": 2400,
+      "flipkart": 2260,
+      "ajio": 2140
+    },
+    "priceHistory": [
+      {
+        "date": "Oct",
+        "price": 2660
+      },
+      {
+        "date": "Nov",
+        "price": 2410
+      },
+      {
+        "date": "Dec",
+        "price": 2350
+      },
+      {
+        "date": "Jan",
+        "price": 2350
+      },
+      {
+        "date": "Feb",
+        "price": 2350
+      },
+      {
+        "date": "Mar",
+        "price": 2350
+      }
+    ]
+  },
+  {
+    "id": "122",
+    "name": "Cargo Mini Skirt",
+    "brand": "Urbanic",
+    "color": "Olive",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "image": "https://images.unsplash.com/photo-1571513800374-df1bbe650e56?w=400&h=500&fit=crop",
+    "category": "Skirts",
+    "gender": "Women",
+    "rating": 4.8,
+    "reviews": 2304,
+    "prices": {
+      "myntra": 1570,
+      "amazon": 1140,
+      "flipkart": 1270,
+      "ajio": 1400
+    },
+    "priceHistory": [
+      {
+        "date": "Oct",
+        "price": 2010
+      },
+      {
+        "date": "Nov",
+        "price": 1720
+      },
+      {
+        "date": "Dec",
+        "price": 1550
+      },
+      {
+        "date": "Jan",
+        "price": 1480
+      },
+      {
+        "date": "Feb",
+        "price": 1350
+      },
+      {
+        "date": "Mar",
+        "price": 1350
+      }
+    ]
+  },
+  {
+    "id": "123",
+    "name": "Floral Wrap Skirt",
+    "brand": "Nykaa Fashion",
+    "color": "Coral",
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "image": "https://images.unsplash.com/photo-1564257631407-4deb1f99d992?w=400&h=500&fit=crop",
+    "category": "Skirts",
+    "gender": "Women",
+    "rating": 4,
+    "reviews": 494,
+    "prices": {
+      "myntra": 1210,
+      "amazon": 1150,
+      "flipkart": 980,
+      "ajio": 860
+    },
+    "priceHistory": [
+      {
+        "date": "Oct",
+        "price": 1560
+      },
+      {
+        "date": "Nov",
+        "price": 1260
+      },
+      {
+        "date": "Dec",
+        "price": 1050
+      },
+      {
+        "date": "Jan",
+        "price": 1050
+      },
+      {
+        "date": "Feb",
+        "price": 1050
+      },
+      {
+        "date": "Mar",
+        "price": 1050
+      }
+    ]
+  },
+  {
+    "id": "124",
+    "name": "A-Line Skirt",
+    "brand": "GAP",
+    "color": "Navy",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "image": "https://images.unsplash.com/photo-1594938298603-c8148c4bae73?w=400&h=500&fit=crop",
+    "category": "Skirts",
+    "gender": "Women",
+    "rating": 4.5,
+    "reviews": 693,
+    "prices": {
+      "myntra": 2030,
+      "amazon": 1770,
+      "flipkart": 1920,
+      "ajio": 1650
+    },
+    "priceHistory": [
+      {
+        "date": "Oct",
+        "price": 2780
+      },
+      {
+        "date": "Nov",
+        "price": 2680
+      },
+      {
+        "date": "Dec",
+        "price": 2610
+      },
+      {
+        "date": "Jan",
+        "price": 2540
+      },
+      {
+        "date": "Feb",
+        "price": 2410
+      },
+      {
+        "date": "Mar",
+        "price": 2230
+      }
+    ]
+  },
+  {
+    "id": "125",
+    "name": "Jersey Mini Skirt",
+    "brand": "H&M",
+    "color": "Black",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "image": "https://images.unsplash.com/photo-1571513800374-df1bbe650e56?w=400&h=500&fit=crop",
+    "category": "Skirts",
+    "gender": "Women",
+    "rating": 4.6,
+    "reviews": 2294,
+    "prices": {
+      "myntra": 1110,
+      "amazon": 960,
+      "flipkart": 1250,
+      "ajio": 860
+    },
+    "priceHistory": [
+      {
+        "date": "Oct",
+        "price": 1660
+      },
+      {
+        "date": "Nov",
+        "price": 1570
+      },
+      {
+        "date": "Dec",
+        "price": 1490
+      },
+      {
+        "date": "Jan",
+        "price": 1210
+      },
+      {
+        "date": "Feb",
+        "price": 1050
+      },
+      {
+        "date": "Mar",
+        "price": 1050
+      }
+    ]
+  },
+  {
+    "id": "126",
+    "name": "Leather Look Maxi Skirt",
+    "brand": "Mango",
+    "color": "Black",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "image": "https://images.unsplash.com/photo-1564257631407-4deb1f99d992?w=400&h=500&fit=crop",
+    "category": "Skirts",
+    "gender": "Women",
+    "rating": 4.5,
+    "reviews": 2242,
+    "prices": {
+      "myntra": 3330,
+      "amazon": 3490,
+      "flipkart": 3620,
+      "ajio": 3720
+    },
+    "priceHistory": [
+      {
+        "date": "Oct",
+        "price": 3950
+      },
+      {
+        "date": "Nov",
+        "price": 3690
+      },
+      {
+        "date": "Dec",
+        "price": 3570
+      },
+      {
+        "date": "Jan",
+        "price": 3550
+      },
+      {
+        "date": "Feb",
+        "price": 3550
+      },
+      {
+        "date": "Mar",
+        "price": 3550
+      }
+    ]
+  },
+  {
+    "id": "127",
+    "name": "Air Max 270",
+    "brand": "Nike",
+    "color": "White",
+    "sizes": [
+      "6",
+      "7",
+      "8",
+      "9",
+      "10",
+      "11"
+    ],
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=400&h=500&fit=crop",
+    "category": "Sneakers",
+    "gender": "Unisex",
+    "rating": 4.2,
+    "reviews": 1518,
+    "prices": {
+      "myntra": 9220,
+      "amazon": 8840,
+      "flipkart": 8960,
+      "ajio": 9150
+    },
+    "priceHistory": [
+      {
+        "date": "Oct",
+        "price": 9350
+      },
+      {
+        "date": "Nov",
+        "price": 9220
+      },
+      {
+        "date": "Dec",
+        "price": 9050
+      },
+      {
+        "date": "Jan",
+        "price": 9050
+      },
+      {
+        "date": "Feb",
+        "price": 9050
+      },
+      {
+        "date": "Mar",
+        "price": 9050
+      }
+    ]
+  },
+  {
+    "id": "128",
+    "name": "Air Force 1",
+    "brand": "Nike",
+    "color": "White",
+    "sizes": [
+      "6",
+      "7",
+      "8",
+      "9",
+      "10",
+      "11"
+    ],
+    "image": "https://images.unsplash.com/photo-1584735175315-9d5df23be620?w=400&h=500&fit=crop",
+    "category": "Sneakers",
+    "gender": "Unisex",
+    "rating": 3.8,
+    "reviews": 1458,
+    "prices": {
+      "myntra": 8230,
+      "amazon": 7850,
+      "flipkart": 7980,
+      "ajio": 8090
+    },
+    "priceHistory": [
+      {
+        "date": "Oct",
+        "price": 8560
+      },
+      {
+        "date": "Nov",
+        "price": 8370
+      },
+      {
+        "date": "Dec",
+        "price": 8220
+      },
+      {
+        "date": "Jan",
+        "price": 8050
+      },
+      {
+        "date": "Feb",
+        "price": 8050
+      },
+      {
+        "date": "Mar",
+        "price": 8050
+      }
+    ]
+  },
+  {
+    "id": "129",
+    "name": "Revolution 6",
+    "brand": "Nike",
+    "color": "Black",
+    "sizes": [
+      "6",
+      "7",
+      "8",
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "image": "https://images.unsplash.com/photo-1600185365926-3a2ce3cdb9eb?w=400&h=500&fit=crop",
+    "category": "Sneakers",
+    "gender": "Unisex",
+    "rating": 4.7,
+    "reviews": 1285,
+    "prices": {
+      "myntra": 4350,
+      "amazon": 4460,
+      "flipkart": 4650,
+      "ajio": 4720
+    },
+    "priceHistory": [
+      {
+        "date": "Oct",
+        "price": 4750
+      },
+      {
+        "date": "Nov",
+        "price": 4550
+      },
+      {
+        "date": "Dec",
+        "price": 4550
+      },
+      {
+        "date": "Jan",
+        "price": 4550
+      },
+      {
+        "date": "Feb",
+        "price": 4550
+      },
+      {
+        "date": "Mar",
+        "price": 4550
+      }
+    ]
+  },
+  {
+    "id": "130",
+    "name": "Stan Smith",
+    "brand": "Adidas",
+    "color": "White/Green",
+    "sizes": [
+      "6",
+      "7",
+      "8",
+      "9",
+      "10",
+      "11"
+    ],
+    "image": "https://images.unsplash.com/photo-1595950653106-6c9ebd614d3a?w=400&h=500&fit=crop",
+    "category": "Sneakers",
+    "gender": "Unisex",
+    "rating": 4.7,
+    "reviews": 1415,
+    "prices": {
+      "myntra": 6880,
+      "amazon": 6950,
+      "flipkart": 7150,
+      "ajio": 7270
+    },
+    "priceHistory": [
+      {
+        "date": "Oct",
+        "price": 7190
+      },
+      {
+        "date": "Nov",
+        "price": 7050
+      },
+      {
+        "date": "Dec",
+        "price": 7050
+      },
+      {
+        "date": "Jan",
+        "price": 7050
+      },
+      {
+        "date": "Feb",
+        "price": 7050
+      },
+      {
+        "date": "Mar",
+        "price": 7050
+      }
+    ]
+  },
+  {
+    "id": "131",
+    "name": "Ultraboost 22",
+    "brand": "Adidas",
+    "color": "Core Black",
+    "sizes": [
+      "6",
+      "7",
+      "8",
+      "9",
+      "10",
+      "11"
+    ],
+    "image": "https://images.unsplash.com/photo-1491553895911-0055eca6402d?w=400&h=500&fit=crop",
+    "category": "Sneakers",
+    "gender": "Unisex",
+    "rating": 4.2,
+    "reviews": 298,
+    "prices": {
+      "myntra": 13130,
+      "amazon": 12960,
+      "flipkart": 12820,
+      "ajio": 13210
+    },
+    "priceHistory": [
+      {
+        "date": "Oct",
+        "price": 13670
+      },
+      {
+        "date": "Nov",
+        "price": 13440
+      },
+      {
+        "date": "Dec",
+        "price": 13380
+      },
+      {
+        "date": "Jan",
+        "price": 13210
+      },
+      {
+        "date": "Feb",
+        "price": 13130
+      },
+      {
+        "date": "Mar",
+        "price": 13070
+      }
+    ]
+  },
+  {
+    "id": "132",
+    "name": "Forum Low",
+    "brand": "Adidas",
+    "color": "White",
+    "sizes": [
+      "6",
+      "7",
+      "8",
+      "9",
+      "10",
+      "11"
+    ],
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=400&h=500&fit=crop",
+    "category": "Sneakers",
+    "gender": "Unisex",
+    "rating": 4.6,
+    "reviews": 1179,
+    "prices": {
+      "myntra": 6260,
+      "amazon": 5960,
+      "flipkart": 5860,
+      "ajio": 6120
+    },
+    "priceHistory": [
+      {
+        "date": "Oct",
+        "price": 6930
+      },
+      {
+        "date": "Nov",
+        "price": 6800
+      },
+      {
+        "date": "Dec",
+        "price": 6560
+      },
+      {
+        "date": "Jan",
+        "price": 6390
+      },
+      {
+        "date": "Feb",
+        "price": 6180
+      },
+      {
+        "date": "Mar",
+        "price": 6110
+      }
+    ]
+  },
+  {
+    "id": "133",
+    "name": "Vernon Canvas Sneaker",
+    "brand": "Levi's",
+    "color": "Navy",
+    "sizes": [
+      "7",
+      "8",
+      "9",
+      "10",
+      "11"
+    ],
+    "image": "https://images.unsplash.com/photo-1584735175315-9d5df23be620?w=400&h=500&fit=crop",
+    "category": "Sneakers",
+    "gender": "Men",
+    "rating": 4.2,
+    "reviews": 1609,
+    "prices": {
+      "myntra": 3100,
+      "amazon": 3230,
+      "flipkart": 2970,
+      "ajio": 2820
+    },
+    "priceHistory": [
+      {
+        "date": "Oct",
+        "price": 3500
+      },
+      {
+        "date": "Nov",
+        "price": 3410
+      },
+      {
+        "date": "Dec",
+        "price": 3130
+      },
+      {
+        "date": "Jan",
+        "price": 3050
+      },
+      {
+        "date": "Feb",
+        "price": 3050
+      },
+      {
+        "date": "Mar",
+        "price": 3050
+      }
+    ]
+  },
+  {
+    "id": "134",
+    "name": "Classic Low Sneaker",
+    "brand": "GAP",
+    "color": "White",
+    "sizes": [
+      "7",
+      "8",
+      "9",
+      "10",
+      "11"
+    ],
+    "image": "https://images.unsplash.com/photo-1600185365926-3a2ce3cdb9eb?w=400&h=500&fit=crop",
+    "category": "Sneakers",
+    "gender": "Men",
+    "rating": 4.6,
+    "reviews": 1552,
+    "prices": {
+      "myntra": 2480,
+      "amazon": 2740,
+      "flipkart": 2630,
+      "ajio": 2370
+    },
+    "priceHistory": [
+      {
+        "date": "Oct",
+        "price": 3340
+      },
+      {
+        "date": "Nov",
+        "price": 3210
+      },
+      {
+        "date": "Dec",
+        "price": 2960
+      },
+      {
+        "date": "Jan",
+        "price": 2670
+      },
+      {
+        "date": "Feb",
+        "price": 2550
+      },
+      {
+        "date": "Mar",
+        "price": 2550
+      }
+    ]
+  },
+  {
+    "id": "135",
+    "name": "Court Legacy Lift",
+    "brand": "Nike",
+    "color": "White",
+    "sizes": [
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "image": "https://images.unsplash.com/photo-1595950653106-6c9ebd614d3a?w=400&h=500&fit=crop",
+    "category": "Sneakers",
+    "gender": "Women",
+    "rating": 4,
+    "reviews": 2175,
+    "prices": {
+      "myntra": 5610,
+      "amazon": 5740,
+      "flipkart": 5470,
+      "ajio": 5320
+    },
+    "priceHistory": [
+      {
+        "date": "Oct",
+        "price": 5960
+      },
+      {
+        "date": "Nov",
+        "price": 5800
+      },
+      {
+        "date": "Dec",
+        "price": 5710
+      },
+      {
+        "date": "Jan",
+        "price": 5550
+      },
+      {
+        "date": "Feb",
+        "price": 5550
+      },
+      {
+        "date": "Mar",
+        "price": 5550
+      }
+    ]
+  },
+  {
+    "id": "136",
+    "name": "VL Court 3.0",
+    "brand": "Adidas",
+    "color": "Pink",
+    "sizes": [
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "image": "https://images.unsplash.com/photo-1491553895911-0055eca6402d?w=400&h=500&fit=crop",
+    "category": "Sneakers",
+    "gender": "Women",
+    "rating": 4.8,
+    "reviews": 1407,
+    "prices": {
+      "myntra": 5140,
+      "amazon": 4990,
+      "flipkart": 5270,
+      "ajio": 4830
+    },
+    "priceHistory": [
+      {
+        "date": "Oct",
+        "price": 5960
+      },
+      {
+        "date": "Nov",
+        "price": 5800
+      },
+      {
+        "date": "Dec",
+        "price": 5640
+      },
+      {
+        "date": "Jan",
+        "price": 5350
+      },
+      {
+        "date": "Feb",
+        "price": 5080
+      },
+      {
+        "date": "Mar",
+        "price": 5050
+      }
+    ]
+  },
+  {
+    "id": "137",
+    "name": "Platform Sneaker",
+    "brand": "Zara",
+    "color": "White",
+    "sizes": [
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=400&h=500&fit=crop",
+    "category": "Sneakers",
+    "gender": "Women",
+    "rating": 4.5,
+    "reviews": 2258,
+    "prices": {
+      "myntra": 4150,
+      "amazon": 3950,
+      "flipkart": 4210,
+      "ajio": 3840
+    },
+    "priceHistory": [
+      {
+        "date": "Oct",
+        "price": 5060
+      },
+      {
+        "date": "Nov",
+        "price": 4950
+      },
+      {
+        "date": "Dec",
+        "price": 4720
+      },
+      {
+        "date": "Jan",
+        "price": 4590
+      },
+      {
+        "date": "Feb",
+        "price": 4300
+      },
+      {
+        "date": "Mar",
+        "price": 4140
+      }
+    ]
+  },
+  {
+    "id": "138",
+    "name": "Chunky Sole Sneaker",
+    "brand": "Mango",
+    "color": "Beige",
+    "sizes": [
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "image": "https://images.unsplash.com/photo-1584735175315-9d5df23be620?w=400&h=500&fit=crop",
+    "category": "Sneakers",
+    "gender": "Women",
+    "rating": 4.5,
+    "reviews": 1232,
+    "prices": {
+      "myntra": 3730,
+      "amazon": 3640,
+      "flipkart": 3460,
+      "ajio": 3370
+    },
+    "priceHistory": [
+      {
+        "date": "Oct",
+        "price": 4360
+      },
+      {
+        "date": "Nov",
+        "price": 4300
+      },
+      {
+        "date": "Dec",
+        "price": 4190
+      },
+      {
+        "date": "Jan",
+        "price": 4020
+      },
+      {
+        "date": "Feb",
+        "price": 3870
+      },
+      {
+        "date": "Mar",
+        "price": 3590
+      }
+    ]
+  },
+  {
+    "id": "139",
+    "name": "Pegasus 40",
+    "brand": "Nike",
+    "color": "Blue",
+    "sizes": [
+      "6",
+      "7",
+      "8",
+      "9",
+      "10",
+      "11"
+    ],
+    "image": "https://images.unsplash.com/photo-1600185365926-3a2ce3cdb9eb?w=400&h=500&fit=crop",
+    "category": "Sneakers",
+    "gender": "Unisex",
+    "rating": 4,
+    "reviews": 601,
+    "prices": {
+      "myntra": 9870,
+      "amazon": 9980,
+      "flipkart": 10110,
+      "ajio": 10210
+    },
+    "priceHistory": [
+      {
+        "date": "Oct",
+        "price": 10290
+      },
+      {
+        "date": "Nov",
+        "price": 10050
+      },
+      {
+        "date": "Dec",
+        "price": 10050
+      },
+      {
+        "date": "Jan",
+        "price": 10050
+      },
+      {
+        "date": "Feb",
+        "price": 10050
+      },
+      {
+        "date": "Mar",
+        "price": 10050
+      }
+    ]
+  },
+  {
+    "id": "140",
+    "name": "Samba OG",
+    "brand": "Adidas",
+    "color": "White/Black",
+    "sizes": [
+      "6",
+      "7",
+      "8",
+      "9",
+      "10",
+      "11"
+    ],
+    "image": "https://images.unsplash.com/photo-1595950653106-6c9ebd614d3a?w=400&h=500&fit=crop",
+    "category": "Sneakers",
+    "gender": "Unisex",
+    "rating": 4.6,
+    "reviews": 2007,
+    "prices": {
+      "myntra": 7870,
+      "amazon": 7940,
+      "flipkart": 8150,
+      "ajio": 8250
+    },
+    "priceHistory": [
+      {
+        "date": "Oct",
+        "price": 8640
+      },
+      {
+        "date": "Nov",
+        "price": 8430
+      },
+      {
+        "date": "Dec",
+        "price": 8200
+      },
+      {
+        "date": "Jan",
+        "price": 8120
+      },
+      {
+        "date": "Feb",
+        "price": 8050
+      },
+      {
+        "date": "Mar",
+        "price": 8050
+      }
+    ]
+  },
+  {
+    "id": "141",
+    "name": "Reversible Belt",
+    "brand": "Levi's",
+    "color": "Black/Brown",
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=400&h=500&fit=crop",
+    "category": "Accessories",
+    "gender": "Unisex",
+    "rating": 4.4,
+    "reviews": 524,
+    "prices": {
+      "myntra": 1440,
+      "amazon": 1550,
+      "flipkart": 1280,
+      "ajio": 1140
+    },
+    "priceHistory": [
+      {
+        "date": "Oct",
+        "price": 1690
+      },
+      {
+        "date": "Nov",
+        "price": 1450
+      },
+      {
+        "date": "Dec",
+        "price": 1350
+      },
+      {
+        "date": "Jan",
+        "price": 1350
+      },
+      {
+        "date": "Feb",
+        "price": 1350
+      },
+      {
+        "date": "Mar",
+        "price": 1350
+      }
+    ]
+  },
+  {
+    "id": "142",
+    "name": "Canvas Tote Bag",
+    "brand": "H&M",
+    "color": "Natural",
+    "sizes": [
+      "One Size"
+    ],
+    "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=400&h=500&fit=crop",
+    "category": "Accessories",
+    "gender": "Unisex",
+    "rating": 4.4,
+    "reviews": 1198,
+    "prices": {
+      "myntra": 570,
+      "amazon": 680,
+      "flipkart": 810,
+      "ajio": 950
+    },
+    "priceHistory": [
+      {
+        "date": "Oct",
+        "price": 980
+      },
+      {
+        "date": "Nov",
+        "price": 920
+      },
+      {
+        "date": "Dec",
+        "price": 750
+      },
+      {
+        "date": "Jan",
+        "price": 750
+      },
+      {
+        "date": "Feb",
+        "price": 750
+      },
+      {
+        "date": "Mar",
+        "price": 750
+      }
+    ]
+  },
+  {
+    "id": "143",
+    "name": "Heritage Cap",
+    "brand": "Nike",
+    "color": "Black",
+    "sizes": [
+      "One Size"
+    ],
+    "image": "https://images.unsplash.com/photo-1548036328-c9fa89d128fa?w=400&h=500&fit=crop",
+    "category": "Accessories",
+    "gender": "Unisex",
+    "rating": 4.8,
+    "reviews": 2933,
+    "prices": {
+      "myntra": 1270,
+      "amazon": 1420,
+      "flipkart": 1150,
+      "ajio": 1560
+    },
+    "priceHistory": [
+      {
+        "date": "Oct",
+        "price": 1630
+      },
+      {
+        "date": "Nov",
+        "price": 1550
+      },
+      {
+        "date": "Dec",
+        "price": 1490
+      },
+      {
+        "date": "Jan",
+        "price": 1420
+      },
+      {
+        "date": "Feb",
+        "price": 1350
+      },
+      {
+        "date": "Mar",
+        "price": 1350
+      }
+    ]
+  },
+  {
+    "id": "144",
+    "name": "Classic Backpack",
+    "brand": "Adidas",
+    "color": "Black",
+    "sizes": [
+      "One Size"
+    ],
+    "image": "https://images.unsplash.com/photo-1590736969955-71cc94901144?w=400&h=500&fit=crop",
+    "category": "Accessories",
+    "gender": "Unisex",
+    "rating": 4.2,
+    "reviews": 1525,
+    "prices": {
+      "myntra": 2600,
+      "amazon": 2740,
+      "flipkart": 2320,
+      "ajio": 2500
+    },
+    "priceHistory": [
+      {
+        "date": "Oct",
+        "price": 3270
+      },
+      {
+        "date": "Nov",
+        "price": 3210
+      },
+      {
+        "date": "Dec",
+        "price": 3050
+      },
+      {
+        "date": "Jan",
+        "price": 2830
+      },
+      {
+        "date": "Feb",
+        "price": 2640
+      },
+      {
+        "date": "Mar",
+        "price": 2550
+      }
+    ]
+  },
+  {
+    "id": "145",
+    "name": "Beanie Hat",
+    "brand": "GAP",
+    "color": "Grey",
+    "sizes": [
+      "One Size"
+    ],
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=400&h=500&fit=crop",
+    "category": "Accessories",
+    "gender": "Unisex",
+    "rating": 4.5,
+    "reviews": 2020,
+    "prices": {
+      "myntra": 740,
+      "amazon": 1170,
+      "flipkart": 900,
+      "ajio": 1040
+    },
+    "priceHistory": [
+      {
+        "date": "Oct",
+        "price": 1410
+      },
+      {
+        "date": "Nov",
+        "price": 1300
+      },
+      {
+        "date": "Dec",
+        "price": 1090
+      },
+      {
+        "date": "Jan",
+        "price": 1040
+      },
+      {
+        "date": "Feb",
+        "price": 950
+      },
+      {
+        "date": "Mar",
+        "price": 950
+      }
+    ]
+  },
+  {
+    "id": "146",
+    "name": "Mini Shoulder Bag",
+    "brand": "Mango",
+    "color": "Tan",
+    "sizes": [
+      "One Size"
+    ],
+    "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=400&h=500&fit=crop",
+    "category": "Accessories",
+    "gender": "Women",
+    "rating": 4.8,
+    "reviews": 2143,
+    "prices": {
+      "myntra": 2830,
+      "amazon": 2990,
+      "flipkart": 3100,
+      "ajio": 3240
+    },
+    "priceHistory": [
+      {
+        "date": "Oct",
+        "price": 3340
+      },
+      {
+        "date": "Nov",
+        "price": 3050
+      },
+      {
+        "date": "Dec",
+        "price": 3050
+      },
+      {
+        "date": "Jan",
+        "price": 3050
+      },
+      {
+        "date": "Feb",
+        "price": 3050
+      },
+      {
+        "date": "Mar",
+        "price": 3050
+      }
+    ]
+  },
+  {
+    "id": "147",
+    "name": "Crossbody Bag",
+    "brand": "Zara",
+    "color": "Black",
+    "sizes": [
+      "One Size"
+    ],
+    "image": "https://images.unsplash.com/photo-1548036328-c9fa89d128fa?w=400&h=500&fit=crop",
+    "category": "Accessories",
+    "gender": "Women",
+    "rating": 4.6,
+    "reviews": 2668,
+    "prices": {
+      "myntra": 3870,
+      "amazon": 3990,
+      "flipkart": 4120,
+      "ajio": 4270
+    },
+    "priceHistory": [
+      {
+        "date": "Oct",
+        "price": 4240
+      },
+      {
+        "date": "Nov",
+        "price": 4050
+      },
+      {
+        "date": "Dec",
+        "price": 4050
+      },
+      {
+        "date": "Jan",
+        "price": 4050
+      },
+      {
+        "date": "Feb",
+        "price": 4050
+      },
+      {
+        "date": "Mar",
+        "price": 4050
+      }
+    ]
+  },
+  {
+    "id": "148",
+    "name": "Silk Scrunchie Set",
+    "brand": "Nykaa Fashion",
+    "color": "Multicolor",
+    "sizes": [
+      "One Size"
+    ],
+    "image": "https://images.unsplash.com/photo-1590736969955-71cc94901144?w=400&h=500&fit=crop",
+    "category": "Accessories",
+    "gender": "Women",
+    "rating": 4.6,
+    "reviews": 1376,
+    "prices": {
+      "myntra": 670,
+      "amazon": 360,
+      "flipkart": 250,
+      "ajio": 510
+    },
+    "priceHistory": [
+      {
+        "date": "Oct",
+        "price": 1300
+      },
+      {
+        "date": "Nov",
+        "price": 1150
+      },
+      {
+        "date": "Dec",
+        "price": 980
+      },
+      {
+        "date": "Jan",
+        "price": 680
+      },
+      {
+        "date": "Feb",
+        "price": 580
+      },
+      {
+        "date": "Mar",
+        "price": 450
+      }
+    ]
+  },
+  {
+    "id": "149",
+    "name": "Leather Wallet",
+    "brand": "Ralph Lauren",
+    "color": "Brown",
+    "sizes": [
+      "One Size"
+    ],
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=400&h=500&fit=crop",
+    "category": "Accessories",
+    "gender": "Men",
+    "rating": 4,
+    "reviews": 871,
+    "prices": {
+      "myntra": 3330,
+      "amazon": 3460,
+      "flipkart": 3600,
+      "ajio": 3730
+    },
+    "priceHistory": [
+      {
+        "date": "Oct",
+        "price": 4160
+      },
+      {
+        "date": "Nov",
+        "price": 3860
+      },
+      {
+        "date": "Dec",
+        "price": 3670
+      },
+      {
+        "date": "Jan",
+        "price": 3620
+      },
+      {
+        "date": "Feb",
+        "price": 3550
+      },
+      {
+        "date": "Mar",
+        "price": 3550
+      }
+    ]
+  },
+  {
+    "id": "150",
+    "name": "Retro Sunglasses",
+    "brand": "H&M",
+    "color": "Tortoise",
+    "sizes": [
+      "One Size"
+    ],
+    "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=400&h=500&fit=crop",
+    "category": "Accessories",
+    "gender": "Unisex",
+    "rating": 4.6,
+    "reviews": 2127,
+    "prices": {
+      "myntra": 1210,
+      "amazon": 990,
+      "flipkart": 1140,
+      "ajio": 880
+    },
+    "priceHistory": [
+      {
+        "date": "Oct",
+        "price": 1730
+      },
+      {
+        "date": "Nov",
+        "price": 1480
+      },
+      {
+        "date": "Dec",
+        "price": 1280
+      },
+      {
+        "date": "Jan",
+        "price": 1200
+      },
+      {
+        "date": "Feb",
+        "price": 1070
+      },
+      {
+        "date": "Mar",
+        "price": 1050
+      }
+    ]
+  },
+  {
+    "id": "151",
+    "name": "Chain Strap Mini Bag",
+    "brand": "Urbanic",
+    "color": "Silver",
+    "sizes": [
+      "One Size"
+    ],
+    "image": "https://images.unsplash.com/photo-1548036328-c9fa89d128fa?w=400&h=500&fit=crop",
+    "category": "Accessories",
+    "gender": "Women",
+    "rating": 4.7,
+    "reviews": 3132,
+    "prices": {
+      "myntra": 1730,
+      "amazon": 1570,
+      "flipkart": 1850,
+      "ajio": 1430
+    },
+    "priceHistory": [
+      {
+        "date": "Oct",
+        "price": 2000
+      },
+      {
+        "date": "Nov",
+        "price": 1930
+      },
+      {
+        "date": "Dec",
+        "price": 1680
+      },
+      {
+        "date": "Jan",
+        "price": 1650
+      },
+      {
+        "date": "Feb",
+        "price": 1650
+      },
+      {
+        "date": "Mar",
+        "price": 1650
+      }
+    ]
+  },
+  {
+    "id": "152",
+    "name": "Wool Blend Scarf",
+    "brand": "GAP",
+    "color": "Navy",
+    "sizes": [
+      "One Size"
+    ],
+    "image": "https://images.unsplash.com/photo-1590736969955-71cc94901144?w=400&h=500&fit=crop",
+    "category": "Accessories",
+    "gender": "Men",
+    "rating": 3.8,
+    "reviews": 1677,
+    "prices": {
+      "myntra": 1050,
+      "amazon": 1190,
+      "flipkart": 1460,
+      "ajio": 1330
+    },
+    "priceHistory": [
+      {
+        "date": "Oct",
+        "price": 1550
+      },
+      {
+        "date": "Nov",
+        "price": 1360
+      },
+      {
+        "date": "Dec",
+        "price": 1250
+      },
+      {
+        "date": "Jan",
+        "price": 1250
+      },
+      {
+        "date": "Feb",
+        "price": 1250
+      },
+      {
+        "date": "Mar",
+        "price": 1250
+      }
+    ]
+  },
+  {
+    "id": "153",
+    "name": "Woven Bucket Hat",
+    "brand": "Zara",
+    "color": "Beige",
+    "sizes": [
+      "One Size"
+    ],
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=400&h=500&fit=crop",
+    "category": "Accessories",
+    "gender": "Unisex",
+    "rating": 4,
+    "reviews": 123,
+    "prices": {
+      "myntra": 1640,
+      "amazon": 1450,
+      "flipkart": 1740,
+      "ajio": 1360
+    },
+    "priceHistory": [
+      {
+        "date": "Oct",
+        "price": 2500
+      },
+      {
+        "date": "Nov",
+        "price": 2450
+      },
+      {
+        "date": "Dec",
+        "price": 2210
+      },
+      {
+        "date": "Jan",
+        "price": 2150
+      },
+      {
+        "date": "Feb",
+        "price": 2050
+      },
+      {
+        "date": "Mar",
+        "price": 1800
+      }
+    ]
+  },
+  {
+    "id": "154",
+    "name": "Hair Claw Clip Set",
+    "brand": "H&M",
+    "color": "Multicolor",
+    "sizes": [
+      "One Size"
+    ],
+    "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=400&h=500&fit=crop",
+    "category": "Accessories",
+    "gender": "Women",
+    "rating": 4.4,
+    "reviews": 1445,
+    "prices": {
+      "myntra": 460,
+      "amazon": 620,
+      "flipkart": 170,
+      "ajio": 290
+    },
+    "priceHistory": [
+      {
+        "date": "Oct",
+        "price": 1170
+      },
+      {
+        "date": "Nov",
+        "price": 1110
+      },
+      {
+        "date": "Dec",
+        "price": 1060
+      },
+      {
+        "date": "Jan",
+        "price": 910
+      },
+      {
+        "date": "Feb",
+        "price": 690
+      },
+      {
+        "date": "Mar",
+        "price": 420
+      }
+    ]
+  }
+]

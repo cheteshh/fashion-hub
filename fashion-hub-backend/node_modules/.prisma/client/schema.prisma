@@ -1,0 +1,105 @@
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+model User {
+  id        String   @id @default(uuid())
+  email     String   @unique
+  name      String?
+  password  String
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  wishlistItems WishlistItem[]
+  priceAlerts   PriceAlert[]
+
+  @@map("users")
+}
+
+model Product {
+  id                  String   @id @default(uuid())
+  unifiedTitle        String
+  unifiedBrand        String
+  category            String
+  gender              String   @default("Unisex")
+  color               String   @default("")
+  primaryImageUrl     String
+  globalAverageRating Float    @default(0.0)
+  totalReviews        Int      @default(0)
+  productHash         String   @unique
+  basePrice           Float    @default(0)
+  tags                String[]
+  createdAt           DateTime @default(now())
+  updatedAt           DateTime @updatedAt
+
+  platforms     PlatformListing[]
+  wishlistItems WishlistItem[]
+  priceAlerts   PriceAlert[]
+
+  @@map("products")
+}
+
+model PlatformListing {
+  id                      String   @id @default(uuid())
+  productId               String
+  platformDomain          String
+  sourceUrl               String
+  platformSku             String?
+  currentPrice            Float
+  originalPrice           Float?
+  lowestEverPrice         Float?
+  customPlatformRating    Float    @default(0.0)
+  platformReviews         Int      @default(0)
+  inStock                 Boolean  @default(true)
+  lastSuccessfullyScraped DateTime @default(now())
+
+  product      Product        @relation(fields: [productId], references: [id], onDelete: Cascade)
+  priceHistory PriceHistory[]
+
+  @@unique([productId, platformDomain])
+  @@map("platform_listings")
+}
+
+model PriceHistory {
+  id            String   @id @default(uuid())
+  listingId     String
+  priceRecorded Float
+  timestamp     DateTime @default(now())
+
+  listing PlatformListing @relation(fields: [listingId], references: [id], onDelete: Cascade)
+
+  @@map("price_history")
+}
+
+model WishlistItem {
+  id        String   @id @default(uuid())
+  userId    String
+  productId String
+  createdAt DateTime @default(now())
+
+  user    User    @relation(fields: [userId], references: [id], onDelete: Cascade)
+  product Product @relation(fields: [productId], references: [id], onDelete: Cascade)
+
+  @@unique([userId, productId])
+  @@map("wishlist_items")
+}
+
+model PriceAlert {
+  id          String   @id @default(uuid())
+  userId      String
+  productId   String
+  targetPrice Float
+  email       String
+  triggered   Boolean  @default(false)
+  createdAt   DateTime @default(now())
+
+  user    User    @relation(fields: [userId], references: [id], onDelete: Cascade)
+  product Product @relation(fields: [productId], references: [id], onDelete: Cascade)
+
+  @@map("price_alerts")
+}

@@ -11,7 +11,7 @@ const express = require("express");
 const cors = require("cors");
 const productRoutes = require("./routes/productRoutes");
 const simpleRoutes = require("./routes/simpleRoutes");
-const { loadProducts } = require("./data/productStore");
+// const { loadProducts } = require("./data/productStore"); // Replaced by requiring whole store below
 
 const app = express();
 const PORT = process.env.PORT || 4000;
@@ -72,7 +72,9 @@ app.use((err, _req, res, _next) => {
 // ── Bootstrap ───────────────────────────────────────────────
 function start() {
   try {
-    loadProducts(); // hydrate in-memory store from products.json
+    const store = require("./data/productStore");
+    store.loadProducts(); // hydrate in-memory store from products.json
+    store.startPriceTracker(); // boot up 6-hour cron simulator
 
     app.listen(PORT, () => {
       console.log(`

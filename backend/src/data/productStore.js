@@ -9,6 +9,7 @@ const path = require("path");
 
 let products = [];
 let alerts = [];
+let price_history = []; // Simulated database table: id, product_id, platform, price, timestamp
 
 // ── Price History Generator ───────────────────────────────────
 function generatePriceHistory(basePrice, days = 180) {
@@ -59,6 +60,51 @@ function loadProducts() {
   });
 
   console.log(`📦 Loaded ${products.length} products with price history`);
+
+  // Initialize the price_history table from the generated data
+  for (const product of products) {
+    for (const platform of product.platforms) {
+      if (platform.priceHistory) {
+        for (const historyEntry of platform.priceHistory) {
+          price_history.push({
+            id: historyEntry.id,
+            product_id: product.id,
+            platform: platform.platformDomain,
+            price: historyEntry.priceRecorded,
+            timestamp: historyEntry.timestamp
+          });
+        }
+      }
+    }
+  }
+}
+
+// ── Price Tracking Interval (Every 6 Hours) ───────────────────
+function startPriceTracker() {
+  const SIX_HOURS = 6 * 60 * 60 * 1000;
+  
+  setInterval(() => {
+    console.log("⏱️ Running scheduled 6-hour price update...");
+    const now = new Date().toISOString();
+    
+    // Simulate updating prices for each product listing
+    products.forEach((product) => {
+      product.platforms.forEach((platform) => {
+        // Randomly simulate a slight price drift
+        const drift = Math.floor(Math.random() * 101) - 20; // -20 to +80
+        platform.currentPrice = Math.max(100, platform.currentPrice + drift);
+        
+        // Insert into price_history table
+        price_history.push({
+          id: `ph_${Date.now()}_${Math.random().toString(36).slice(2, 7)}`,
+          product_id: product.id,
+          platform: platform.platformDomain,
+          price: platform.currentPrice,
+          timestamp: now
+        });
+      });
+    });
+  }, SIX_HOURS);
 }
 
 // ── Getters ───────────────────────────────────────────────────
@@ -86,10 +132,16 @@ function getAlerts() {
   return alerts;
 }
 
+function getPriceHistoryData(productId) {
+  return price_history.filter(entry => entry.product_id === productId);
+}
+
 module.exports = {
   loadProducts,
   getAllProducts,
   getProductById,
   addAlert,
   getAlerts,
+  getPriceHistoryData,
+  startPriceTracker,
 };

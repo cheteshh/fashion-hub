@@ -1,0 +1,560 @@
+[
+  {
+    "id": "nike-af1-white",
+    "unifiedTitle": "Nike Air Force 1 '07",
+    "unifiedBrand": "Nike",
+    "category": "Sneakers",
+    "gender": "Unisex",
+    "color": "White",
+    "primaryImageUrl": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=800&h=1000&fit=crop",
+    "globalAverageRating": 4.9,
+    "totalReviews": 89320,
+    "basePrice": 7999,
+    "tags": ["Sneakers", "Nike", "Classic", "White"],
+    "platforms": [
+      { "id": "p1-1", "platformDomain": "myntra", "sourceUrl": "https://www.myntra.com/nike-air-force-1", "currentPrice": 7999, "originalPrice": 9499, "lowestEverPrice": 7199, "customPlatformRating": 4.8, "platformReviews": 34200, "inStock": true },
+      { "id": "p1-2", "platformDomain": "amazon", "sourceUrl": "https://www.amazon.in/s?k=nike+air+force+1", "currentPrice": 8299, "originalPrice": 9499, "lowestEverPrice": 7499, "customPlatformRating": 4.9, "platformReviews": 42100, "inStock": true },
+      { "id": "p1-3", "platformDomain": "flipkart", "sourceUrl": "https://www.flipkart.com/search?q=nike+air+force+1", "currentPrice": 8999, "originalPrice": 9499, "lowestEverPrice": 7999, "customPlatformRating": 4.7, "platformReviews": 12980, "inStock": true },
+      { "id": "p1-4", "platformDomain": "ajio", "sourceUrl": "https://www.ajio.com/search/?query=nike+air+force+1", "currentPrice": 7799, "originalPrice": 9499, "lowestEverPrice": 6999, "customPlatformRating": 4.6, "platformReviews": 8750, "inStock": true },
+      { "id": "p1-5", "platformDomain": "tatacliq", "sourceUrl": "https://www.tatacliq.com/search/?text=nike+air+force+1", "currentPrice": 8499, "originalPrice": 9499, "lowestEverPrice": 7699, "customPlatformRating": 4.5, "platformReviews": 3210, "inStock": false }
+    ]
+  },
+  {
+    "id": "adidas-ultraboost-22",
+    "unifiedTitle": "Adidas Ultraboost 22 Running Shoes",
+    "unifiedBrand": "Adidas",
+    "category": "Sneakers",
+    "gender": "Unisex",
+    "color": "Core Black",
+    "primaryImageUrl": "https://images.unsplash.com/photo-1584735175315-9d5df23be620?w=800&h=1000&fit=crop",
+    "globalAverageRating": 4.9,
+    "totalReviews": 45670,
+    "basePrice": 12999,
+    "tags": ["Sneakers", "Adidas", "Running", "Ultraboost"],
+    "platforms": [
+      { "id": "p2-1", "platformDomain": "myntra", "sourceUrl": "https://www.myntra.com/adidas-ultraboost", "currentPrice": 12999, "originalPrice": 15999, "lowestEverPrice": 10999, "customPlatformRating": 4.9, "platformReviews": 18900, "inStock": true },
+      { "id": "p2-2", "platformDomain": "amazon", "sourceUrl": "https://www.amazon.in/s?k=adidas+ultraboost+22", "currentPrice": 13499, "originalPrice": 15999, "lowestEverPrice": 11499, "customPlatformRating": 4.8, "platformReviews": 22100, "inStock": true },
+      { "id": "p2-3", "platformDomain": "ajio", "sourceUrl": "https://www.ajio.com/search/?query=adidas+ultraboost", "currentPrice": 12699, "originalPrice": 15999, "lowestEverPrice": 10999, "customPlatformRating": 4.7, "platformReviews": 4570, "inStock": true }
+    ]
+  },
+  {
+    "id": "levis-511-slim",
+    "unifiedTitle": "Levi's 511 Slim Fit Jeans",
+    "unifiedBrand": "Levi's",
+    "category": "Jeans",
+    "gender": "Men",
+    "color": "Dark Indigo",
+    "primaryImageUrl": "https://images.unsplash.com/photo-1542272604-787c3835535d?w=800&h=1000&fit=crop",
+    "globalAverageRating": 4.8,
+    "totalReviews": 48320,
+    "basePrice": 3499,
+    "tags": ["Jeans", "Levi's", "Slim Fit", "Denim"],
+    "platforms": [
+      { "id": "p3-1", "platformDomain": "myntra", "sourceUrl": "https://www.myntra.com/levis-511", "currentPrice": 3499, "originalPrice": 4499, "lowestEverPrice": 2799, "customPlatformRating": 4.8, "platformReviews": 18200, "inStock": true },
+      { "id": "p3-2", "platformDomain": "amazon", "sourceUrl": "https://www.amazon.in/s?k=levis+511", "currentPrice": 3299, "originalPrice": 4499, "lowestEverPrice": 2999, "customPlatformRating": 4.7, "platformReviews": 22100, "inStock": true },
+      { "id": "p3-3", "platformDomain": "flipkart", "sourceUrl": "https://www.flipkart.com/search?q=levis+511", "currentPrice": 3799, "originalPrice": 4499, "lowestEverPrice": 3199, "customPlatformRating": 4.6, "platformReviews": 8780, "inStock": true },
+      { "id": "p3-4", "platformDomain": "ajio", "sourceUrl": "https://www.ajio.com/search/?query=levis+511+jeans", "currentPrice": 3199, "originalPrice": 4499, "lowestEverPrice": 2699, "customPlatformRating": 4.5, "platformReviews": 5430, "inStock": true }
+    ]
+  },
+  {
+    "id": "nike-air-max-270",
+    "unifiedTitle": "Nike Air Max 270",
+    "unifiedBrand": "Nike",
+    "category": "Sneakers",
+    "gender": "Unisex",
+    "color": "Black/Anthracite",
+    "primaryImageUrl": "https://images.unsplash.com/photo-1600185365926-3a2ce3cdb9eb?w=800&h=1000&fit=crop",
+    "globalAverageRating": 4.8,
+    "totalReviews": 56780,
+    "basePrice": 8999,
+    "tags": ["Sneakers", "Nike", "Air Max"],
+    "platforms": [
+      { "id": "p4-1", "platformDomain": "myntra", "sourceUrl": "https://www.myntra.com/nike-air-max-270", "currentPrice": 8999, "originalPrice": 11999, "lowestEverPrice": 7999, "customPlatformRating": 4.8, "platformReviews": 21300, "inStock": true },
+      { "id": "p4-2", "platformDomain": "amazon", "sourceUrl": "https://www.amazon.in/s?k=nike+air+max+270", "currentPrice": 9499, "originalPrice": 11999, "lowestEverPrice": 8499, "customPlatformRating": 4.7, "platformReviews": 28400, "inStock": true },
+      { "id": "p4-3", "platformDomain": "flipkart", "sourceUrl": "https://www.flipkart.com/search?q=nike+air+max+270", "currentPrice": 9299, "originalPrice": 11999, "lowestEverPrice": 8199, "customPlatformRating": 4.6, "platformReviews": 7080, "inStock": true }
+    ]
+  },
+  {
+    "id": "adidas-stan-smith",
+    "unifiedTitle": "Adidas Stan Smith Sneakers",
+    "unifiedBrand": "Adidas",
+    "category": "Sneakers",
+    "gender": "Unisex",
+    "color": "White/Green",
+    "primaryImageUrl": "https://images.unsplash.com/photo-1491553895911-0055eca6402d?w=800&h=1000&fit=crop",
+    "globalAverageRating": 4.8,
+    "totalReviews": 72100,
+    "basePrice": 6999,
+    "tags": ["Sneakers", "Adidas", "Classic", "Stan Smith"],
+    "platforms": [
+      { "id": "p5-1", "platformDomain": "myntra", "sourceUrl": "https://www.myntra.com/adidas-stan-smith", "currentPrice": 6999, "originalPrice": 8499, "lowestEverPrice": 5999, "customPlatformRating": 4.8, "platformReviews": 32100, "inStock": true },
+      { "id": "p5-2", "platformDomain": "amazon", "sourceUrl": "https://www.amazon.in/s?k=adidas+stan+smith", "currentPrice": 7299, "originalPrice": 8499, "lowestEverPrice": 6299, "customPlatformRating": 4.9, "platformReviews": 28900, "inStock": true },
+      { "id": "p5-3", "platformDomain": "flipkart", "sourceUrl": "https://www.flipkart.com/search?q=adidas+stan+smith", "currentPrice": 6799, "originalPrice": 8499, "lowestEverPrice": 5799, "customPlatformRating": 4.7, "platformReviews": 11100, "inStock": true }
+    ]
+  },
+  {
+    "id": "puma-rs-x",
+    "unifiedTitle": "Puma RS-X Sneakers",
+    "unifiedBrand": "Puma",
+    "category": "Sneakers",
+    "gender": "Unisex",
+    "color": "White/Royal Blue",
+    "primaryImageUrl": "https://images.unsplash.com/photo-1595950653106-6c9ebd614d3a?w=800&h=1000&fit=crop",
+    "globalAverageRating": 4.5,
+    "totalReviews": 18760,
+    "basePrice": 4999,
+    "tags": ["Sneakers", "Puma", "RS-X", "Retro"],
+    "platforms": [
+      { "id": "p6-1", "platformDomain": "myntra", "sourceUrl": "https://www.myntra.com/puma-rs-x", "currentPrice": 4999, "originalPrice": 6999, "lowestEverPrice": 3999, "customPlatformRating": 4.5, "platformReviews": 8200, "inStock": true },
+      { "id": "p6-2", "platformDomain": "flipkart", "sourceUrl": "https://www.flipkart.com/search?q=puma+rs-x", "currentPrice": 5299, "originalPrice": 6999, "lowestEverPrice": 4199, "customPlatformRating": 4.4, "platformReviews": 6100, "inStock": true },
+      { "id": "p6-3", "platformDomain": "ajio", "sourceUrl": "https://www.ajio.com/search/?query=puma+rs-x", "currentPrice": 4799, "originalPrice": 6999, "lowestEverPrice": 3799, "customPlatformRating": 4.3, "platformReviews": 4460, "inStock": true }
+    ]
+  },
+  {
+    "id": "new-balance-574",
+    "unifiedTitle": "New Balance 574 Core Sneakers",
+    "unifiedBrand": "New Balance",
+    "category": "Sneakers",
+    "gender": "Men",
+    "color": "Grey",
+    "primaryImageUrl": "https://images.unsplash.com/photo-1539185441755-769473a23570?w=800&h=1000&fit=crop",
+    "globalAverageRating": 4.7,
+    "totalReviews": 29450,
+    "basePrice": 6499,
+    "tags": ["Sneakers", "New Balance", "574", "Classic"],
+    "platforms": [
+      { "id": "p7-1", "platformDomain": "myntra", "sourceUrl": "https://www.myntra.com/new-balance-574", "currentPrice": 6499, "originalPrice": 7999, "lowestEverPrice": 5499, "customPlatformRating": 4.7, "platformReviews": 12100, "inStock": true },
+      { "id": "p7-2", "platformDomain": "amazon", "sourceUrl": "https://www.amazon.in/s?k=new+balance+574", "currentPrice": 6799, "originalPrice": 7999, "lowestEverPrice": 5799, "customPlatformRating": 4.6, "platformReviews": 9800, "inStock": true },
+      { "id": "p7-3", "platformDomain": "flipkart", "sourceUrl": "https://www.flipkart.com/search?q=new+balance+574", "currentPrice": 6299, "originalPrice": 7999, "lowestEverPrice": 5299, "customPlatformRating": 4.8, "platformReviews": 7550, "inStock": false }
+    ]
+  },
+  {
+    "id": "nike-dri-fit-tee",
+    "unifiedTitle": "Nike Dri-FIT Training T-Shirt",
+    "unifiedBrand": "Nike",
+    "category": "T-Shirts",
+    "gender": "Men",
+    "color": "Black",
+    "primaryImageUrl": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=800&h=1000&fit=crop",
+    "globalAverageRating": 4.5,
+    "totalReviews": 12840,
+    "basePrice": 1499,
+    "tags": ["T-Shirts", "Nike", "Dri-FIT", "Training"],
+    "platforms": [
+      { "id": "p8-1", "platformDomain": "myntra", "sourceUrl": "https://www.myntra.com/nike-dri-fit-tee", "currentPrice": 1499, "originalPrice": 1999, "lowestEverPrice": 1199, "customPlatformRating": 4.5, "platformReviews": 5400, "inStock": true },
+      { "id": "p8-2", "platformDomain": "amazon", "sourceUrl": "https://www.amazon.in/s?k=nike+dri-fit+t-shirt", "currentPrice": 1599, "originalPrice": 1999, "lowestEverPrice": 1299, "customPlatformRating": 4.4, "platformReviews": 4200, "inStock": true },
+      { "id": "p8-3", "platformDomain": "flipkart", "sourceUrl": "https://www.flipkart.com/search?q=nike+dri-fit+t-shirt", "currentPrice": 1399, "originalPrice": 1999, "lowestEverPrice": 1099, "customPlatformRating": 4.6, "platformReviews": 3240, "inStock": true }
+    ]
+  },
+  {
+    "id": "adidas-essentials-tee",
+    "unifiedTitle": "Adidas Essentials 3-Stripes T-Shirt",
+    "unifiedBrand": "Adidas",
+    "category": "T-Shirts",
+    "gender": "Men",
+    "color": "White",
+    "primaryImageUrl": "https://images.unsplash.com/photo-1503341504253-dff4815485f1?w=800&h=1000&fit=crop",
+    "globalAverageRating": 4.3,
+    "totalReviews": 8750,
+    "basePrice": 1299,
+    "tags": ["T-Shirts", "Adidas", "Essentials"],
+    "platforms": [
+      { "id": "p9-1", "platformDomain": "myntra", "sourceUrl": "https://www.myntra.com/adidas-essentials-tee", "currentPrice": 1299, "originalPrice": 1799, "lowestEverPrice": 999, "customPlatformRating": 4.3, "platformReviews": 3200, "inStock": true },
+      { "id": "p9-2", "platformDomain": "ajio", "sourceUrl": "https://www.ajio.com/search/?query=adidas+essentials+tshirt", "currentPrice": 1199, "originalPrice": 1799, "lowestEverPrice": 899, "customPlatformRating": 4.2, "platformReviews": 2800, "inStock": true },
+      { "id": "p9-3", "platformDomain": "tatacliq", "sourceUrl": "https://www.tatacliq.com/search/?text=adidas+essentials+tshirt", "currentPrice": 1349, "originalPrice": 1799, "lowestEverPrice": 1049, "customPlatformRating": 4.4, "platformReviews": 1340, "inStock": true }
+    ]
+  },
+  {
+    "id": "hm-slim-fit-tee",
+    "unifiedTitle": "H&M Slim Fit Cotton Crew Neck T-Shirt",
+    "unifiedBrand": "H&M",
+    "category": "T-Shirts",
+    "gender": "Men",
+    "color": "White",
+    "primaryImageUrl": "https://images.unsplash.com/photo-1627225924765-552d49cf47ad?w=800&h=1000&fit=crop",
+    "globalAverageRating": 4.1,
+    "totalReviews": 22100,
+    "basePrice": 599,
+    "tags": ["T-Shirts", "H&M", "Slim Fit", "Cotton"],
+    "platforms": [
+      { "id": "p10-1", "platformDomain": "myntra", "sourceUrl": "https://www.myntra.com/hm-slim-fit-tshirt", "currentPrice": 599, "originalPrice": 999, "lowestEverPrice": 399, "customPlatformRating": 4.1, "platformReviews": 12300, "inStock": true },
+      { "id": "p10-2", "platformDomain": "ajio", "sourceUrl": "https://www.ajio.com/search/?query=hm+slim+fit+tshirt", "currentPrice": 649, "originalPrice": 999, "lowestEverPrice": 449, "customPlatformRating": 4.0, "platformReviews": 6800, "inStock": true }
+    ]
+  },
+  {
+    "id": "levis-501-original",
+    "unifiedTitle": "Levi's 501 Original Straight Jeans",
+    "unifiedBrand": "Levi's",
+    "category": "Jeans",
+    "gender": "Men",
+    "color": "Medium Blue",
+    "primaryImageUrl": "https://images.unsplash.com/photo-1475178626620-a4d074967452?w=800&h=1000&fit=crop",
+    "globalAverageRating": 4.9,
+    "totalReviews": 62100,
+    "basePrice": 3999,
+    "tags": ["Jeans", "Levi's", "501", "Original", "Straight"],
+    "platforms": [
+      { "id": "p11-1", "platformDomain": "myntra", "sourceUrl": "https://www.myntra.com/levis-501", "currentPrice": 3999, "originalPrice": 4999, "lowestEverPrice": 3199, "customPlatformRating": 4.9, "platformReviews": 24300, "inStock": true },
+      { "id": "p11-2", "platformDomain": "amazon", "sourceUrl": "https://www.amazon.in/s?k=levis+501+original", "currentPrice": 3799, "originalPrice": 4999, "lowestEverPrice": 2999, "customPlatformRating": 4.8, "platformReviews": 28100, "inStock": true },
+      { "id": "p11-3", "platformDomain": "flipkart", "sourceUrl": "https://www.flipkart.com/search?q=levis+501", "currentPrice": 4199, "originalPrice": 4999, "lowestEverPrice": 3399, "customPlatformRating": 4.7, "platformReviews": 9700, "inStock": true }
+    ]
+  },
+  {
+    "id": "nike-club-hoodie",
+    "unifiedTitle": "Nike Club Fleece Pullover Hoodie",
+    "unifiedBrand": "Nike",
+    "category": "Hoodies",
+    "gender": "Men",
+    "color": "Black",
+    "primaryImageUrl": "https://images.unsplash.com/photo-1556821840-3a63f95609a7?w=800&h=1000&fit=crop",
+    "globalAverageRating": 4.7,
+    "totalReviews": 19320,
+    "basePrice": 3499,
+    "tags": ["Hoodies", "Nike", "Fleece", "Club"],
+    "platforms": [
+      { "id": "p12-1", "platformDomain": "myntra", "sourceUrl": "https://www.myntra.com/nike-club-hoodie", "currentPrice": 3499, "originalPrice": 4299, "lowestEverPrice": 2999, "customPlatformRating": 4.7, "platformReviews": 8200, "inStock": true },
+      { "id": "p12-2", "platformDomain": "flipkart", "sourceUrl": "https://www.flipkart.com/search?q=nike+club+hoodie", "currentPrice": 3699, "originalPrice": 4299, "lowestEverPrice": 3199, "customPlatformRating": 4.6, "platformReviews": 5400, "inStock": true },
+      { "id": "p12-3", "platformDomain": "amazon", "sourceUrl": "https://www.amazon.in/s?k=nike+club+fleece+hoodie", "currentPrice": 3299, "originalPrice": 4299, "lowestEverPrice": 2899, "customPlatformRating": 4.8, "platformReviews": 12300, "inStock": false }
+    ]
+  },
+  {
+    "id": "zara-floral-dress",
+    "unifiedTitle": "Zara Floral Print Midi Dress",
+    "unifiedBrand": "Zara",
+    "category": "Dresses",
+    "gender": "Women",
+    "color": "Red Floral",
+    "primaryImageUrl": "https://images.unsplash.com/photo-1572804013309-59a88b7e92f1?w=800&h=1000&fit=crop",
+    "globalAverageRating": 4.6,
+    "totalReviews": 14320,
+    "basePrice": 2399,
+    "tags": ["Dresses", "Zara", "Floral", "Midi"],
+    "platforms": [
+      { "id": "p13-1", "platformDomain": "myntra", "sourceUrl": "https://www.myntra.com/zara-floral-dress", "currentPrice": 2399, "originalPrice": 3499, "lowestEverPrice": 1999, "customPlatformRating": 4.6, "platformReviews": 5600, "inStock": true },
+      { "id": "p13-2", "platformDomain": "tatacliq", "sourceUrl": "https://www.tatacliq.com/search/?text=zara+floral+dress", "currentPrice": 2599, "originalPrice": 3499, "lowestEverPrice": 2199, "customPlatformRating": 4.5, "platformReviews": 2340, "inStock": true },
+      { "id": "p13-3", "platformDomain": "ajio", "sourceUrl": "https://www.ajio.com/search/?query=zara+floral+dress", "currentPrice": 2299, "originalPrice": 3499, "lowestEverPrice": 1899, "customPlatformRating": 4.7, "platformReviews": 4120, "inStock": true }
+    ]
+  },
+  {
+    "id": "levis-trucker-jacket",
+    "unifiedTitle": "Levi's Classic Trucker Denim Jacket",
+    "unifiedBrand": "Levi's",
+    "category": "Jackets",
+    "gender": "Men",
+    "color": "Medium Wash",
+    "primaryImageUrl": "https://images.unsplash.com/photo-1551028719-00167b16eac5?w=800&h=1000&fit=crop",
+    "globalAverageRating": 4.7,
+    "totalReviews": 18920,
+    "basePrice": 3599,
+    "tags": ["Jackets", "Levi's", "Denim", "Trucker"],
+    "platforms": [
+      { "id": "p14-1", "platformDomain": "myntra", "sourceUrl": "https://www.myntra.com/levis-trucker-jacket", "currentPrice": 3599, "originalPrice": 4999, "lowestEverPrice": 2999, "customPlatformRating": 4.7, "platformReviews": 8900, "inStock": true },
+      { "id": "p14-2", "platformDomain": "ajio", "sourceUrl": "https://www.ajio.com/search/?query=levis+denim+jacket", "currentPrice": 3399, "originalPrice": 4999, "lowestEverPrice": 2799, "customPlatformRating": 4.6, "platformReviews": 5600, "inStock": true },
+      { "id": "p14-3", "platformDomain": "amazon", "sourceUrl": "https://www.amazon.in/s?k=levis+trucker+jacket", "currentPrice": 3799, "originalPrice": 4999, "lowestEverPrice": 3199, "customPlatformRating": 4.5, "platformReviews": 4420, "inStock": true }
+    ]
+  },
+  {
+    "id": "ralph-lauren-polo",
+    "unifiedTitle": "Ralph Lauren Classic Fit Polo T-Shirt",
+    "unifiedBrand": "Ralph Lauren",
+    "category": "T-Shirts",
+    "gender": "Men",
+    "color": "Navy",
+    "primaryImageUrl": "https://images.unsplash.com/photo-1625910513413-5fc830c70cb0?w=800&h=1000&fit=crop",
+    "globalAverageRating": 4.7,
+    "totalReviews": 3210,
+    "basePrice": 4199,
+    "tags": ["T-Shirts", "Ralph Lauren", "Polo", "Premium"],
+    "platforms": [
+      { "id": "p15-1", "platformDomain": "myntra", "sourceUrl": "https://www.myntra.com/ralph-lauren-polo", "currentPrice": 4199, "originalPrice": 5499, "lowestEverPrice": 3799, "customPlatformRating": 4.8, "platformReviews": 1200, "inStock": true },
+      { "id": "p15-2", "platformDomain": "amazon", "sourceUrl": "https://www.amazon.in/s?k=ralph+lauren+polo", "currentPrice": 4499, "originalPrice": 5499, "lowestEverPrice": 3999, "customPlatformRating": 4.7, "platformReviews": 1800, "inStock": true },
+      { "id": "p15-3", "platformDomain": "tatacliq", "sourceUrl": "https://www.tatacliq.com/search/?text=ralph+lauren+polo", "currentPrice": 3999, "originalPrice": 5499, "lowestEverPrice": 3599, "customPlatformRating": 4.9, "platformReviews": 450, "inStock": true }
+    ]
+  },
+  {
+    "id": "manyavar-kurta-set",
+    "unifiedTitle": "Manyavar Cotton Kurta Pajama Set",
+    "unifiedBrand": "Manyavar",
+    "category": "Ethnic",
+    "gender": "Men",
+    "color": "White",
+    "primaryImageUrl": "https://images.unsplash.com/photo-1617627143750-d86bc21e42bb?w=800&h=1000&fit=crop",
+    "globalAverageRating": 4.8,
+    "totalReviews": 28430,
+    "basePrice": 2999,
+    "tags": ["Ethnic", "Manyavar", "Kurta", "Traditional"],
+    "platforms": [
+      { "id": "p16-1", "platformDomain": "myntra", "sourceUrl": "https://www.myntra.com/manyavar-kurta", "currentPrice": 2999, "originalPrice": 3999, "lowestEverPrice": 2499, "customPlatformRating": 4.8, "platformReviews": 12400, "inStock": true },
+      { "id": "p16-2", "platformDomain": "ajio", "sourceUrl": "https://www.ajio.com/search/?query=manyavar+kurta", "currentPrice": 2799, "originalPrice": 3999, "lowestEverPrice": 2299, "customPlatformRating": 4.7, "platformReviews": 8900, "inStock": true },
+      { "id": "p16-3", "platformDomain": "flipkart", "sourceUrl": "https://www.flipkart.com/search?q=manyavar+kurta", "currentPrice": 3199, "originalPrice": 3999, "lowestEverPrice": 2599, "customPlatformRating": 4.6, "platformReviews": 7130, "inStock": true }
+    ]
+  },
+  {
+    "id": "w-embroidered-kurti",
+    "unifiedTitle": "W Cotton Embroidered Kurti",
+    "unifiedBrand": "W",
+    "category": "Ethnic",
+    "gender": "Women",
+    "color": "Navy Blue",
+    "primaryImageUrl": "https://images.unsplash.com/photo-1583391733956-6c78276477e2?w=800&h=1000&fit=crop",
+    "globalAverageRating": 4.5,
+    "totalReviews": 34560,
+    "basePrice": 899,
+    "tags": ["Ethnic", "W", "Kurti", "Embroidered"],
+    "platforms": [
+      { "id": "p17-1", "platformDomain": "myntra", "sourceUrl": "https://www.myntra.com/w-kurti", "currentPrice": 899, "originalPrice": 1299, "lowestEverPrice": 699, "customPlatformRating": 4.5, "platformReviews": 18200, "inStock": true },
+      { "id": "p17-2", "platformDomain": "ajio", "sourceUrl": "https://www.ajio.com/search/?query=w+kurti", "currentPrice": 849, "originalPrice": 1299, "lowestEverPrice": 649, "customPlatformRating": 4.4, "platformReviews": 9800, "inStock": true },
+      { "id": "p17-3", "platformDomain": "flipkart", "sourceUrl": "https://www.flipkart.com/search?q=w+kurti", "currentPrice": 949, "originalPrice": 1299, "lowestEverPrice": 749, "customPlatformRating": 4.6, "platformReviews": 6560, "inStock": true }
+    ]
+  },
+  {
+    "id": "hm-relaxed-hoodie",
+    "unifiedTitle": "H&M Relaxed Fit Hoodie",
+    "unifiedBrand": "H&M",
+    "category": "Hoodies",
+    "gender": "Men",
+    "color": "Beige",
+    "primaryImageUrl": "https://images.unsplash.com/photo-1509942774463-acf339cf87d5?w=800&h=1000&fit=crop",
+    "globalAverageRating": 4.2,
+    "totalReviews": 12300,
+    "basePrice": 1599,
+    "tags": ["Hoodies", "H&M", "Relaxed Fit"],
+    "platforms": [
+      { "id": "p18-1", "platformDomain": "myntra", "sourceUrl": "https://www.myntra.com/hm-hoodie", "currentPrice": 1599, "originalPrice": 2299, "lowestEverPrice": 1299, "customPlatformRating": 4.2, "platformReviews": 6200, "inStock": true },
+      { "id": "p18-2", "platformDomain": "ajio", "sourceUrl": "https://www.ajio.com/search/?query=hm+hoodie", "currentPrice": 1499, "originalPrice": 2299, "lowestEverPrice": 1199, "customPlatformRating": 4.1, "platformReviews": 3500, "inStock": true }
+    ]
+  },
+  {
+    "id": "adidas-tiro-track-jacket",
+    "unifiedTitle": "Adidas Tiro Track Jacket",
+    "unifiedBrand": "Adidas",
+    "category": "Jackets",
+    "gender": "Men",
+    "color": "Black",
+    "primaryImageUrl": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?w=800&h=1000&fit=crop",
+    "globalAverageRating": 4.5,
+    "totalReviews": 9870,
+    "basePrice": 2799,
+    "tags": ["Jackets", "Adidas", "Tiro", "Track"],
+    "platforms": [
+      { "id": "p19-1", "platformDomain": "myntra", "sourceUrl": "https://www.myntra.com/adidas-tiro-jacket", "currentPrice": 2799, "originalPrice": 3999, "lowestEverPrice": 2199, "customPlatformRating": 4.5, "platformReviews": 4320, "inStock": true },
+      { "id": "p19-2", "platformDomain": "amazon", "sourceUrl": "https://www.amazon.in/s?k=adidas+tiro+jacket", "currentPrice": 2999, "originalPrice": 3999, "lowestEverPrice": 2399, "customPlatformRating": 4.4, "platformReviews": 3200, "inStock": true },
+      { "id": "p19-3", "platformDomain": "flipkart", "sourceUrl": "https://www.flipkart.com/search?q=adidas+tiro+track+jacket", "currentPrice": 2699, "originalPrice": 3999, "lowestEverPrice": 2099, "customPlatformRating": 4.6, "platformReviews": 2350, "inStock": true }
+    ]
+  },
+  {
+    "id": "tommy-slim-bleecker",
+    "unifiedTitle": "Tommy Hilfiger Slim Bleecker Jeans",
+    "unifiedBrand": "Tommy Hilfiger",
+    "category": "Jeans",
+    "gender": "Men",
+    "color": "Dark Blue",
+    "primaryImageUrl": "https://images.unsplash.com/photo-1582552938357-32b906df40cb?w=800&h=1000&fit=crop",
+    "globalAverageRating": 4.6,
+    "totalReviews": 7230,
+    "basePrice": 4499,
+    "tags": ["Jeans", "Tommy Hilfiger", "Slim", "Premium"],
+    "platforms": [
+      { "id": "p20-1", "platformDomain": "myntra", "sourceUrl": "https://www.myntra.com/tommy-hilfiger-jeans", "currentPrice": 4499, "originalPrice": 5999, "lowestEverPrice": 3799, "customPlatformRating": 4.6, "platformReviews": 3100, "inStock": true },
+      { "id": "p20-2", "platformDomain": "amazon", "sourceUrl": "https://www.amazon.in/s?k=tommy+hilfiger+jeans", "currentPrice": 4799, "originalPrice": 5999, "lowestEverPrice": 3999, "customPlatformRating": 4.5, "platformReviews": 2800, "inStock": true },
+      { "id": "p20-3", "platformDomain": "tatacliq", "sourceUrl": "https://www.tatacliq.com/search/?text=tommy+hilfiger+jeans", "currentPrice": 4299, "originalPrice": 5999, "lowestEverPrice": 3599, "customPlatformRating": 4.7, "platformReviews": 1330, "inStock": true }
+    ]
+  },
+  {
+    "id": "nike-tech-fleece-jogger",
+    "unifiedTitle": "Nike Tech Fleece Jogger Pants",
+    "unifiedBrand": "Nike",
+    "category": "Pants",
+    "gender": "Men",
+    "color": "Black",
+    "primaryImageUrl": "https://images.unsplash.com/photo-1624378439575-d8705ad7ae80?w=800&h=1000&fit=crop",
+    "globalAverageRating": 4.7,
+    "totalReviews": 31240,
+    "basePrice": 4499,
+    "tags": ["Pants", "Nike", "Tech Fleece", "Joggers"],
+    "platforms": [
+      { "id": "p21-1", "platformDomain": "myntra", "sourceUrl": "https://www.myntra.com/nike-tech-fleece-jogger", "currentPrice": 4499, "originalPrice": 5999, "lowestEverPrice": 3799, "customPlatformRating": 4.7, "platformReviews": 13200, "inStock": true },
+      { "id": "p21-2", "platformDomain": "amazon", "sourceUrl": "https://www.amazon.in/s?k=nike+tech+fleece+jogger", "currentPrice": 4799, "originalPrice": 5999, "lowestEverPrice": 3999, "customPlatformRating": 4.6, "platformReviews": 11400, "inStock": true },
+      { "id": "p21-3", "platformDomain": "flipkart", "sourceUrl": "https://www.flipkart.com/search?q=nike+tech+fleece+jogger", "currentPrice": 4299, "originalPrice": 5999, "lowestEverPrice": 3599, "customPlatformRating": 4.8, "platformReviews": 6640, "inStock": true }
+    ]
+  },
+  {
+    "id": "zara-satin-slip-dress",
+    "unifiedTitle": "Zara Satin Slip Dress",
+    "unifiedBrand": "Zara",
+    "category": "Dresses",
+    "gender": "Women",
+    "color": "Champagne",
+    "primaryImageUrl": "https://images.unsplash.com/photo-1585487000160-6ebcfceb0d03?w=800&h=1000&fit=crop",
+    "globalAverageRating": 4.7,
+    "totalReviews": 9870,
+    "basePrice": 3499,
+    "tags": ["Dresses", "Zara", "Satin", "Slip"],
+    "platforms": [
+      { "id": "p22-1", "platformDomain": "myntra", "sourceUrl": "https://www.myntra.com/zara-satin-dress", "currentPrice": 3499, "originalPrice": 4999, "lowestEverPrice": 2799, "customPlatformRating": 4.7, "platformReviews": 4200, "inStock": true },
+      { "id": "p22-2", "platformDomain": "tatacliq", "sourceUrl": "https://www.tatacliq.com/search/?text=zara+satin+dress", "currentPrice": 3299, "originalPrice": 4999, "lowestEverPrice": 2599, "customPlatformRating": 4.6, "platformReviews": 2130, "inStock": true },
+      { "id": "p22-3", "platformDomain": "ajio", "sourceUrl": "https://www.ajio.com/search/?query=zara+satin+dress", "currentPrice": 3699, "originalPrice": 4999, "lowestEverPrice": 2999, "customPlatformRating": 4.8, "platformReviews": 3540, "inStock": true }
+    ]
+  },
+  {
+    "id": "biba-floral-kurta",
+    "unifiedTitle": "Biba Floral Print Kurta",
+    "unifiedBrand": "Biba",
+    "category": "Ethnic",
+    "gender": "Women",
+    "color": "Yellow",
+    "primaryImageUrl": "https://images.unsplash.com/photo-1610030469983-98e550d6193c?w=800&h=1000&fit=crop",
+    "globalAverageRating": 4.4,
+    "totalReviews": 22340,
+    "basePrice": 1299,
+    "tags": ["Ethnic", "Biba", "Kurta", "Floral"],
+    "platforms": [
+      { "id": "p23-1", "platformDomain": "myntra", "sourceUrl": "https://www.myntra.com/biba-kurta", "currentPrice": 1299, "originalPrice": 1999, "lowestEverPrice": 999, "customPlatformRating": 4.4, "platformReviews": 10200, "inStock": true },
+      { "id": "p23-2", "platformDomain": "flipkart", "sourceUrl": "https://www.flipkart.com/search?q=biba+kurta", "currentPrice": 1199, "originalPrice": 1999, "lowestEverPrice": 899, "customPlatformRating": 4.3, "platformReviews": 7800, "inStock": true },
+      { "id": "p23-3", "platformDomain": "ajio", "sourceUrl": "https://www.ajio.com/search/?query=biba+kurta", "currentPrice": 1349, "originalPrice": 1999, "lowestEverPrice": 1049, "customPlatformRating": 4.5, "platformReviews": 4340, "inStock": true }
+    ]
+  },
+  {
+    "id": "nike-windrunner-jacket",
+    "unifiedTitle": "Nike Windrunner Hooded Jacket",
+    "unifiedBrand": "Nike",
+    "category": "Jackets",
+    "gender": "Men",
+    "color": "Navy/White",
+    "primaryImageUrl": "https://images.unsplash.com/photo-1521223890158-f9f7c3d5d504?w=800&h=1000&fit=crop",
+    "globalAverageRating": 4.6,
+    "totalReviews": 12450,
+    "basePrice": 4499,
+    "tags": ["Jackets", "Nike", "Windrunner", "Windbreaker"],
+    "platforms": [
+      { "id": "p24-1", "platformDomain": "myntra", "sourceUrl": "https://www.myntra.com/nike-windrunner", "currentPrice": 4499, "originalPrice": 5999, "lowestEverPrice": 3799, "customPlatformRating": 4.6, "platformReviews": 5200, "inStock": true },
+      { "id": "p24-2", "platformDomain": "amazon", "sourceUrl": "https://www.amazon.in/s?k=nike+windrunner+jacket", "currentPrice": 4799, "originalPrice": 5999, "lowestEverPrice": 3999, "customPlatformRating": 4.5, "platformReviews": 4800, "inStock": true },
+      { "id": "p24-3", "platformDomain": "flipkart", "sourceUrl": "https://www.flipkart.com/search?q=nike+windrunner", "currentPrice": 4299, "originalPrice": 5999, "lowestEverPrice": 3599, "customPlatformRating": 4.7, "platformReviews": 2450, "inStock": true }
+    ]
+  },
+  {
+    "id": "adidas-classic-backpack",
+    "unifiedTitle": "Adidas Classic Backpack",
+    "unifiedBrand": "Adidas",
+    "category": "Accessories",
+    "gender": "Unisex",
+    "color": "Black",
+    "primaryImageUrl": "https://images.unsplash.com/photo-1548036328-c9fa89d128fa?w=800&h=1000&fit=crop",
+    "globalAverageRating": 4.6,
+    "totalReviews": 18760,
+    "basePrice": 2499,
+    "tags": ["Accessories", "Adidas", "Backpack"],
+    "platforms": [
+      { "id": "p25-1", "platformDomain": "myntra", "sourceUrl": "https://www.myntra.com/adidas-backpack", "currentPrice": 2499, "originalPrice": 3499, "lowestEverPrice": 1999, "customPlatformRating": 4.6, "platformReviews": 8200, "inStock": true },
+      { "id": "p25-2", "platformDomain": "amazon", "sourceUrl": "https://www.amazon.in/s?k=adidas+classic+backpack", "currentPrice": 2699, "originalPrice": 3499, "lowestEverPrice": 2199, "customPlatformRating": 4.5, "platformReviews": 6800, "inStock": true },
+      { "id": "p25-3", "platformDomain": "flipkart", "sourceUrl": "https://www.flipkart.com/search?q=adidas+backpack", "currentPrice": 2399, "originalPrice": 3499, "lowestEverPrice": 1899, "customPlatformRating": 4.7, "platformReviews": 3760, "inStock": true }
+    ]
+  },
+  {
+    "id": "zara-pleated-skirt",
+    "unifiedTitle": "Zara Pleated Mini Skirt",
+    "unifiedBrand": "Zara",
+    "category": "Skirts",
+    "gender": "Women",
+    "color": "Black",
+    "primaryImageUrl": "https://images.unsplash.com/photo-1594938298603-c8148c4bae73?w=800&h=1000&fit=crop",
+    "globalAverageRating": 4.5,
+    "totalReviews": 11230,
+    "basePrice": 2799,
+    "tags": ["Skirts", "Zara", "Pleated", "Mini"],
+    "platforms": [
+      { "id": "p26-1", "platformDomain": "myntra", "sourceUrl": "https://www.myntra.com/zara-skirt", "currentPrice": 2799, "originalPrice": 3999, "lowestEverPrice": 2199, "customPlatformRating": 4.5, "platformReviews": 5100, "inStock": true },
+      { "id": "p26-2", "platformDomain": "ajio", "sourceUrl": "https://www.ajio.com/search/?query=zara+pleated+skirt", "currentPrice": 2599, "originalPrice": 3999, "lowestEverPrice": 1999, "customPlatformRating": 4.4, "platformReviews": 3800, "inStock": true },
+      { "id": "p26-3", "platformDomain": "tatacliq", "sourceUrl": "https://www.tatacliq.com/search/?text=zara+skirt", "currentPrice": 2899, "originalPrice": 3999, "lowestEverPrice": 2299, "customPlatformRating": 4.6, "platformReviews": 2330, "inStock": true }
+    ]
+  },
+  {
+    "id": "nike-heritage-cap",
+    "unifiedTitle": "Nike Heritage 86 Cap",
+    "unifiedBrand": "Nike",
+    "category": "Accessories",
+    "gender": "Unisex",
+    "color": "Black",
+    "primaryImageUrl": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=800&h=1000&fit=crop",
+    "globalAverageRating": 4.5,
+    "totalReviews": 12340,
+    "basePrice": 1299,
+    "tags": ["Accessories", "Nike", "Cap", "Heritage"],
+    "platforms": [
+      { "id": "p27-1", "platformDomain": "myntra", "sourceUrl": "https://www.myntra.com/nike-cap", "currentPrice": 1299, "originalPrice": 1799, "lowestEverPrice": 999, "customPlatformRating": 4.5, "platformReviews": 5200, "inStock": true },
+      { "id": "p27-2", "platformDomain": "amazon", "sourceUrl": "https://www.amazon.in/s?k=nike+heritage+cap", "currentPrice": 1199, "originalPrice": 1799, "lowestEverPrice": 899, "customPlatformRating": 4.6, "platformReviews": 4340, "inStock": true },
+      { "id": "p27-3", "platformDomain": "flipkart", "sourceUrl": "https://www.flipkart.com/search?q=nike+heritage+cap", "currentPrice": 1399, "originalPrice": 1799, "lowestEverPrice": 1099, "customPlatformRating": 4.4, "platformReviews": 2800, "inStock": true }
+    ]
+  },
+  {
+    "id": "adidas-tiro-track-pants",
+    "unifiedTitle": "Adidas Tiro 23 Track Pants",
+    "unifiedBrand": "Adidas",
+    "category": "Pants",
+    "gender": "Men",
+    "color": "Black",
+    "primaryImageUrl": "https://images.unsplash.com/photo-1591195853828-11db59a44f6b?w=800&h=1000&fit=crop",
+    "globalAverageRating": 4.5,
+    "totalReviews": 22340,
+    "basePrice": 2499,
+    "tags": ["Pants", "Adidas", "Tiro", "Track Pants"],
+    "platforms": [
+      { "id": "p28-1", "platformDomain": "myntra", "sourceUrl": "https://www.myntra.com/adidas-tiro-pants", "currentPrice": 2499, "originalPrice": 3499, "lowestEverPrice": 1999, "customPlatformRating": 4.5, "platformReviews": 9800, "inStock": true },
+      { "id": "p28-2", "platformDomain": "amazon", "sourceUrl": "https://www.amazon.in/s?k=adidas+tiro+track+pants", "currentPrice": 2699, "originalPrice": 3499, "lowestEverPrice": 2199, "customPlatformRating": 4.4, "platformReviews": 8100, "inStock": true },
+      { "id": "p28-3", "platformDomain": "flipkart", "sourceUrl": "https://www.flipkart.com/search?q=adidas+tiro+track+pants", "currentPrice": 2399, "originalPrice": 3499, "lowestEverPrice": 1899, "customPlatformRating": 4.6, "platformReviews": 4440, "inStock": true }
+    ]
+  },
+  {
+    "id": "puma-essential-logo-tee",
+    "unifiedTitle": "Puma Essential Logo Tee",
+    "unifiedBrand": "Puma",
+    "category": "T-Shirts",
+    "gender": "Men",
+    "color": "Forest Green",
+    "primaryImageUrl": "https://images.unsplash.com/photo-1559582798-678dfc71ccd8?w=800&h=1000&fit=crop",
+    "globalAverageRating": 4.2,
+    "totalReviews": 5430,
+    "basePrice": 1199,
+    "tags": ["T-Shirts", "Puma", "Logo", "Essential"],
+    "platforms": [
+      { "id": "p29-1", "platformDomain": "myntra", "sourceUrl": "https://www.myntra.com/puma-essential-tee", "currentPrice": 1199, "originalPrice": 1799, "lowestEverPrice": 899, "customPlatformRating": 4.2, "platformReviews": 2300, "inStock": true },
+      { "id": "p29-2", "platformDomain": "flipkart", "sourceUrl": "https://www.flipkart.com/search?q=puma+essential+tshirt", "currentPrice": 1099, "originalPrice": 1799, "lowestEverPrice": 799, "customPlatformRating": 4.3, "platformReviews": 1800, "inStock": true },
+      { "id": "p29-3", "platformDomain": "ajio", "sourceUrl": "https://www.ajio.com/search/?query=puma+essential+tee", "currentPrice": 1249, "originalPrice": 1799, "lowestEverPrice": 949, "customPlatformRating": 4.1, "platformReviews": 1330, "inStock": true }
+    ]
+  },
+  {
+    "id": "levis-724-high-rise",
+    "unifiedTitle": "Levi's 724 High Rise Straight Jeans",
+    "unifiedBrand": "Levi's",
+    "category": "Jeans",
+    "gender": "Women",
+    "color": "Dark Stonewash",
+    "primaryImageUrl": "https://images.unsplash.com/photo-1604176354204-9268737828e4?w=800&h=1000&fit=crop",
+    "globalAverageRating": 4.7,
+    "totalReviews": 31450,
+    "basePrice": 3799,
+    "tags": ["Jeans", "Levi's", "724", "High Rise", "Women"],
+    "platforms": [
+      { "id": "p30-1", "platformDomain": "myntra", "sourceUrl": "https://www.myntra.com/levis-724-jeans", "currentPrice": 3799, "originalPrice": 4799, "lowestEverPrice": 3099, "customPlatformRating": 4.7, "platformReviews": 13200, "inStock": true },
+      { "id": "p30-2", "platformDomain": "amazon", "sourceUrl": "https://www.amazon.in/s?k=levis+724+high+rise+jeans", "currentPrice": 3599, "originalPrice": 4799, "lowestEverPrice": 2899, "customPlatformRating": 4.6, "platformReviews": 11300, "inStock": true },
+      { "id": "p30-3", "platformDomain": "ajio", "sourceUrl": "https://www.ajio.com/search/?query=levis+724+jeans", "currentPrice": 3899, "originalPrice": 4799, "lowestEverPrice": 3199, "customPlatformRating": 4.8, "platformReviews": 6950, "inStock": true }
+    ]
+  },
+  {
+    "id": "hm-jersey-wrap-dress",
+    "unifiedTitle": "H&M Jersey Wrap Midi Dress",
+    "unifiedBrand": "H&M",
+    "category": "Dresses",
+    "gender": "Women",
+    "color": "Black",
+    "primaryImageUrl": "https://images.unsplash.com/photo-1496747611176-843222e1e57c?w=800&h=1000&fit=crop",
+    "globalAverageRating": 4.3,
+    "totalReviews": 18430,
+    "basePrice": 1799,
+    "tags": ["Dresses", "H&M", "Wrap", "Jersey"],
+    "platforms": [
+      { "id": "p31-1", "platformDomain": "myntra", "sourceUrl": "https://www.myntra.com/hm-wrap-dress", "currentPrice": 1799, "originalPrice": 2799, "lowestEverPrice": 1399, "customPlatformRating": 4.3, "platformReviews": 9200, "inStock": true },
+      { "id": "p31-2", "platformDomain": "ajio", "sourceUrl": "https://www.ajio.com/search/?query=hm+wrap+dress", "currentPrice": 1699, "originalPrice": 2799, "lowestEverPrice": 1299, "customPlatformRating": 4.2, "platformReviews": 5800, "inStock": true }
+    ]
+  }
+]

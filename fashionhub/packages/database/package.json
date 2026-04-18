@@ -1,0 +1,21 @@
+{
+  "name": "@fashionhub/database",
+  "version": "1.0.0",
+  "main": "./src/index.ts",
+  "types": "./src/index.ts",
+  "scripts": {
+    "build": "tsc",
+    "lint": "eslint src/",
+    "db:generate": "prisma generate",
+    "db:push": "prisma db push"
+  },
+  "dependencies": {
+    "@prisma/client": "^5.10.0"
+  },
+  "devDependencies": {
+    "@faker-js/faker": "^10.4.0",
+    "@fashionhub/tsconfig": "workspace:*",
+    "prisma": "^5.10.0",
+    "typescript": "^5.4.0"
+  }
+}
